@@ -1,1 +1,3570 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _ghXyzQEbDoxQ = a; end)); return(function(f,...)local c;local a;local d;local r;local l;local t;local e=24915;local n=0;local o={};while n<214 do n=n+1;while n<0x1e5 and e%0x4532<0x2299 do n=n+1 e=(e-100)%32483 local m=n+e if(e%0x7dc)<0x3ee then e=(e+0x197)%0x28e5 while n<0x1f2 and e%0x3796<0x1bcb do n=n+1 e=(e*813)%25538 local d=n+e if(e%0x4324)<0x2192 then e=(e*0x1ba)%0x6488 local e=49461 if not o[e]then o[e]=0x1 c=string;end elseif e%2~=0 then e=(e*0xc7)%0x4ac6 local e=35589 if not o[e]then o[e]=0x1 end else e=(e+0x205)%0x1396 n=n+1 local e=61911 if not o[e]then o[e]=0x1 a={};end end end elseif e%2~=0 then e=(e-0x3f6)%0xa579 while n<0x324 and e%0x3b1a<0x1d8d do n=n+1 e=(e*106)%19957 local l=n+e if(e%0x4216)<=0x210b then e=(e*0xcd)%0x44b3 local e=92594 if not o[e]then o[e]=0x1 d=(not d)and _ENV or d;end elseif e%2~=0 then e=(e*0x73)%0x3f64 local e=61999 if not o[e]then o[e]=0x1 end else e=(e*0x158)%0x741a n=n+1 local e=30233 if not o[e]then o[e]=0x1 r=tonumber;end end end else e=(e+0x25b)%0xae16 n=n+1 while n<0x12d and e%0x4122<0x2091 do n=n+1 e=(e*981)%10576 local m=n+e if(e%0xaa6)>0x553 then e=(e*0x27d)%0x4af local e=96306 if not o[e]then o[e]=0x1 t="\4\8\116\111\110\117\109\98\101\114\75\84\107\105\89\98\77\117\0\6\115\116\114\105\110\103\4\99\104\97\114\83\108\120\97\122\97\104\65\0\6\115\116\114\105\110\103\3\115\117\98\90\71\113\86\102\84\103\121\0\6\115\116\114\105\110\103\4\98\121\116\101\102\85\83\103\122\108\117\120\0\5\116\97\98\108\101\6\99\111\110\99\97\116\108\120\75\97\77\71\97\122\0\5\116\97\98\108\101\6\105\110\115\101\114\116\105\79\77\85\120\79\111\85\5";end elseif e%2~=0 then e=(e*0x3f6)%0x5239 local e=67446 if not o[e]then o[e]=0x1 d=getfenv and getfenv();end else e=(e+0x293)%0x817c n=n+1 local e=84876 if not o[e]then o[e]=0x1 l=function(l)local e=0x01 local function o(n)e=e+n return l:sub(e-n,e-0x01)end while true do local n=o(0x01)if(n=="\5")then break end local e=c.byte(o(0x01))local e=o(e)if n=="\2"then e=a.KTkiYbMu(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(n,e)return f(8,nil,f,e,n)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][o(c.byte(o(0x01)))];end local n=o(0x08)a[n]=e end end end end end end end e=(e+918)%47047 end l(t);local n={};for e=0x0,0xff do local o=a.SlxazahA(e);n[e]=o;n[o]=e;end local function m(e)return n[e];end local c=(function(f,l)local t,o=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local c=f while true do n[0x03][a.ZGqVfTgy(l,e,(function()e=t+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""o=0x000 break end end local d=#l while e<d+0x01 do n[0x02][o]=a.ZGqVfTgy(l,e,(function()e=t+e return e-0x01 end)())o=o+0x01 if o%0x02==0x00 then o=0x00 a.iOMUxOoU(n[0x01],(m((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+c)%0x100)));c=f+c;end end return a.lxKaMGaz(n[0x01])end);l(c(194,"QlI65 rHLmt;7UO)56"));l(c(203,"gxtSz2A&1wWG?{)mS2&+xtz1&GW&)xDm)x&AG?)wtx2?1{?O)Gd?SmwtW2wt?1A1w=?S}SS1zSwwG)imxW2Gw)?cWW)S1SGW)At+2G1?wS??X{S{w2?1F2?zmmWx{&>WSA& w)&xf)S&&mWS{{-{221y1{{&xAzWA{2t1Gtw2twW?Sw2Sx2)wz{?bwxW2AwWWm42zS2mW&&WG&2S&WG))?xw2{&m?&)wxm2)1??tmSxGAAw?G{m)txf1zx)txtzG1xGz)pxWz12mG?m&x&21A1W{?GG)m1w?G)mzSSAxS&{G0wz=AAw{{Wx?S1&m1zGGttzz1x2;1&tG2ww/GA){tWAAwm{1mGzxA?wGG)W!{A&AW{{wxSz)&?Gw?zxGz?1zwA?wGGmtwzGGm&t221w)Gxm)S&AmWtGGxAz2C&z_{)_&zm&1zW)pxG2S11?EmzR?2mA??2m1x&zeS_"));local e=(-18872+(function()local d,n=0,1;(function(n,e)e(n(e,e and e),e(n,e))end)(function(o,e)if d>228 then return o end d=d+1 n=(n+677)%13685 if(n%678)>339 then n=(n-530)%16966 return e else return e(e(e,e),o(o,e))end return e(e(o,e),o(e,o and o))end,function(o,e)if d>433 then return e end d=d+1 n=(n+82)%12461 if(n%634)<317 then n=(n*978)%40004 return e(e(e,o)and e(o,e),e(o,e and e))else return e end return e end)return n;end)())local le=(getfenv)or(function()return _ENV end);local h=a.rvzhyoiW or a.x_qACubj;local t=4;local l=3;local d=2;local p=1;local function oe(b,...)local s=c(e,"8woe)vSmNc<OnW06entnwowNowo0o<e:eScwOoONOenS<0n6WNW60wmONON)N<c{Wcwww)w<weooo0ueomecem)<e60m6e6s6S6nvvmwm<mcNNc)Smcvc6eO)v)))<v2Onn0WwWvOSnmWhNecHNncocN6,wcwNIewOo0eNewewecWW0W0S0n6o)<SemoS0mvNNS6cSNWc0<)c6<))cvovovNv0<mWe0oWc0N0mNOc)c)c<<(0nwvw0o)oeoNnOW1WSWn0o0N00)Ne<few.pnwowNmocScecmcW<wO)N<OWnNvWSOSSSnmon)0W0m0O6n0S^NGeowweoSOWn<nSnnWoow)nv)v6S)eNSwScScmnwvec<vwwmW0<vSoeNe)OvTvSvnSoSNS0m)m<NecFNncocN00wSH6w)w6w6eSeweW)oWW0m0S0n6oeOSWmomNmvmcc4ovewo0e)e<cm<mONO0cOnSncnWWOmcNSNoNNN00cZW(v6wwwoOw<omeoo0We0oWn0o0N)oSSvOS0mcmnmeN<NecoNW<cec)I)o)N)0nNneneWwS6m<mNm0N)WW6vF<wHYOwSwvomOOw^veSe)k0<Sw<)oc6e6W6nYosNvoNSmOcmN6c<ccece0)))<v1vSvnvo<mmwmNm<NPNS6e6eIvEe<)<OOeWWOnnonNooen)evehSvovOS)Seo)NwmwNcencoc<cW<Nc6<eO<OwOSmNWvnWW0WNcSnc6w6m6n0m66XenSEo0vOOnvn)n<W^wO)<)e)<v<vcv0UeEO_nwowNcwc)NO<m<)eWmvmONwNmNWceoc<OmvNwm0N)N<0)60fvhvwewnwcoWeencWSWoWNW0omvovcSoSY)eSnmomcm0oeoconeoeNN)ce<yveSmvnSoSNnyWc0<0n06066e>nze7N6Wo)ovo0oeo6eeWm0m090S0nvwv6SSvnNeN<SmSwN)SncW<nNO)e)W)nvovNc6nWWmnXWm006SNOcvc)c<<z6wwwoOw<omeoo0WeW0Wn0o0NevvcS0)WmvNwNvmWw0o)oWeeeSen)oOSOenOvWScSSSnmon?0e0v6n.)6NHwuewnOwO0O<nTnSweem)new)cvnSSv6v6SmAOomw)w<o&mecO<w<Scw<c<W<6<cWAW)WwWnWO0WnN066J6S6Wsn0vw0o)oNO6WonNn0W)o6ve)Ov0eOSSS0mcm0SemON0cNcwcwcceW)S)S)nvoccWJnmn60v0cm6NcNNN0c)uw(vw<wewmoSe)nmnOWHWSWnov0O6m6)6<(HvWmON)Necwc)NOcecOe6)O)N)0v)cWnNnmW0WeWO6o0c6ncecWcn<o<N60o.wOecoOe0)vWO0e0)0<6qecSOS0mmNuwmw0oMoSonNv<wON<c)OvrvSvnSoSNS0NNO<NeNnNncocN0wwewSw6oN06no)0n0W)W<0t)60n6o6N66b)z<wGoNoooooNo0v6e<)3)Sv0STvNv0S)NWmQmSmn<N<eN0c)c<<S<S<WOoWeO0nNJ<WEWSWn0N0N066)60)yzSMnwow6w0ovo<eMWoen)o)N)6v)v<S&mNn6momNm0OoN<cHcScnew<N<0O)OOn*nNnnWo0cW00v0<696S60lo/No)w)wno:oSoneSeNS0)m)<vovSmNSoNoS0<)cwN*NNNnOScNc6<)W<OmOSO0noWmn00<W<w}6o0n6)6NE6+)o)w9oSSwoooco0)ce<)o)S)nO<vNSCS)S<mZmnmnOoNON0cSc<On<SnSOo0NWNn)nnWxQ<Wn0O0Nw06<6<Ro:Sw)woe6w0v)e)e.eNenSw)NvOv)N<mOSSS0moNOm0coN<<o<Scn<v<N0)O)O<n,0S)lWoWOW00m0<6)6SF0v<FNwow)o0oloSoneo)oe0)N)<vwvSv0SoNNS6m)m0NZN<NnnmcNO0O0<<O)OSnEno6Wn00S0i0E0O0n5<6N60r)wnoowSoooo)uo0e)e<)i)N)nvvvNS)S)SnmPNSnwNoN<N0nmc<<e<SOnonONO6n)0OWtWNWn6o%w006)6<feMS_Wwoo<eNo)o<e#S)en)o)N)0Sev<SbSSSWmom<m0N)cnc!cmcn<o<N<6O)O<WnnSn0WoWNW00<0<og6c6ng);No<w)e)oDvSn)eoe<e0vS)<S<vSNn0WSNmIm)c6NEOvNnno<Oc0<S<<nwOSWSno6NWmW)Wn0(6v0nw36No0y0;<wowSeWooewo0)))n)i)m)nvnvNSRS)m<NNmSmnNoOvN0cvc<Oo<6<nOoONWmn)n<W^6SS60o0N006)6<o<ISw0)0wNolo)vne:eSen)o)<)0v)v<SoSSS0mocN6oN)N<cVcScn<W<NnLwmO<nwnS0vWoWNW0()mW6X6m6nFe/NeNw)onvnoSo6eoSNe0)))<v+S6vnSeSNmwm)mnNk<Swncoccc0<v<<OoOSWnn6nNWDW)W<0ZKn0n6oeS60-S5<wowSw0ooe<cwe)eW)_v6)nvovNm06mS<memSm6NoOoN0<S0c<D<O<n0)ONO0n)n<WvWSW60o0W006S6<wown4nwSwNemo)o<eFvSvo)o)n)0vNv<N<SSm0mcmNN)N)N6ckcScn<oOS<0ONO<nSnSn0Wo0<0c0)066,d66nAoXNo0<mw<ovoSeweoSoe0vSNSvtvWvnN0SNS0m)m<NcNScwcoc6c0<S<<nowcOnnNnN0mW)W<01bSm66o6060b<#<e<wSo0v0oNeSe)vn)y)S)nvoS;v0S<S<mNmSm0NoN0nmc)<w<%O+<nOeONO6n)n<v0WSWn0o0c006)6<Bow<Gnw<wNoco)o<esenmv)ovw)0vvv<SwSSSWmomN2nN)N<czcNcn<o<NO)0WO<n<nSWeWoWcW00S0<6qN)6n^oyNI6w)w<oKoSO<eoeNe0)))<v+vSSocOSNmcm)m<N1NmNncmcNc0eo<<O*OSO6nonNn0W)SN0{0S0n6o6N60,):<c0wSwnooeUo0e)e<)RW))nvovNSvS)S<mrmS-<NoNNN0cWc<<K<SOo0OONn<n)WoWKWmWn0m0N00No6<>b2Sx6wowNw0o)ONe(eSen)o)N)0v)v<00SSSnmomcm0N)N<cho)cn<o<NOlO)O<n{nSv<WoWNW0000<6Z6ShoeO(NwOw)o-o_omonemeNe0Wo)<vdvSv6SoSNS0m)+NNMNSNncocNc0<)<<e0OSOnnoncn0W)W<0jm)0n6o6N,N=)7<wPwS<<oooNo0eSe<)&)Sv0vOvNSnS)Nwm-mSmn<ocmN0<oc<<0<SW)Oon<WXn)WcWfWWWn0o0N00qN6<T0ESI0wow<w0o<See^)ven)O)N)6v)vOS-SS6<momNm0coN<c>cSOneo<NO0O)O0nh06nn6o0cW06)0<uC6S,n o 0)mw)onodoconeeeNe6)))<W0vSvnSommS0m)m<NL0NNn<ocNO.<)<OODnNWwnoWNn06wW<0#0S6ooO6NL6p)wSw1wmwnoeoNo0noe<)4)SvNvovNv0S)NvmBNSmnN)NNN6c)O<Ok<SOnOoOnO0n<n<6&WmWn6o0N606)u<i2Tn)vwoo<w0oSo<eweSe0)o)NWnv)v<S2meSnmomNm0woN<ctcS<o<o<N<0O)o)nKWSnn0)WNW60)R<6N6S5n_o_W=0oTw<)*oWon)oeN)0))v<vRvNm}Som<S0mcm<NZNSNn6)cN<0<)OnOMOmOnW)W)n00)W<6c0S0n6owNmoB)w<w(oSwnv)oN)0<Ne<vM)SvnvoSev0N)W0mhNSmncoNNO6c)O<eV<SOnOonNO00)n<6z0<Wn6o0N606)t<#}bNoTwoo<w0oNo<efeSenWO)Nv0v)SnS4SmSnmoNvm0N)N<cwcScn<oOv<0O)O<ncnSnnWoWO0o0)0<6%S)Swm<mnwww6w<ouoSmecm<nNw<nOeOnO<n0nmWSmwmWm<N_NSn66<6cwDMv#Wo)wOo0nvWon0W)W<om)OS=)oS)v6mWS6NoNcw6oSoNo0e)<oOv<WOwvvSwv0S)S<OWWm0e6t6wKoUc60Av<cO)OoONO0>ne6eWem)<vwvwvo6m60ZVrSunm6mccoNnoWe0eSen)oN0OmnoO0<Sn6W00v0nnw0n6e6n6<cnW)<N<0O)nn6)nSnnWo04W00)0<w9a66nEoQN 0w)w6oToSeceoece0)v)<v9vSS0mnSNm>m)mONJNSNnco<<c0<m<<O_OSOnno0NWnW)WW0d0c0n6S6N60wWr<wewSw0ooono0eNm<)g)S)nNtvNv6S)S<NmmSNeNoNcN0c)c<<Sow<nONON0nn)nOW;WWWn0SoN006)6<o0/SCWwoeNcoo)ewe7enen)v)Nv)cSv<SmSSc<momcm0N)N<c)WScn<o<NWnO)OOnV0S)^WoW6W00<0<6e6SwncvdNwvw)owo^o6on))m)e0)W)<vmvSvnSoSNmwm)NwN;N6Nnc)cN<)6w<<OmOSWwnoncn0WvW<0)oS0n6o6Nwe/)HOwuw<vnoooNo0Soe<)w)Sv0OvvNSvS)SOmxmSmn<owNN0cnc<<S<S<6OoWNnwn)WoW7W0Wn0)0N00cS6<aN4SM0wooww0oNS<e2eSenS0)N)6v)v<mmSSmNmom<m0N)N<c+nWcn<6<NOcO)O<n=nSf<Wo0)W00S0<6o6Sqo)6}Nw<w)e<oMomoneeeN)oN))<v%vSmnSoScS0mNO<N+NSNnO0cNc6<)<<nmOSnNnonOn0W)W<0ASe0n666NVcy)k<wHwSo0ooe)o0eSe<)o)S)nSmvNSOS)S0m2mSmnNoc0N0<wc<<w<S<0OoONW<n)WSWj0oWn060Ns0606<XntSwNwow0w0o<)we:)oenSn)N)6v)v<SDS<<nmomNm0<0N<cwcS<I0o<N<0O)0SnTnmnnWo+6W00)0<6n6S6nbozN)vw)wOoZewoneoeN))v0)<vmvSmSSoScS0mSm<N)nSNncocNON<)<OO-OnWSnon<n0WnW<0w0S006o6ne0_)5<w1w0wnoeoNo0cOe<)w)S)0vovNv0S)ASmPmSmnNeNNN0c)c<<1<S<nOSONO0n)nWWwWSWn0o)g6w6O6<bY*SSommmOcocecnSoece6)o)N)0noO6WmScSWmomNm0WWN<cccScn<oO<nWO)O<n*nNnnWoWN606W0<6#6S6n:oaO#0w)eSotomoneoeNe0))S<vOvSvWSoScS0mvm<NCcSNnc)cNc0<)<<ODWSWvnon<n0WSW<0)0S0n6N6N60+)gnwKwSwnoo)So0e)e<)>)S)nvovN6<S)S<m4mmmnNoNNN0c)c<<IOv<nOoONnwWon<WpWSewvo)n)6SNv6)WmvNwNvmWS0cecWee)wen)o)NOOnen6WenOcW0o0<0e6m6Wcec0cn<o<N7)wcoSo6ocev)Svw0w0O0<6q6SSeSmmnmvmcNNcSoceSeoeNe0N<OenoOO<6nmW<0)Wc0nNeceNncocNGOwew6oewO0We)oWe<eceOve)O066N6N60a))ONomcNwcmcOewene<)7)ScnnwnOnmWNWeW60)m6coNNN0c)0owvwe>Wo%omomoNwne6)vvfeo)cS=SN6W.<_SAnwoSNc4NcN0ccccOM<OOmOnvmSwSlSSSnOm0SW60S6S6v6<c6<O<N<0O)6WoNome0eeeOvo)cvn6egV6n(oYNSoNSNeNmNWcw<)m<<WON)Wv0vSvnSo<0Wm0oW0nS0660+vjn0w1nwewnw<O6nOnNn0W)om)w)6v<emS0Semom0wg)ownoooN)Fmee<)d)SvqvovNv0S)mWm&mSmnNeNNcAc)O<Ox<S<nOoONO0nOn<6zWNWn0o0N006)#m1HoSo)wowNw0o)o<eOeS)ov0)N)0v)SoSRSmSnmemNNon)N<cEcS<)<o<c<0O)vSn#nSnnWeWNW00)0<!m6S6n4obN,0w)w<o9)NoneoeNe6)))nvXvn<cSoSNS0Nwm<NwNSNWcocnW0<)<<OtneOnnenNWow)W<0Q0Swm6o6c60o)m0wlwmwnoooNe<e))GNo)S)WvoNev0SvS<mAmSN{noNNN0c)nv<G<m<nWoonO0nvn<W WS0N0o*NNw6)6OqX!m:no5wNe_S o<eeeS)v)o)N)0v)S6S3SmSnmvmNN:N)ctWocScW<oWe<0OvO<ninSW.woWNW00)wv6P6m6noomn20wvw<oMoSeNeovNNo)))Ov4vmvnSOSNN0Nvm<NoNSNWco<Vc0n)nwOdOcOnnenNWwW)0n6n0S6s6o6n60G)Z<wUo0wnoSoNo6e)en)LSSScvovnv0SNS<mmmScnNmNNcoc)c0<VOe<nWoonO0nNn<W)WS0S0o0Nww6)6WZ*}cxnwSwNw0eWo<eoeSe0)o)O)0SSS6S+ScSnm)mNm0N)N<c6cSc6<o<c<0OvO<nJW6nnWvWNW60)0<6{wSwN3oxOP0wmw<o6oS)n)eeN)w)))Wv/vOvnm)0NS0mcm<NwNSNncocNWv<)OEO=ONOnnonNn0eSW<0e0S6o6o6c60wSwOwYwcwnoNoNo0e)e<O0)S)6vovcv0SvS<mzwomnNoNNN6c)c<<5<S<nOoONO0n)n<W!WSW60o0N006)ww2E(S>nwowNw0o)o<<0eSen)o)c)0vvv<S_VoSnmomNm6N)N<cxcScn<o<NOoO)O<nJncn6WoWNW0oWvWew6cL.ZojNU0SNNcN6coo6eceNe0))NWO6n)n<nmnO0ommNeNhNSNnWe6OwoBWorwwo<owoSncWNW)W<05bSm66o6c60p):<wwwSo0v0oNewe)en)C)S)nvovOv0SvS<memSm0NoN0Wdc)cO<Y<6<nOeONO0n)n0wjWSWn0o6w006v6<otm<DnwewNw0o)o0e1vSn6)o)c)0vvv<SeSSS0NSmNNwN)N<cjcScn<o6n<0OvO<nenSnWWoWNm<0)0<6d6m6nkolN:6w)w<ojevoneoeN)w)N)<v=vSneneWvWemmNoNANSNn0o4mwwMWw0wcovo<nvWwn0W)W<ee)6vNvmSSmo)vmemWwco<oooNo0Nc<<<)<mn^Om<vnWWcWWWvnS0O6vNOcvc)c<<#0mwvw6lNw6eSe0WeW6Wn0o0NewvnvOmoSmS6NSmWcJome)e=eSenNNOwnhOc<WnvWN0oWm0<NwNON<cDcSde/mwnwvwcoNeSncWSWoWNW0e)vnvvv<SvSvmnmmNeNNoeo0oneoeNc)<cOSO6OcnvWS0wmwmWm<N{NSWc6ejwtn0cogwvo)e+nvWcn0W)W<eo)Ovnv0SwSwSvm0mvm<S6cScm<7cv<w<v)cvSvovNv0<On60)nc0w6)606m6m66<e<0<nOoONwwoce0))e6)<)cvO6w6m6<tq9Svnm0N<w0)co<e^eS)0<v)N)0v)ScS,SSSnmNO<m0N)N<O)cScW<o<N<0ON6<nFnSnn6SWNW60)6nve6S6n&oqcV0w)w<)rOWoneoeNe0))vmvjSNmSSoS<S0Ngm<N^NSNn<0cNc0<)<nOVONOn0oncn0W)W<010S6m6owNC)B)Z<wUwSwnocoN)z)0e<)o)SvUvovNv0mSmvm mcmncwNNN0c)O<6v<S<6OoOOO0n<n<0oWOWn0S0N6S6)6<Y(3So*wownw0ovo<eoeSvnvo)Nvov)v0S,ScSncoN6m0NNN<c)cS<<<onNO0O)O0nzn<nnWmWNW00S0<6e6S66_o%n90e)N0o3oconeveN)P))vnWnvSStSommS0m)m<<=NcNncScN<o<)OtO!nNWwnonWn0WnW<0*0S0nqo6Nqe,)(OwGwNwn)ooOo0ece<)v)S)6vomNmSS)S6mEmOmncANN<0<cc<<v<SOwOoOWO0n)0;W-W<Wn0S0N6e6)w<m)VSw/wownw0o0o<)ocoen)m)NvSv)v<ShSSNNmomWm0NvN<cocSOnOS<NOeO)O6nDncnn6oWcW00c0<6v6SJ<(ooNw)w)w6oToOoneOeNe0vS)<v)vSSCSoSWS0m)m6NyNcNncvcN<o<)<<B)OSOnnonOn0WvW<0fNo0n6o6N66_)9<wXwSwnoooN)we)e<)Y)cvSvovNv0ONWnWcWW0e0m6<WT{e20<w<S<nOoONO0n)n<wpWc0e0o0N00)mv6m))cmON)mWowono<e/eSNAOmO<<6nNnen6W)S6mnmNm0N)WW=)6m}0wS>Wo/6Oo6ocnc0KWoWNW0eNvnvcvWSeSmm<mzNeN0)QSOc<cec<<<<c<0N<mSv6ScSNS0m)nv0v66006OCSYo<mO3OlOSOn5ee<ewec)6ve0c6e6o6N60)cmNmwmNNNNmNnewece<)1)S<sOOnnn<ncSWm<mSmnNoWnGY6WpwDmkOw0w)omeonmn6W5WSWnvmvNv0vcSnLeMWInwowNScNc<eme<v<Y<m)Ov0v)v<SiOcWw01Wnnn6e606c6nLvJvQcoowWoco0ncWBWoWNW0ocvNSvSe66QSENi0w)S0Nvc0<hev)_e0)))<n)nvn6WSW<Wm0o0wNeNWNncocN>vzcw0wmwOo<eNnOWoW)W<0&)W)Wv6vW2Pee3<w wSooS)oNo6e)eW)?)m)nvovNSo<)S<mCmSm6NoNcN0c)eS<7<S<nOeONO0n)0<))WSW00o0N00Xw6<woco9nwvwNoWo)o<eavSeW)o)O)0vmv<SWSSm0memNNoN)cnc{cScn<oO)<0ONO<nwnSn0Wo6N6)0)006;6<6n_<UNo0ovw<o)oSe;eoece0S))nv^v<vnSSSNmvm)c<weNScqcocnc0Ot<<OR6)OnnSnNWPW)Wn0X0SKo6o6O60-m*<w)wSoocWoNege))O)%)m)nvvvNSo<)S<mBmSNWNoNcN0cNW<<=<S<n0{ONO6n)WneeWSW00o6<006)6<+ImeCnw)wNw6o)one9vS)S)o)<)0vSv<SNSSNnN)mNNTN)NncFcmcnO)OW<0OmO<WonSnnWoWN0o0)0W6+6m6n2)KNo0wSw<oeoSo6eo);e0S)vWv_vcvnSvSNS6m)c<6)NSN6cocOc0<W<<ObW<OnnvnNWwW)W<0G6S6n6o6<60>Wu<wewSo0evoNeXe))W)E)S)nmoSvv0SSS<momSNwNo<N<mc)cn<;<N<nOvONW>nWn<W)WS0<0o0N006)T<Yy?OKnwowNowo)v<nNeS)w)ovo)0v6v<mo*eSnmNmNN)N)N<cy<NO)<o<6<0nvO<nKnSW0W<WN0S0)6n6X6S6nio^0,0wnw<owoSo0eovNv:))vovhv0vnS<SNN0N<m<NNNSc)coccc0n)OwO^O0Onn<nNWmW)W<ez0S6e6o6<60-Sg<w{wnwnoNoNe)e))w)fvSvWvovWv0m)S<mSmS<ncvNNcec)c0<{<N<nOoncO0nSn<WvWSWW0o0NN<6)6<j!ZmunwowNw0o)o<eD)Sen)o)NvwSov<SqSSOoWO0S0on<6e7oAcwM0vwjwmo*w0nenOnnWoWN)0)vveSoSc66/e^NR0w)mooeomoneoeNcm)mv0vUvSvnOcWm0Z0%W0W)6v0o6O6Wwvw)wcooo<rnewewen)NWW0c0S0n6oeOSSSvmnmwmccjNmc<ewene<)g)ScnnwnOnmWNWeW60)m6NNNNN0c)WOwo4cwwomoOnwn0n<WrWSoe)mvne0S_vOmcSOm0NvwOo0o)o<e%m0Ow<6<cOnnenen)ONWO0w0nn00v6n2)cc<e<o<N<0*<w6oee<eO))q<0w0W0<6(6S)cSeS6mnmWN0cvN<cweveOe0)))<O0OOWeSvSOS0m)m<nSWv0ocvc6c0<)<<wmwOeDocoWen)<WW0<0S0n6o)nmaSWmwmmmON0S)cm<oe)mN)b)S)nS)Sev0SvS<m6mSmnNoNN<<c)cO<K<m<nO)ONW0W?n<WwWSWW0o6300w)6Wi!GmGnwewNo0o))<)oeSeW)o)c)0Sov<moSnSnm)mNN>N)N<c+cSOe<o<O<0O)O<n5nS0nSvWN0w0)0W6>666n,oN,}0wmw<o)oSoneoeN<c)))nvyvSvnSSSNmoO)m<NjNSnScoccc0<)nwO-OWOnnenNn0W)0dvO0S6o6oeo60^v7<wmwSotSooNo0e)m))B)m)nmonnv0SOS<mSmSNoNoN0W1c)<w<_0r<nOeONO0n)n0w}WSWn0ooo006v6<o_m<tnwcwNo)o)e!e1vSn6)o)6)0vOv<SwSSm0<0mNNmN)c)cgcScn<o<<<0OOO<ncnSn0WoW0o10)6w6be*6nxe9N_0w)w0SkoSoneomoe0)v)<m!n<vnScSNm)m)N5Nk<SO<coc6c0<O<<OwOSn0W)nNWmW)0)0p0S0n6oPv60lOr<wcwSw0oooN)<e))o)i)N)nvovNm0S<S<mNmSN)NoNWN0O)Oe<{O{<nOcONnvn)n<W<WS0)0o6o006W6<*SveXnwOwN)ho)oOeJemen)SNN)0v)v<NoSSSWmomnO0N)N<c_Wjcn<e<N<0nOO<n<nSn6WoWNW00)ow6k-w6n_clN50w)w<v0oSeSeoe<e0)S)<vS<evnSnSNcSm)mON-NmNncSWNc0<)<<WNOSOWnonn?0W)W<0Rol0n6e6Nw+Sm(<w<wSomoooNo0v)No)#vA)nvnvNSOS)S<mOmSNmNoNnN0c)c<n7OH<nOWONncn)nWW5WSW60o6)006N6<HCFSonwNwNo<o)eSeMe<en)o)<)0v0v<SnSSS0moN<NON)cvc*<wcn<o<Nn0oNO<nOnSWmWo0vW0.)iO6(?o6n,<;Nwww)e<ovoSeceo),e0)N)<vgScvnSWSNmOm)mnN9NScSco<oc0<0<<OOOSWnW+nNWNW)0)0+6o0n6N6<60u0r<)<wSwWoooco0eNm<)C)S)nNnvNv6S)S<<mmSmnNoN0N0c)c<<LWW<nOeONnNn)n<WEWn6S0o0<00666<LwuS}0wownv0o)o<ex)wen)e)N)0OOv<S(SSS0momNm0N)oSc cScn<e<N<0O)O<n!nSnn0NWNW00)0W6c6S6nEov6S6NlNSSeN0cwcv<e)w)0)<vDvS<onOW)0oWc0nW)666n6mccc0<)<<O(OS6n)wbNW(Wm6)090S0neNSwS<mNS6Nov<NwcvNOce<oc0<wO)nXnv<wnnWmW0Ww0)W60m6OcwcNc<<,<S6wouoWoOnmW)WQWSWneSv<vmvOSwSvmN)0NwNnowoWo<edeSOeOwO<Ocnmn<nwncWwmvm0m0N)N<WeWnM0{ewvweOmnLnrnSnnwe)<)w)cv6Se6c*e+oyNq0SSmOccNcNW<v<n)wvo)<v1vS<vWv<nWe0mWW0v6)656e^Swo6ewPOeO0OnnonNw0)e)W)cv<vvSwSSUw3<M<w3wSSnNec<ce<o<0)evm)nvovNOPnv0eWeWm066Sn06m_a40,vwNURoOoNoenmWoWKWSWnoOvSSwSNvOS0Scmwwvw6w0o)o<cmcOOb<c<WOnn<vWScSSSnmoOO0S0v6n6w6cwiAmw<OwOWO<nInS10e0ec)w)6vSvcScmt/v1n^0w)w<mvc)cv<SeO)w)))<vxn)nwWcSOmOm)m<N=WN0WLO6O66wmw014wmo0oeev)wWv1c0A0S0nB)cS60}v!<owwSwnoooNeoe)eO)z)m)nv)vNm0SnS<mwmSmWNocoN0O)<n<I<m<nOeONnvn)0<0SWSWW0o0c006v6<qSwcbnwewNoSo)oOeaeSen)SNN)0v)v<SNSSSWmomnO0N)N<cr<4cn<e<N<0W0O<nwnSnWWoWNW00)vw6y6m6ng)-Nz0w)w<emoSoWeoeNe0)))<mz<cvnSeSNS6m)NeNk<SNWcoccc0<v<<OWOSWnW0nNWLW)W<0 6e0n6o+n60_Su<wowSwWoo)NeOe)en)M)N)nSSvNm0mOS<momSm0NoNON0<SOm<q<c<nnNONO0n)0<))WSW60o0O00}c6<g^oe^nwvwNw6o)one9)N)o)o)n)0v<v<SlSSNnNOmNNoN)N0ci<vcnnoO0<0ONO<n)nSW6Wo0N6S0)0W636N6nTSMN!0oSw<o)oSo0eoeNe0))vovQvOvnSeSNS0m)c<6)NScwcocWc0OS<<O5nWOnnNnNn0W)W<0!0S)e6o6n605<3<wwwSonSmoNewe)e6)h)<)nS)mwv0SNS<mNmSmnNo<N<wc)c0<(<<<nOWONO0n0n<WSWSWW0o0N006)g6z:;WHnw)wNw0o)o<)WeS)))o)O)0v)v<SumSSnmSmNNSN)NncROn<<<o<n<001O<nwnSWZWoWnw00)0<61oo6n2edNo0NNw<ovoSeaeo)Ne0S)WWvYvOvnSmSNm<m)c<6)NScecocNc0Oo<<O;oWOnnmnNWvW)Wn0&0<on6o6N60ew-<wwwSwnovoNeee)e<)5)S)nvoNov0ScS<mwmSmnNoNN6vc)c6<^<N<nOoONO0SQn<WfWSWW0o0N006)6<r,1Sw)wowNw0omo0e!eSencvOwnNOcvWScSSSnmonO0m6D0660r<WW,OwvOwOcO<ngnSenevec)<vL0W6)6S6nTomSmeNnN0oeoWoneoeN<v<cO0OmOOn<WNSOmwm)m<N,nnWO0NccSwccWoKn)vm0nW}NWwW0W<0#0SeevmSn)0mxSONcmON0cvoN)Oe)e<)yvNOovovNv0ScS<m{mSmnNWNNN0c)cO<^<N<nWoWwO0n)n<WDWSW00ozN7)6)6<Zi1StnwNwNe0exo<edeSen)o)c)0m)SRSdSSSnmomNNvN)N<cOcScW<o<c<0O)O<WovennW)WN0o0)0<6}6S odo}OJ0w)w<oyoS)neOeN)w)))WvEv0vnSom,S0mmm<NoNScgcocnO:<)<<O3nWOnnenN0UemW<0m0S066o6N60+<)ewqw0wnoooNo6e))w)D)SW<vovNv0S<S<m5mSmn60NNN0c)cO</<S<nOoe)O0n)n<WoWSWn0o0NS<6)6<UJXcXnwowNw0Ooo<e:eSen)o)N)0v)WSSzSSSnmSmNm0N)N<w0cScn<o<c<0O)O<nyWcnnWcWN030)0O6p6ScmKo%W10w)w<oDoSeo)neN)k))vSv=vmvnS)SNmoO)m<NHNScNcoccc0<)0wO:ONOnnenNn0W)W<wm0S066o6N60X)Y<wBoewno)oNewe)e<)X)S0NvovNv0SvS<mxmSmWNoNNN0<nc<<+<S<6OeONO0n)ooWe0oWn0o0N)vvvSem))nmON)vONSNWcSc)ec)e)o)N)0<<O6neW<WO0)<<NwN6N<c:cSW0wwpnom6coXoSoOo6)S)O0w0v0<6&6SvvHvww}0w)w<SeN0NW<)cc<wON<6novcSeSoSNS0WOW66)0W6wzLZ0<wON<<O,OSweewe<e<eNo0)6envvvmS6S0memnN)SSNONOcS<oe)eO)e)O)nvovNO)nvWS0vWOm0NvcON0c)c<0m6N0W6)6<xmwowwo6wcoOe#eO)o)SeO)cv)S%wvwOw0o)o<c0cOOe)vvN)0v)v<<NWOWcWe0S0W0W000o&vBOwS6N#6oSo0nencnnWoWNocwoec6e6W6nBotN)6mWNmm_Nmc0<SeO)m)))<vz<cnvn0nWWn0NOO0c6eN6c<cNc0<)6oovoewWeCememeNWO0X0S0n6o6N60,)M<wew0wnoooNm0<e<W<cO<OvnwnSSwSWS<m^mSnc0e066n6Wk0wv#<wwOvO0O0n)n<wNeOeW)0vnvS6m&NLyRSunvNNwNnNNm9cc<N<6OSNOOSOWnSn)Scm)momNm0Wm06&)B<TvwzF6owO)X0nynSnnWow*W00)0<616S6nuooNoww)w<o4oSoneNeNv0)0)<vjvSvnSoS<S0NSNWNaNNNncScNc0<)<<OcOSOnnon<n0WSW<4%6c0n6o6N60d)wcw?eSomoooNo0e)e<)<)Smo0nvNv0S)m)m%mmmnNONNcoW)c<<J<SOSOoOcO0n)nWW/WSWn0o0N006)6<o<2Srnwowcw0o)o<excwen)e)N)0v)v<ShNSNcmomcm0NvN<cScSOn<n<N<6O)OOn.WWnn0)0wW00m0<6n6S6n3oaNo<w)wOo;ocone)eNS))N)<vwvSS6SoScS0m6m<N)nSNncocNOw<)<OOFOSO6noncn0W)W<010S0nwn6N66I)HOwpwSwnooe6o0eSe<)=)S)nvovNmvS)SWm mmmnNoNNc)r6c<<o<S66OoOcO0nmn<W)wSWn0o0N)w6)6OhDqSoewow<w0o)o<eJeSvnOS)Nv_v)vnSPSnSnmNnvm0NSN<<WcScW<o<c<0ON6<nXnSnn06WNW60)00eU6S6n{ovOU0wvw<oTeWone)eNe0)))<vumSWySoS<S0mSm<NSNS<nPScN<&<)<nOQnNOn0oenn0WSW<0o0S{o6obSNo5)wWwVScwnoeoNeae)e0Ni)S)nvo<Ov0SvS<mSONmnNoNN0wc)cO<R<S<nOS6NO0n)n<oeWSWW0o00eO6)6OJdo0inwewNw6o)o0mdeSen)om1)0vvv<S)<SSnmomNWwN)NOc?cSOe<o<<<0OSO<nJnS0nSeWN030)0n6L606n5owC40wNw<otoSoneovN)e)))0vBv<vnSNSNN0Nmm<N)NSc co<Sc0n)O)OqO<OnnSnN0oW)W<0N0S006o6n60GmL<wSw6wnovoNNwe)eO){)S)nvScNv0S)S<nemSmWNoc<6wc)c0<b<c<nOoONW0Pnn<W)WS0X0o6v006)uO=7kO7nwvwNw0o))<eSeS)w)o)W)0vvv<SVScSnmNmNNwN)N<c=OS<W<o<0<0O<O<nvnSnnWWWN0o0)6+6z6N6nw)(n50wcw<oeoSoneovNOo)))6vuvOvnS6SNN0nom<NSNSN0coccc0n)noODOWOnn)nNWeW)W<060S6w6o6660jSK<wiwnwnoSoNeoe)e6)XSS)0vovnv0SNS<NvmSmnN<NNcec)c0<^<S<nONnNO0nNn<weWSWW0o0W006Ne<bR>SqnvvwNw6o)o0mKeSen)ocO)0vvv<STmWSnmmmNNeN)N<cVcS<<<o<0<0O)O<n?nS0n0mWN0)0)6{6g6n6nw)wvJ0wOw<omoSoneoeNvm))vwvuvmvnS)SNN0Ncm<NmNSceco<cc0n)<nOTOWOnncnN0SW)6<000S6e6o6660w)(<w>onwnoNoNe)e))w){)SN<vovWv0SSS<momSNon6NNcec)0<<t<m<nOeONnox)n<WlWSon0o0c006Ne<&X*SknSvwNw6o)o<)meS)w)o)N)0v)v<S+0cSnmmmNN)N)N<c!cSw6<o<n<0ONO<n_nSnnS0WNW00)0O6 6S6n:o7N%0w)o6oAoSoneve6e0)))<<SO6n6nOn<W<WcmWNvNSNncoWOQWw*wcooOcnnnonNn0wOe6v)eevOSmSOSevymcmemmc NOcmcnem)))7)S)nccOWWoOmn60o0n0v0v0Wcwc<c<<?<S60wewnomeceWWeWcWn0o0Ne))ev5seBWDnwowNm)NcNW<)<v<0m))Ovov)v<SQnWnWW6WWNwc+N<cGcS6kw)icwnomo<oweNew)QeOvm0m6h6h6S6n)Nmwm<N_m6N)ocoWeoeNe0cn)WvmvSvnSon6We0N0w0v6)9ocv<yc0<)<<:-ovo6oOenem)e)N0e060n6o6NvoSnmemeNwN<NmcO<wemeO)r)S)n<OvOSvS)S<mLOO0<0e0<6<6c60<eOS<nOoONweemo6)ow6)<vovWSo)mv6momnmvmvmWowomo<epeS<<<mO6)6v)v<SuSSSnmoNEO0NmN0cBcScn6vwwoNwcOWncnSnnWooO)mvY)6v0S<eWSOmvM0vew<oXoSoncSeNe0)))<vtvSvnm)meS0mvm<NnNSNncocNOv<)<OOBOmOnn)nN000)W<0w0S0W6oyW60o)wnwswmwnoeoNe)e)v<vw)S)Wvovcv0mNS<cgNOmnNeNNN6c)<W<=OS6wOoONO0ncn<WwWSWnw)0N006)6<-p7S4no)wcw0ovo<eneSen)o)Nvov)vOSGSmSnm)mNc0ccN<cwcScW<oOW<0W)O6npnmnnWeWN0)0)h<rO6S6WBoHcH0o)w<eIeOoneoeNe6)))Ov^vSN0SoSNS0m)m<N?NSc0<6cNc6<)OSOEOSOnnoWwn0WvW<0w0S006owNBOU)ROw1wmwnemoN)0)ee<)w)S)Wvov0v0N)Nom3mmmnNeNNcmc)<<<e<S<nOonwO0nvn<WL}NWn0o0N006)6<HMwNomwowcw0eCo<ejeSenvw)N)6v)vOS{SNSncom6m0NvN<cwcSOw<onNOoO)OOn+nmnnWNWN606v0<6w6S6WZowo{0o)ono7oSoneneNe6)))<NovSvnSoSNS0m)m<co<eNncecN<<<)<<O}OSnNnoncn0WvW<0o0Sqn6m6N66Y)ROwLoOwn)oeeo0eve<)w)SvovomNmNS)SOm2mmmnN)NNc0<0c<<q<S<0OoOcO0n)6nWRWSWn0o0N006)Bn*cQSHWwoo)w0o)o<eCvoen)e)N)6v)vnS-NSNmmomcm0NvN<<vcSOn<S<N<6O)OOnlnnnn6o0SW00v0<6w6S?<:owNw0w)w<oke)oneeeNe0OW)<vIvSvnSoSNS0NScmNkNmNncccNc0<)n<nnOSOWnoncn00SW<6o^d0n6)6NjSz):<wVeSeoooo<o0eSe<)))Sv0vcvNSoS)mOmRmSmnNoc0N0cSc<<)<S<0OoWNWvn)nnWRWNWn0v0N00ad6<KoKS&0wow<w0))e6eUeNen)))Nvcv)SnSwSSS6moNBm0N)N<Oxc6cn<v<NOwO)O0ndWNsNWoWWW06v0<6#6S6nw6VNwww)w6ozoNonvo<Oe0)m)<vevSv6SoSNmnm)mWN NNNnc)cNO0Om<<OeOSO6noWmn0W)060x0m0n6v6Nirx)w<wnwSwnooevo0eve<)#vc)nvovNv6S)S<m=mSmnNoNNc)c)c<<Y<cOeOoONO0w<o6ee)<)Ov)w<6w6n6<H.JSvnNwNONmcNcec6<)e6)e)N)0v)OeSeSmSnmomNWSNmcncycScn6cwmoBozw0w)evw6ev)<)e)cvN)ASvSvm}mnwwwmw<oqoSc<cm<6e6)6)<vYvSvn<WSNS6m)m<N_NSNnOoOec0<v<<OwOSnwno0NWeW)WW0Z0S0n6)6N60ow_<wwwSw6ooo<o0)Svo)9)N)nvevNv0S)N<mwmSm0NoN<N0c<c<nbOm<nOvONO6n)n0Wx6Sv*0o0n006v6<+eiSinmowNo*o)o0eReSen)oSS)0vSv<SBSSSnmomNw<N)N<cacmcn<o<N<0O)O<n(nNnnWoWN0w0n0<6}6Se0SemOmeS)mOcoc<o6eveNe0))cenecmvWSmSNS0m)c<<nNSNWcocNc0<S<<noneOnnvnNn6W)W<0^0S.)6o6c604mk<wXwSwnoWoNo6e)e<)+)S)nvoS6v0S)S<mwmSmnNoNNN0c)c<<e<S<nOoOOnwn)n<WDoS)Nv)0O6o6)6<;/m<SWNvNeowoNo<ebeSOe<eOwnov)SvS;SSSnN)WOm0N)N<cocScn<onNooO)O<nbnSnnWvWNW0rS0<6r6S6W7oP<p0w<Smo*oSoneNeNe6)))Ov5v<cnSoSNS0m<m<NwNSc4WocNc0<)O)OVOmOnnoW6n0W)W<0#0S0n6o6No;=)h<wAwmwno)oN)!N0e<)C)S)WvovNv0SN<<mDmSmnNoNNN6c)c<en<S<nOoOcO0n)n<WrWSWn0o");local n=0;a.BcSoEQ_L(function()n=n+1 end)local function e(o,e)if e then return n end;n=o+n;end local o,n,m=f(0,f,e,s,a.fUSgzlux);local function c()local o,n=a.fUSgzlux(s,e(1,3),e(5,6)+2);e(2);return(n*256)+o;end;local u=true;local u=0 local function k()local d=n();local e=n();local l=1;local d=(o(e,1,20)*(2^32))+d;local n=o(e,21,31);local e=((-1)^o(e,32));if(n==0)then if(d==u)then return e*0;else n=1;l=0;end;elseif(n==2047)then return(d==0)and(e*(1/0))or(e*(0/0));end;return a.LSbBclSf(e,n-1023)*(l+(d/(2^52)));end;local _=n;local function z(n)local o;if(not n)then n=_();if(n==0)then return'';end;end;o=a.ZGqVfTgy(s,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+u),#o do e=e..a.ZGqVfTgy(o,n,n)end return e;end;local _=#a.IqwbnIYB(r('\49.\48'))~=1 local e=n;local function de(...)return{...},a.RjnqoSys('#',...)end local function ne()local u={};local r={};local e={};local s={r,u,nil,e};local e=n()local f={}for d=1,e do local o=m();local n;if(o==0)then n=(m()~=#{});elseif(o==1)then local e=k();if _ and a.cvlDYcbP(a.IqwbnIYB(e),'.(\48+)$')then e=a.qTrJnlVJ(e);end n=e;elseif(o==3)then n=z();end;f[d]=n;end;s[3]=m();for a=1,n()do local e=m();if(o(e,1,1)==0)then local m=o(e,2,3);local h=o(e,4,6);local e={c(),c(),nil,nil};if(m==0)then e[l]=c();e[t]=c();elseif(m==#{1})then e[l]=n();elseif(m==b[2])then e[l]=n()-(2^16)elseif(m==b[3])then e[l]=n()-(2^16)e[t]=c();end;if(o(h,1,1)==1)then e[d]=f[e[d]]end if(o(h,2,2)==1)then e[l]=f[e[l]]end if(o(h,3,3)==1)then e[t]=f[e[t]]end r[a]=e;end end;for e=1,n()do u[e-(#{1})]=ne();end;return s;end;local function ee(o,e,n)local d=e;local d=n;return r(a.cvlDYcbP(a.cvlDYcbP(({a.BcSoEQ_L(o)})[2],e),n))end local function _(j,r,m)local function oe(...)local c,b,k,ne,y,n,s,ee,g,z,u,o;local e=0;while-1<e do if e<=2 then if e>0 then if e<2 then k=f(6,24,3,64,j);y=de ne=0;else n=-41;s=-1;end else c=f(6,60,1,33,j);b=f(6,73,2,44,j);end else if e>=5 then if 5<e then e=-2;else o=f(7);end else if e~=4 then ee={};g={...};else z=a.RjnqoSys('#',...)-1;u={};end end end e=e+1;end;for e=0,z do if(e>=k)then ee[e-k]=g[e+1];else o[e]=g[e+1];end;end;local e=z-k+1 local e;local f;local function k(...)while true do end end while true do if n<-40 then n=n+42 end e=c[n];f=e[p];if f>=81 then if 121<f then if 141<f then if 151>=f then if f>146 then if 149>f then if 147~=f then local e=e[d];do return h(o,e,s)end;else local n=e[d];local d=o[e[l]];o[n+1]=d;o[n]=d[e[t]];end else if f<=149 then if o[e[d]]then n=n+1;else n=e[l];end;else if f>148 then for r=43,60 do if f~=150 then local f,a;for r=0,6 do if 2<r then if r<=4 then if r>3 then f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if r>=1 then repeat if 6>r then o(e[d],e[l]);n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];until true;else o[e[d]]=m[e[l]];end end else if 0<r then if r~=1 then f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];else o(e[d],e[l]);n=n+1;e=c[n];end else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end end end break;end;local f,a;for r=0,6 do if 2<r then if 4>=r then if 3<r then o(e[d],e[l]);n=n+1;e=c[n];else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end else if r~=3 then for t=23,82 do if 6~=r then f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];break;end;else f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];end end else if 0>=r then f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];else if r>-3 then for t=20,61 do if r>1 then o[e[d]]=m[e[l]];n=n+1;e=c[n];break;end;f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];break;end;else f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];end end end end break;end;else local f,a;for r=0,6 do if 2<r then if 4>=r then if 3<r then o(e[d],e[l]);n=n+1;e=c[n];else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end else if r~=3 then for t=23,82 do if 6~=r then f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];break;end;else f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];end end else if 0>=r then f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];else if r>-3 then for t=20,61 do if r>1 then o[e[d]]=m[e[l]];n=n+1;e=c[n];break;end;f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];break;end;else f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];end end end end end end end else if f>=144 then if 144>=f then local m,f;for h=0,1 do if h>0 then m=e[d];f=o[e[l]];o[m+1]=f;o[m]=f[e[t]];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end else if f>142 then for m=31,84 do if f>145 then o[e[d]]=(not o[e[l]]);break;end;local f,u,s,m;for a=0,6 do if 2>=a then if a<1 then f=e[d];u=o[e[l]];o[f+1]=u;o[f]=u[e[t]];n=n+1;e=c[n];else if a==2 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=r[e[l]];n=n+1;e=c[n];end end else if 4>=a then if 1~=a then repeat if a~=3 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if 3<=a then repeat if 5<a then if o[e[d]]then n=n+1;else n=e[l];end;break;end;f=e[d]s={o[f](h(o,f+1,e[l]))};m=0;for e=f,e[t]do m=m+1;o[e]=s[m];end n=n+1;e=c[n];until true;else f=e[d]s={o[f](h(o,f+1,e[l]))};m=0;for e=f,e[t]do m=m+1;o[e]=s[m];end n=n+1;e=c[n];end end end end break;end;else o[e[d]]=(not o[e[l]]);end end else if 143>f then local t,c,f,h,r,m;local n=0;while n>-1 do if 3>=n then if n<=1 then if n>-1 then for o=17,91 do if n>0 then c=d;break;end;t=e;break;end;else c=d;end else if-2~=n then for e=33,56 do if 2~=n then h=o;break;end;f=l;break;end;else f=l;end end else if n>5 then if n>6 then n=-2;else o[m]=r;end else if n~=5 then r=h[t[f]];else m=t[c];end end end n=n+1 end else local m;for f=0,6 do if 3>f then if 1<=f then if-2<=f then for l=32,84 do if f~=1 then o[e[d]]={};n=n+1;e=c[n];break;end;o[e[d]]={};n=n+1;e=c[n];break;end;else o[e[d]]={};n=n+1;e=c[n];end else m=e[d]o[m]=o[m]()n=n+1;e=c[n];end else if 5>f then if f==4 then o[e[d]][e[l]]=e[t];n=n+1;e=c[n];else o[e[d]][e[l]]=e[t];n=n+1;e=c[n];end else if 2<f then repeat if 5~=f then o[e[d]][e[l]]=e[t];break;end;o[e[d]][e[l]]=e[t];n=n+1;e=c[n];until true;else o[e[d]][e[l]]=e[t];end end end end end end end else if f<=156 then if f>153 then if 155<=f then if 151<f then repeat if 156>f then local c=e[d];local d={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local l=e[1];local n=e[2];if l==o and n>=c then d[n]=l[n];e[1]=d;end;end;end;break;end;do return end;until true;else local c=e[d];local d={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local l=e[1];local n=e[2];if l==o and n>=c then d[n]=l[n];e[1]=d;end;end;end;end else if(o[e[d]]==e[t])then n=n+1;else n=e[l];end;end else if f==152 then o[e[d]][e[l]]=e[t];else local t;t=e[d]o[t](h(o,t+1,e[l]))n=n+1;e=c[n];do return end;end end else if 159>=f then if 157<f then if 159>f then local h;for f=0,5 do if f>2 then if 3<f then if f>1 then for m=39,63 do if f<5 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;if o[e[d]]then n=n+1;else n=e[l];end;break;end;else if o[e[d]]then n=n+1;else n=e[l];end;end else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if 0<f then if f==1 then h=e[d]o[h]=o[h]()n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end else local d=e[d]local l={o[d](h(o,d+1,s))};local n=0;for e=d,e[t]do n=n+1;o[e]=l[n];end end else local h,r,u,b,s,f,a;f=0;while f>-1 do if 3>f then if f>=1 then if f>=0 then repeat if 2>f then r=d;break;end;u=l;until true;else r=d;end else h=e;end else if f>=5 then if 3<f then repeat if f~=6 then o(s,b);break;end;f=-2;until true;else f=-2;end else if f~=-1 then repeat if f~=3 then s=h[r];break;end;b=h[u];until true;else s=h[r];end end end f=f+1 end n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];a=e[d]o[a]=o[a]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];end else if f<=160 then o[e[d]]=o[e[l]][o[e[t]]];else if f==161 then local e=e[d]o[e]=o[e]()else local n=e[d]local l={o[n](o[n+1])};local d=0;for e=n,e[t]do d=d+1;o[e]=l[d];end end end end end end else if f>=132 then if 136<f then if 138<f then if f<=139 then for f=0,6 do if f<=2 then if 0>=f then o[e[d]][e[l]]=e[t];n=n+1;e=c[n];else if-2~=f then repeat if 1~=f then o[e[d]][e[l]]=e[t];n=n+1;e=c[n];break;end;o[e[d]][e[l]]=e[t];n=n+1;e=c[n];until true;else o[e[d]][e[l]]=e[t];n=n+1;e=c[n];end end else if 4<f then if f~=2 then repeat if 6>f then o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];until true;else o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];end else if 2~=f then for m=39,87 do if 3~=f then o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];break;end;o[e[d]][e[l]]=e[t];n=n+1;e=c[n];break;end;else o[e[d]][e[l]]=e[t];n=n+1;e=c[n];end end end end else if 140==f then local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];else local f,u,s,h;for a=0,4 do if a>1 then if a<3 then f=e[d];u=o[e[l]];o[f+1]=u;o[f]=u[e[t]];n=n+1;e=c[n];else if a~=1 then repeat if 4>a then f=e[d]s={o[f](o[f+1])};h=0;for e=f,e[t]do h=h+1;o[e]=s[h];end n=n+1;e=c[n];break;end;n=e[l];until true;else f=e[d]s={o[f](o[f+1])};h=0;for e=f,e[t]do h=h+1;o[e]=s[h];end n=n+1;e=c[n];end end else if 1==a then o[e[d]]=r[e[l]];n=n+1;e=c[n];else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end end end else if 134<=f then for r=39,88 do if 138>f then m[e[l]]=o[e[d]];break;end;local f,a;for r=0,6 do if 3>r then if r<1 then o(e[d],e[l]);n=n+1;e=c[n];else if r~=-2 then repeat if r~=1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];until true;else f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];end end else if r>4 then if 2<r then for t=17,61 do if 5~=r then f=e[d]o[f]=o[f](h(o,f+1,e[l]))break;end;o(e[d],e[l]);n=n+1;e=c[n];break;end;else o(e[d],e[l]);n=n+1;e=c[n];end else if r>1 then repeat if 3<r then f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end end end end break;end;else local f,a;for r=0,6 do if 3>r then if r<1 then o(e[d],e[l]);n=n+1;e=c[n];else if r~=-2 then repeat if r~=1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];until true;else f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];end end else if r>4 then if 2<r then for t=17,61 do if 5~=r then f=e[d]o[f]=o[f](h(o,f+1,e[l]))break;end;o(e[d],e[l]);n=n+1;e=c[n];break;end;else o(e[d],e[l]);n=n+1;e=c[n];end else if r>1 then repeat if 3<r then f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end end end end end end else if f<134 then if 129<f then repeat if 132~=f then local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][o[e[t]]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];break;end;if(e[d]<o[e[t]])then n=n+1;else n=e[l];end;until true;else local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][o[e[t]]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];end else if 134<f then if 136~=f then local t,c,m,f,h;local n=0;while n>-1 do if n<3 then if n>=1 then if 0<n then for e=26,91 do if 2>n then c=d;break;end;m=l;break;end;else c=d;end else t=e;end else if 4>=n then if n~=4 then f=t[m];else h=t[c];end else if 6>n then o(h,f);else n=-2;end end end n=n+1 end else o[e[d]]=o[e[l]]*o[e[t]];end else o[e[d]]=_(b[e[l]],nil,m);end end end else if 126>=f then if 123>=f then if f>=118 then for h=30,90 do if 122<f then if(o[e[d]]~=o[e[t]])then n=n+1;else n=e[l];end;break;end;local h;for f=0,6 do if 3>f then if 0>=f then o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];else if-2~=f then repeat if f>1 then o[e[d]]=m[e[l]];n=n+1;e=c[n];break;end;o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];until true;else o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];end end else if f<5 then if f~=1 then for l=31,68 do if 3<f then o[e[d]]={};n=n+1;e=c[n];break;end;h=e[d]o[h]=o[h]()n=n+1;e=c[n];break;end;else o[e[d]]={};n=n+1;e=c[n];end else if 4~=f then repeat if 5<f then o[e[d]][e[l]]=e[t];break;end;o[e[d]]={};n=n+1;e=c[n];until true;else o[e[d]]={};n=n+1;e=c[n];end end end end break;end;else if(o[e[d]]~=o[e[t]])then n=n+1;else n=e[l];end;end else if f>=125 then if f>124 then for m=42,87 do if 126>f then local f;for m=0,6 do if m>=3 then if m>=5 then if m==5 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else if(o[e[d]]<o[e[t]])then n=e[l];else n=n+1;end;end else if m~=-1 then repeat if m~=4 then f=e[d]o[f]=o[f]()n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]]-o[e[t]];n=n+1;e=c[n];until true;else f=e[d]o[f]=o[f]()n=n+1;e=c[n];end end else if 0>=m then o[e[d]]=o[e[l]];n=n+1;e=c[n];else if m~=-1 then for t=41,97 do if 1<m then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];break;end;else o[e[d]]=r[e[l]];n=n+1;e=c[n];end end end end break;end;o[e[d]]();break;end;else o[e[d]]();end else o[e[d]]=r[e[l]];end end else if f>128 then if 129<f then if f>=129 then for h=19,79 do if f>130 then r[e[l]]=o[e[d]];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=m[e[l]];break;end;else r[e[l]]=o[e[d]];end else local e=e[d]o[e]=o[e](o[e+1])end else if f>123 then for c=17,63 do if f>127 then local t,h,m,f,c;local n=0;while n>-1 do if n>=3 then if 4<n then if 4<n then repeat if 5<n then n=-2;break;end;o(c,f);until true;else o(c,f);end else if n>-1 then repeat if n<4 then f=t[m];break;end;c=t[h];until true;else c=t[h];end end else if 1<=n then if-1~=n then repeat if n>1 then m=l;break;end;h=d;until true;else m=l;end else t=e;end end n=n+1 end break;end;if(o[e[d]]~=o[e[t]])then n=n+1;else n=e[l];end;break;end;else local t,f,m,h,c;local n=0;while n>-1 do if n>=3 then if 4<n then if 4<n then repeat if 5<n then n=-2;break;end;o(c,h);until true;else o(c,h);end else if n>-1 then repeat if n<4 then h=t[m];break;end;c=t[f];until true;else c=t[f];end end else if 1<=n then if-1~=n then repeat if n>1 then m=l;break;end;f=d;until true;else m=l;end else t=e;end end n=n+1 end end end end end end else if 101>f then if f>90 then if 96<=f then if 98<=f then if 98>=f then local t;for f=0,1 do if f==0 then t=e[d]o[t](h(o,t+1,e[l]))n=n+1;e=c[n];else o[e[d]]=m[e[l]];end end else if 98~=f then repeat if f~=100 then o[e[d]]=m[e[l]];break;end;local f;o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]]*e[t];until true;else local f;o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]]*e[t];end end else if 92<=f then for n=43,90 do if f~=97 then local n=e[d];do return o[n](h(o,n+1,e[l]))end;break;end;o[e[d]]=(e[l]~=0);break;end;else local n=e[d];do return o[n](h(o,n+1,e[l]))end;end end else if f>=93 then if f>93 then if 92<=f then repeat if 95~=f then do return o[e[d]]end break;end;o[e[d]]=o[e[l]]*e[t];until true;else o[e[d]]=o[e[l]]*e[t];end else local n=e[d]local l={o[n](h(o,n+1,e[l]))};local d=0;for e=n,e[t]do d=d+1;o[e]=l[d];end end else if f~=91 then local h;for f=0,6 do if 3>f then if 1>f then o[e[d]]=m[e[l]];n=n+1;e=c[n];else if 0<f then for m=12,87 do if 1~=f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;h=e[d]o[h]=o[h]()n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end else if f>=5 then if 2<f then for m=21,80 do if 5<f then o[e[d]]=o[e[l]]+o[e[t]];break;end;o[e[d]]=o[e[l]]*o[e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]]+o[e[t]];end else if f~=3 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end else local f,m;o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];f=e[d];m=o[e[l]];o[f+1]=m;o[f]=m[e[t]];n=n+1;e=c[n];o(e[d],e[l]);n=n+1;e=c[n];f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];if(o[e[d]]~=e[t])then n=n+1;else n=e[l];end;end end end else if f>85 then if 88<=f then if 89>f then local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]]%e[t];n=n+1;e=c[n];o[e[d]]=o[e[l]]/e[t];n=n+1;e=c[n];o(e[d],e[l]);n=n+1;e=c[n];o(e[d],e[l]);n=n+1;e=c[n];f=e[d]o[f]=o[f](h(o,f+1,e[l]))else if f~=89 then m[e[l]]=o[e[d]];else do return end;end end else if 87~=f then local a,s,r,f,m,h,c;local n=0;while n>-1 do if n>2 then if 5>n then if 2<=n then for e=13,96 do if 4~=n then h=f[a];break;end;c=o[m];for e=1+m,f[r]do c=c..o[e];end;break;end;else c=o[m];for e=1+m,f[r]do c=c..o[e];end;end else if n>2 then repeat if 6~=n then o[h]=c;break;end;n=-2;until true;else o[h]=c;end end else if n>=1 then if-2~=n then for o=17,56 do if n~=2 then f=e;break;end;m=f[s];break;end;else f=e;end else a=d;s=l;r=t;end end n=n+1 end else local n=e[d];local d=o[n];for e=n+1,e[l]do a.iOMUxOoU(d,o[e])end;end end else if f<83 then if 81~=f then r[e[l]]=o[e[d]];else o[e[d]]=o[e[l]]%e[t];end else if 83<f then if f>=82 then for r=19,96 do if f~=84 then local f;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][o[e[t]]];break;end;local n=e[d]o[n](h(o,n+1,e[l]))break;end;else local f;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][o[e[t]]];end else for f=0,6 do if f>=3 then if f<5 then if f>=1 then repeat if f<4 then o[e[d]]=o[e[l]]-o[e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=o[e[l]]-o[e[t]];n=n+1;e=c[n];end else if 1~=f then for h=20,59 do if f>5 then o[e[d]]=m[e[l]];break;end;o[e[d]]=o[e[l]]*e[t];n=n+1;e=c[n];break;end;else o[e[d]]=m[e[l]];end end else if f<1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else if 1==f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end end end end end else if f<111 then if 106<=f then if 108>f then if 103<=f then repeat if 107>f then local f,m;for r=0,2 do if r<1 then f=e[d]o[f](h(o,f+1,e[l]))n=n+1;e=c[n];else if r~=1 then f=e[d];m=o[e[l]];o[f+1]=m;o[f]=m[e[t]];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end break;end;local n=e[d]local l={o[n](h(o,n+1,s))};local d=0;for e=n,e[t]do d=d+1;o[e]=l[d];end until true;else local d=e[d]local l={o[d](h(o,d+1,s))};local n=0;for e=d,e[t]do n=n+1;o[e]=l[n];end end else if f>108 then if 106~=f then for h=11,67 do if 109~=f then o[e[d]]=o[e[l]]/e[t];break;end;local f;f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];break;end;else o[e[d]]=o[e[l]]/e[t];end else if(o[e[d]]<o[e[t]])then n=n+1;else n=e[l];end;end end else if f<103 then if 101<f then local h;for f=0,6 do if 3<=f then if 5>f then if f~=0 then repeat if f>3 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if f>3 then repeat if 5~=f then for e=e[d],e[l]do o[e]=nil;end;break;end;o[e[d]]=o[e[l]]*e[t];n=n+1;e=c[n];until true;else for e=e[d],e[l]do o[e]=nil;end;end end else if 1<=f then if f>=-2 then for m=24,88 do if 1<f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;h=e[d]o[h]=o[h]()n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end else local s=b[e[l]];local h;local f={};h=a.fbUklXdR({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(o,e,n)local e=f[e]e[1][e[2]]=n;end;});for d=1,e[t]do n=n+1;local e=c[n];if e[p]==142 then f[d-1]={o,e[l]};else f[d-1]={r,e[l]};end;u[#u+1]=f;end;o[e[d]]=_(s,h,m);end else if 104<=f then if 103<=f then for h=17,65 do if f~=104 then for f=0,3 do if f<2 then if f~=-3 then for t=23,52 do if 0<f then m[e[l]]=o[e[d]];n=n+1;e=c[n];break;end;o[e[d]]=(e[l]~=0);n=n+1;e=c[n];break;end;else o[e[d]]=(e[l]~=0);n=n+1;e=c[n];end else if 2==f then o[e[d]]=m[e[l]];n=n+1;e=c[n];else if(o[e[d]]==e[t])then n=n+1;else n=e[l];end;end end end break;end;for f=0,6 do if 2>=f then if f>0 then if-2<=f then for m=32,71 do if 1~=f then o[e[d]][e[l]]=e[t];n=n+1;e=c[n];break;end;o[e[d]][e[l]]=e[t];n=n+1;e=c[n];break;end;else o[e[d]][e[l]]=e[t];n=n+1;e=c[n];end else o[e[d]]={};n=n+1;e=c[n];end else if f<=4 then if 4>f then o[e[d]][e[l]]=e[t];n=n+1;e=c[n];else o[e[d]][e[l]]=e[t];n=n+1;e=c[n];end else if 3<f then for h=18,71 do if f~=5 then o[e[d]]=m[e[l]];break;end;o[e[d]][e[l]]=e[t];n=n+1;e=c[n];break;end;else o[e[d]]=m[e[l]];end end end end break;end;else for f=0,3 do if f<2 then if f~=-3 then for t=23,52 do if 0<f then m[e[l]]=o[e[d]];n=n+1;e=c[n];break;end;o[e[d]]=(e[l]~=0);n=n+1;e=c[n];break;end;else o[e[d]]=(e[l]~=0);n=n+1;e=c[n];end else if 2==f then o[e[d]]=m[e[l]];n=n+1;e=c[n];else if(o[e[d]]==e[t])then n=n+1;else n=e[l];end;end end end end else do return o[e[d]]end end end end else if 115<f then if 119<=f then if 120<=f then if 118<=f then for h=26,84 do if 121~=f then local e=e[d]local d,n=y(o[e](o[e+1]))s=n+e-1 local n=0;for e=e,s do n=n+1;o[e]=d[n];end;break;end;local a,h;for f=0,4 do if f>=2 then if 3>f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else if 2<f then repeat if f~=3 then a=e[d];h=o[e[l]];o[a+1]=h;o[a]=h[e[t]];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end else if 0<f then o[e[d]]=m[e[l]];n=n+1;e=c[n];else o[e[d]]=r[e[l]];n=n+1;e=c[n];end end end break;end;else local a,h;for f=0,4 do if f>=2 then if 3>f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else if 2<f then repeat if f~=3 then a=e[d];h=o[e[l]];o[a+1]=h;o[a]=h[e[t]];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end else if 0<f then o[e[d]]=m[e[l]];n=n+1;e=c[n];else o[e[d]]=r[e[l]];n=n+1;e=c[n];end end end end else local n=e[d]o[n]=o[n](h(o,n+1,e[l]))end else if 116>=f then o[e[d]]=o[e[l]][e[t]];else if 115~=f then for n=38,76 do if 118~=f then o[e[d]]={};break;end;local c=e[d];local d={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local l=e[1];local n=e[2];if l==o and n>=c then d[n]=l[n];e[1]=d;end;end;end;break;end;else o[e[d]]={};end end end else if 112>=f then if 111~=f then o[e[d]]=o[e[l]]+o[e[t]];else if not o[e[d]]then n=n+1;else n=e[l];end;end else if 113<f then if f~=114 then local f,m;f=e[d];m=o[e[l]];o[f+1]=m;o[f]=m[e[t]];n=n+1;e=c[n];f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];do return end;else for e=e[d],e[l]do o[e]=nil;end;end else o[e[d]]={};end end end end end end else if 40>f then if 19<f then if f>=30 then if f<=34 then if f<=31 then if f>30 then local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];f=e[d];do return o[f](h(o,f+1,e[l]))end;else local e=e[d];do return h(o,e,s)end;end else if f>=33 then if f>=32 then for m=44,61 do if 33<f then local e=e[d]o[e]=o[e]()break;end;local f;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];o[e[d]]=o[e[l]]-o[e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];if(o[e[d]]<o[e[t]])then n=n+1;else n=e[l];end;break;end;else local e=e[d]o[e]=o[e]()end else o[e[d]]=o[e[l]]*o[e[t]];end end else if f<=36 then if f~=35 then local h,r;for f=0,6 do if 2>=f then if f>=1 then if f~=2 then o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];else o[e[d]]=m[e[l]];n=n+1;e=c[n];end else o[e[d]]=(not o[e[l]]);n=n+1;e=c[n];end else if 5>f then if f>1 then for m=16,69 do if f~=4 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;h=e[d];r=o[e[l]];o[h+1]=r;o[h]=r[e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if f<6 then o(e[d],e[l]);n=n+1;e=c[n];else o[e[d]]={};end end end end else local h,f;o[e[d]]=o[e[l]]*o[e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]]+o[e[t]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];o[e[d]]();n=n+1;e=c[n];o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];h=e[d];f=o[e[l]];o[h+1]=f;o[h]=f[e[t]];end else if f<=37 then o[e[d]][e[l]]=o[e[t]];else if 36<=f then for a=42,75 do if 39>f then local f,m;f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];f=e[d];m=o[e[l]];o[f+1]=m;o[f]=m[e[t]];n=n+1;e=c[n];f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];do return end;break;end;local a;for f=0,6 do if f<3 then if f>=1 then if f>=-1 then repeat if f~=1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=r[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if f<=4 then if 0<f then repeat if 4~=f then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else if f>=1 then for t=26,84 do if 6~=f then a=e[d]o[a]=o[a](h(o,a+1,e[l]))n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];break;end;else a=e[d]o[a]=o[a](h(o,a+1,e[l]))n=n+1;e=c[n];end end end end break;end;else local a;for f=0,6 do if f<3 then if f>=1 then if f>=-1 then repeat if f~=1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=r[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if f<=4 then if 0<f then repeat if 4~=f then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else if f>=1 then for t=26,84 do if 6~=f then a=e[d]o[a]=o[a](h(o,a+1,e[l]))n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];break;end;else a=e[d]o[a]=o[a](h(o,a+1,e[l]))n=n+1;e=c[n];end end end end end end end end else if f>24 then if 27<=f then if 28<=f then if 27<=f then for a=35,65 do if f<29 then local r,a;for f=0,6 do if 2<f then if 4>=f then if f<4 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if f~=1 then repeat if 6~=f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;r=e[d];a=o[e[l]];o[r+1]=a;o[r]=a[e[t]];until true;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end else if f<1 then r=e[d]o[r](h(o,r+1,e[l]))n=n+1;e=c[n];else if f>=-1 then repeat if 1<f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end end break;end;local f;f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];o[e[d]]={};n=n+1;e=c[n];o[e[d]]=r[e[l]];break;end;else local r,a;for f=0,6 do if 2<f then if 4>=f then if f<4 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if f~=1 then repeat if 6~=f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;r=e[d];a=o[e[l]];o[r+1]=a;o[r]=a[e[t]];until true;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end else if f<1 then r=e[d]o[r](h(o,r+1,e[l]))n=n+1;e=c[n];else if f>=-1 then repeat if 1<f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end end end else local f,h;for m=0,2 do if m>0 then if m>-2 then for r=46,80 do if m<2 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;f=e[d];h=o[e[l]];o[f+1]=h;o[f]=h[e[t]];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else f=e[d]o[f](o[f+1])n=n+1;e=c[n];end end end else if 21~=f then repeat if 25~=f then local d=e[d];local t=e[t];local c=d+2 local d={o[d](o[d+1],o[c])};for e=1,t do o[c+e]=d[e];end;local d=d[1]if d then o[c]=d n=e[l];else n=n+1;end;break;end;local f,a;for r=0,6 do if r<=2 then if 1>r then o[e[d]]=m[e[l]];n=n+1;e=c[n];else if-1<=r then repeat if 1<r then o[e[d]]=o[e[l]];n=n+1;e=c[n];break;end;f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];until true;else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end end else if r>4 then if r~=3 then for m=36,69 do if 6>r then f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];break;end;if(o[e[d]]~=e[t])then n=n+1;else n=e[l];end;break;end;else if(o[e[d]]~=e[t])then n=n+1;else n=e[l];end;end else if-1<=r then for t=10,72 do if r<4 then o[e[d]]=o[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]];n=n+1;e=c[n];end end end end until true;else local c=e[d];local t=e[t];local d=c+2 local c={o[c](o[c+1],o[d])};for e=1,t do o[d+e]=c[e];end;local c=c[1]if c then o[d]=c n=e[l];else n=n+1;end;end end else if f>21 then if 23<=f then if f>=20 then for h=37,66 do if 24~=f then o[e[d]]=r[e[l]];break;end;local h;for f=0,6 do if f>2 then if 4<f then if 3~=f then for t=29,84 do if 6>f then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];break;end;else o[e[d]]=m[e[l]];end else if f==3 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];end end else if 0>=f then h=e[d]o[h]=o[h]()n=n+1;e=c[n];else if-2~=f then for m=39,94 do if f>1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end break;end;else local h;for f=0,6 do if f>2 then if 4<f then if 3~=f then for t=29,84 do if 6>f then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];break;end;else o[e[d]]=m[e[l]];end else if f==3 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];end end else if 0>=f then h=e[d]o[h]=o[h]()n=n+1;e=c[n];else if-2~=f then for m=39,94 do if f>1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end end else o[e[d]]=o[e[l]][o[e[t]]];end else if f>20 then o[e[d]][e[l]]=e[t];else o[e[d]]=_(b[e[l]],nil,m);end end end end else if f<10 then if f>4 then if f<=6 then if 4<f then repeat if f<6 then o[e[d]]=o[e[l]]-o[e[t]];break;end;o[e[d]]=o[e[l]][e[t]];until true;else o[e[d]]=o[e[l]]-o[e[t]];end else if f>7 then if f==9 then local f;for h=0,3 do if 2<=h then if h~=3 then o(e[d],e[l]);n=n+1;e=c[n];else f=e[d]o[f]=o[f](o[f+1])end else if 1~=h then o[e[d]]=m[e[l]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end else for e=e[d],e[l]do o[e]=nil;end;end else local f,r;for a=0,6 do if 2>=a then if a>=1 then if a~=-3 then repeat if 2~=a then f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];break;end;f=e[d];r=o[e[l]];o[f+1]=r;o[f]=r[e[t]];n=n+1;e=c[n];until true;else f=e[d];r=o[e[l]];o[f+1]=r;o[f]=r[e[t]];n=n+1;e=c[n];end else o(e[d],e[l]);n=n+1;e=c[n];end else if a>=5 then if a>=4 then repeat if 5~=a then f=e[d];r=o[e[l]];o[f+1]=r;o[f]=r[e[t]];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=m[e[l]];n=n+1;e=c[n];end else if 4~=a then f=e[d]o[f]=o[f](o[f+1])n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end end end else if 2>f then if-3<=f then for n=24,68 do if f~=0 then local n=e[d];local d=o[n];for e=n+1,e[l]do a.iOMUxOoU(d,o[e])end;break;end;local n=e[d];do return o[n](h(o,n+1,e[l]))end;break;end;else local n=e[d];do return o[n](h(o,n+1,e[l]))end;end else if f>=3 then if f~=-1 then repeat if 4>f then o[e[d]]=(e[l]~=0);n=n+1;break;end;local h;for f=0,6 do if 3>f then if 0<f then if-3<f then for m=32,85 do if 2~=f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if f>=5 then if f>=4 then for t=22,90 do if f>5 then h=e[d]o[h]=o[h]()break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];break;end;else h=e[d]o[h]=o[h]()end else if 2~=f then repeat if f<4 then o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];break;end;o[e[d]]=r[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=r[e[l]];n=n+1;e=c[n];end end end end until true;else o[e[d]]=(e[l]~=0);n=n+1;end else o[e[d]]=o[e[l]]-o[e[t]];end end end else if 15<=f then if f<=16 then if 14<f then for c=43,90 do if 15~=f then o[e[d]]=(e[l]~=0);n=n+1;break;end;local n=e[d]o[n]=o[n](h(o,n+1,e[l]))break;end;else local n=e[d]o[n]=o[n](h(o,n+1,e[l]))end else if 18>f then local e=e[d]o[e](o[e+1])else if 18==f then o[e[d]]=o[e[l]]/e[t];else local e=e[d]o[e](o[e+1])end end end else if 12<=f then if f<=12 then n=e[l];else if f>13 then local h;for f=0,6 do if f>=3 then if 4<f then if 6>f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];end else if f==4 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else h=e[d]o[h]=o[h]()n=n+1;e=c[n];end end else if f<1 then o[e[d]]=r[e[l]];n=n+1;e=c[n];else if-1~=f then repeat if 1~=f then o[e[d]]=m[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end end else local e=e[d];do return o[e],o[e+1]end end end else if 9~=f then repeat if 11~=f then if(o[e[d]]<o[e[t]])then n=e[l];else n=n+1;end;break;end;local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=m[e[l]];n=n+1;e=c[n];o[e[d]]=r[e[l]];until true;else if(o[e[d]]<o[e[t]])then n=e[l];else n=n+1;end;end end end end end else if f>59 then if 69>=f then if f>64 then if 66>=f then if 63<=f then repeat if 65<f then if o[e[d]]then n=n+1;else n=e[l];end;break;end;o[e[d]]=o[e[l]]*e[t];until true;else o[e[d]]=o[e[l]]*e[t];end else if 68<=f then if 67~=f then for h=40,53 do if 68~=f then o[e[d]][e[l]]=o[e[t]];break;end;local h;for f=0,6 do if f>=3 then if f<5 then if f>2 then repeat if 3~=f then h=e[d]o[h]=o[h]()n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else h=e[d]o[h]=o[h]()n=n+1;e=c[n];end else if 2<f then repeat if f~=5 then o[e[d]]=o[e[l]][e[t]];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=o[e[l]][e[t]];end end else if f<1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else if 2~=f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end break;end;else local h;for f=0,6 do if f>=3 then if f<5 then if f>2 then repeat if 3~=f then h=e[d]o[h]=o[h]()n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else h=e[d]o[h]=o[h]()n=n+1;e=c[n];end else if 2<f then repeat if f~=5 then o[e[d]]=o[e[l]][e[t]];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else o[e[d]]=o[e[l]][e[t]];end end else if f<1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else if 2~=f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end end else local d=e[d];local t=e[t];local c=d+2 local d={o[d](o[d+1],o[c])};for e=1,t do o[c+e]=d[e];end;local d=d[1]if d then o[c]=d n=e[l];else n=n+1;end;end end else if f>=62 then if f<=62 then local e=e[d]o[e]=o[e](o[e+1])else if f~=64 then local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];if not o[e[d]]then n=n+1;else n=e[l];end;else n=e[l];end end else if 60~=f then o[e[d]]=m[e[l]];else local t;for f=0,1 do if 1~=f then o(e[d],e[l]);n=n+1;e=c[n];else t=e[d]o[t]=o[t](h(o,t+1,e[l]))end end end end end else if f>=75 then if 78>f then if f>75 then if f>74 then for c=43,88 do if 77~=f then o[e[d]]=(not o[e[l]]);break;end;if not o[e[d]]then n=n+1;else n=e[l];end;break;end;else o[e[d]]=(not o[e[l]]);end else local f,s;for a=0,6 do if a<=2 then if a>=1 then if a~=-1 then for m=42,93 do if a~=2 then f=e[d];s=o[e[l]];o[f+1]=s;o[f]=s[e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else f=e[d];s=o[e[l]];o[f+1]=s;o[f]=s[e[t]];n=n+1;e=c[n];end else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else if a>4 then if 5==a then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=o[e[l]][e[t]];end else if 4~=a then f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end end end else if 78>=f then local m;for f=0,6 do if 2>=f then if f<1 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else if-3<f then repeat if f~=2 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;m=e[d]o[m]=o[m](h(o,m+1,e[l]))n=n+1;e=c[n];until true;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end else if f>4 then if f~=3 then for m=11,85 do if 5<f then if(o[e[d]]<o[e[t]])then n=e[l];else n=n+1;end;break;end;o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else if 2<f then for m=26,84 do if 4>f then o[e[d]]=o[e[l]]-o[e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]]-o[e[t]];n=n+1;e=c[n];end end end end else if f~=79 then local m,p,b,u,a,s,k,r,f;for f=0,4 do if 2<=f then if 3>f then o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];else if f>-1 then repeat if f<4 then o[e[d]][e[l]]=e[t];n=n+1;e=c[n];break;end;m=e[d]o[m](h(o,m+1,e[l]))until true;else m=e[d]o[m](h(o,m+1,e[l]))end end else if-4~=f then for h=19,57 do if 1>f then m=e[d]o[m]=o[m](o[m+1])n=n+1;e=c[n];break;end;f=0;while f>-1 do if f<3 then if 0<f then if 0~=f then repeat if 1~=f then s=a[b];break;end;a=e;until true;else s=a[b];end else p=d;b=l;u=t;end else if 5>f then if f>=0 then for e=38,79 do if 4~=f then k=a[p];break;end;r=o[s];for e=1+s,a[u]do r=r..o[e];end;break;end;else r=o[s];for e=1+s,a[u]do r=r..o[e];end;end else if 3~=f then repeat if 5<f then f=-2;break;end;o[k]=r;until true;else f=-2;end end end f=f+1 end n=n+1;e=c[n];break;end;else m=e[d]o[m]=o[m](o[m+1])n=n+1;e=c[n];end end end else local f,a;for r=0,6 do if 2>=r then if 1>r then o(e[d],e[l]);n=n+1;e=c[n];else if 2~=r then f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end else if r<5 then if 4==r then o(e[d],e[l]);n=n+1;e=c[n];else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end else if r~=2 then for t=40,69 do if 5<r then o[e[d]]=m[e[l]];break;end;f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];break;end;else o[e[d]]=m[e[l]];end end end end end end end else if f<=71 then if 71==f then if(e[d]<o[e[t]])then n=n+1;else n=e[l];end;else local e=e[d];do return o[e],o[e+1]end end else if 72>=f then local f;for a=0,6 do if 2>=a then if 0<a then if 1~=a then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else if a>4 then if 3<a then repeat if 5~=a then o[e[d]]=m[e[l]];break;end;f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];until true;else f=e[d]o[f]=o[f](h(o,f+1,e[l]))n=n+1;e=c[n];end else if a>=1 then for f=21,75 do if 4~=a then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end else if f>72 then for n=34,72 do if f~=74 then local e=e[d]local d,n=y(o[e](o[e+1]))s=n+e-1 local n=0;for e=e,s do n=n+1;o[e]=d[n];end;break;end;o[e[d]]=o[e[l]]+o[e[t]];break;end;else o[e[d]]=o[e[l]]+o[e[t]];end end end end end else if f>=50 then if f>=55 then if 56>=f then if f<56 then local c,r,f,t,m,h;local n=0;while n>-1 do if 3<n then if n<6 then if 4<n then h=c[r];else m=t[c[f]];end else if 7~=n then o[h]=m;else n=-2;end end else if n>=2 then if 3==n then t=o;else f=l;end else if 1~=n then c=e;else r=d;end end end n=n+1 end else local m,b,a,k,u,s,p,f;o[e[d]]=r[e[l]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];m=e[d];b=o[e[l]];o[m+1]=b;o[m]=b[e[t]];n=n+1;e=c[n];f=0;while f>-1 do if f>2 then if 5<=f then if f~=3 then repeat if 6>f then o(p,s);break;end;f=-2;until true;else f=-2;end else if 0<f then for e=24,57 do if 3~=f then p=a[k];break;end;s=a[u];break;end;else s=a[u];end end else if f<=0 then a=e;else if f~=1 then u=l;else k=d;end end end f=f+1 end n=n+1;e=c[n];m=e[d]o[m]=o[m](h(o,m+1,e[l]))n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];end else if f<=57 then local s=b[e[l]];local h;local f={};h=a.fbUklXdR({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(o,e,n)local e=f[e]e[1][e[2]]=n;end;});for d=1,e[t]do n=n+1;local e=c[n];if e[p]==142 then f[d-1]={o,e[l]};else f[d-1]={r,e[l]};end;u[#u+1]=f;end;o[e[d]]=_(s,h,m);else if 55<=f then for n=48,63 do if 59>f then local n=e[d];local d=o[e[l]];o[n+1]=d;o[n]=d[e[t]];break;end;local n=e[d]local l={o[n](o[n+1])};local d=0;for e=n,e[t]do d=d+1;o[e]=l[d];end break;end;else local n=e[d];local d=o[e[l]];o[n+1]=d;o[n]=d[e[t]];end end end else if f<=51 then if f>=47 then repeat if f>50 then if(o[e[d]]==e[t])then n=n+1;else n=e[l];end;break;end;local h;for f=0,6 do if 3>f then if f>0 then if 2~=f then o[e[d]]=m[e[l]];n=n+1;e=c[n];else h=e[d]o[h]=o[h]()n=n+1;e=c[n];end else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else if f>=5 then if 5==f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]][e[l]]=o[e[t]];end else if 1~=f then for m=29,69 do if 4>f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end until true;else local h;for f=0,6 do if 3>f then if f>0 then if 2~=f then o[e[d]]=m[e[l]];n=n+1;e=c[n];else h=e[d]o[h]=o[h]()n=n+1;e=c[n];end else o[e[d]]=r[e[l]];n=n+1;e=c[n];end else if f>=5 then if 5==f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];else o[e[d]][e[l]]=o[e[t]];end else if 1~=f then for m=29,69 do if 4>f then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end end end end end else if 52<f then if 49~=f then repeat if f>53 then if(o[e[d]]~=e[t])then n=n+1;else n=e[l];end;break;end;local l=e[l];local n=o[l]for e=l+1,e[t]do n=n..o[e];end;o[e[d]]=n;until true;else local l=e[l];local n=o[l]for e=l+1,e[t]do n=n..o[e];end;o[e[d]]=n;end else local f,a,u,s;for h=0,6 do if h>2 then if 5>h then if 1<h then repeat if h~=3 then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;o[e[d]]=m[e[l]];n=n+1;e=c[n];until true;else o[e[d]]=m[e[l]];n=n+1;e=c[n];end else if 3<h then repeat if 6>h then f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];break;end;f=e[d]u={o[f](o[f+1])};s=0;for e=f,e[t]do s=s+1;o[e]=u[s];end until true;else f=e[d];a=o[e[l]];o[f+1]=a;o[f]=a[e[t]];n=n+1;e=c[n];end end else if 1<=h then if 0<h then for f=10,83 do if h~=2 then o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];break;end;for e=e[d],e[l]do o[e]=nil;end;n=n+1;e=c[n];break;end;else o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];end else o[e[d]]=m[e[l]];n=n+1;e=c[n];end end end end end end else if 44<f then if f<47 then if 43<f then repeat if f~=45 then local m,a,s,k,p,u,z,f,_,b;for f=0,6 do if f>=3 then if f<5 then if f~=-1 then for h=14,68 do if f~=4 then o[e[d]]=r[e[l]];n=n+1;e=c[n];break;end;m=e[d];a=o[e[l]];o[m+1]=a;o[m]=a[e[t]];n=n+1;e=c[n];break;end;else m=e[d];a=o[e[l]];o[m+1]=a;o[m]=a[e[t]];n=n+1;e=c[n];end else if 2<=f then repeat if f~=5 then m=e[d]_={o[m](h(o,m+1,e[l]))};b=0;for e=m,e[t]do b=b+1;o[e]=_[b];end break;end;o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];until true;else m=e[d]_={o[m](h(o,m+1,e[l]))};b=0;for e=m,e[t]do b=b+1;o[e]=_[b];end end end else if 1>f then m=e[d];a=o[e[l]];o[m+1]=a;o[m]=a[e[t]];n=n+1;e=c[n];else if f>-1 then for t=49,55 do if 2~=f then f=0;while f>-1 do if 3>f then if f<=0 then s=e;else if f~=-3 then for e=30,78 do if f~=1 then p=l;break;end;k=d;break;end;else k=d;end end else if 4<f then if 2~=f then repeat if 6~=f then o(z,u);break;end;f=-2;until true;else o(z,u);end else if 1<f then for e=16,84 do if 4>f then u=s[p];break;end;z=s[k];break;end;else u=s[p];end end end f=f+1 end n=n+1;e=c[n];break;end;m=e[d]o[m]=o[m](h(o,m+1,e[l]))n=n+1;e=c[n];break;end;else f=0;while f>-1 do if 3>f then if f<=0 then s=e;else if f~=-3 then for e=30,78 do if f~=1 then p=l;break;end;k=d;break;end;else k=d;end end else if 4<f then if 2~=f then repeat if 6~=f then o(z,u);break;end;f=-2;until true;else o(z,u);end else if 1<f then for e=16,84 do if 4>f then u=s[p];break;end;z=s[k];break;end;else u=s[p];end end end f=f+1 end n=n+1;e=c[n];end end end end break;end;o[e[d]]=o[e[l]]%e[t];until true;else o[e[d]]=o[e[l]]%e[t];end else if 47<f then if 48~=f then if(o[e[d]]~=e[t])then n=n+1;else n=e[l];end;else local f;o[e[d]]=m[e[l]];n=n+1;e=c[n];f=e[d]o[f]=o[f]()n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]]=o[e[l]][e[t]];n=n+1;e=c[n];o[e[d]][e[l]]=o[e[t]];n=n+1;e=c[n];o[e[d]]=r[e[l]];end else if(o[e[d]]<o[e[t]])then n=n+1;else n=e[l];end;end end else if 41<f then if 42<f then if 43==f then o[e[d]]();else local f,m;f=e[d];m=o[e[l]];o[f+1]=m;o[f]=m[e[t]];n=n+1;e=c[n];o(e[d],e[l]);n=n+1;e=c[n];f=e[d];do return o[f](h(o,f+1,e[l]))end;n=n+1;e=c[n];f=e[d];do return h(o,f,s)end;n=n+1;e=c[n];do return end;end else o[e[d]]=(e[l]~=0);end else if 40~=f then local d=e[d]local l={o[d](h(o,d+1,e[l]))};local n=0;for e=d,e[t]do n=n+1;o[e]=l[n];end else if(o[e[d]]<o[e[t]])then n=e[l];else n=n+1;end;end end end end end end end n=1+n;end;end;return oe end;local l=0xff;local m={};local t=(1);local d='';(function(n)local o=n local c=0x00 local e=0x00 o={(function(t)if c>0x26 then return t end c=c+1 e=(e+0xe86-t)%0x30 return(e%0x03==0x0 and(function(o)if not n[o]then e=e+0x01 n[o]=(0x62);end return true end)'wOJjJ'and o[0x2](0x23f+t))or(e%0x03==0x2 and(function(o)if not n[o]then e=e+0x01 n[o]=(0x44);end return true end)'IKogd'and o[0x1](t+0xec))or(e%0x03==0x1 and(function(o)if not n[o]then e=e+0x01 n[o]=(0x27);d='\37';l={function()l()end};d=d..'\100\43';end return true end)'gpkUU'and o[0x3](t+0x135))or t end),(function(f)if c>0x26 then return f end c=c+1 e=(e+0x8c5-f)%0x45 return(e%0x03==0x2 and(function(o)if not n[o]then e=e+0x01 n[o]=(0xd5);end return true end)'xqkGX'and o[0x3](0x39a+f))or(e%0x03==0x1 and(function(o)if not n[o]then e=e+0x01 n[o]=(0x81);m[t]=le();t=t+l;end return true end)'SLmqT'and o[0x1](f+0x1ba))or(e%0x03==0x0 and(function(o)if not n[o]then e=e+0x01 n[o]=(0x45);l[2]=(l[2]*(ee(function()m()end,h(d))-ee(l[1],h(d))))+1;m[t]={};l=l[2];t=t+l;end return true end)'vUerj'and o[0x2](f+0x150))or f end),(function(f)if c>0x28 then return f end c=c+1 e=(e+0x60f-f)%0xc return(e%0x03==0x0 and(function(o)if not n[o]then e=e+0x01 n[o]=(0xce);end return true end)'rzFZb'and o[0x3](0x13a+f))or(e%0x03==0x2 and(function(o)if not n[o]then e=e+0x01 n[o]=(0x72);d={d..'\58 a',d};m[t]=ne();t=t+(1);d[1]='\58'..d[1];l[2]=0xff;end return true end)'bU_hy'and o[0x2](f+0xdc))or(e%0x03==0x1 and(function(o)if not n[o]then e=e+0x01 n[o]=(0xbd);end return true end)'XjGgn'and o[0x1](f+0x80))or f end)}o[0x1](0x288)end){};local e=_(h(m));return e(...);end return oe((function()local n={}local e=0x01;local o;if a.vrpfRPnL then o=a.vrpfRPnL(oe)else o=''end if a.cvlDYcbP(o,a.pBFRMpnv)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(o,e,n,l,d,c)local c;if 4<=o then if o<6 then if o>=0 then repeat if 5>o then local o=l;local f,t,l=d(2);do return function()local d,c,n,e=e(n,o(o,o),o(o,o)+3);o(4);return(e*f)+(n*t)+(c*l)+d;end;end;break;end;local o=l;do return function()local e=e(n,o(o,o),o(o,o));o(1);return e;end;end;until true;else local o=l;local l,d,c=d(2);do return function()local f,t,n,e=e(n,o(o,o),o(o,o)+3);o(4);return(e*l)+(n*d)+(t*c)+f;end;end;end else if 7>o then do return d[n]end;else if 7==o then do return setmetatable({},{['__\99\97\108\108']=function(e,d,o,l,n)if n then return e[n]elseif l then return e else e[d]=o end end})end else do return n(o,nil,n);end end end end else if 1>=o then if o<1 then do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;else do return function(n,e,o)if o then local e=(n/2^(e-1))%2^((o-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end else if 0~=o then for c=30,66 do if o~=2 then do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;break;end;do return 16777216,65536,256 end;break;end;else do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;end end end end),...)
+-- Advanced Player ESP System with Auto-Repair, Performance Optimization and Diagnostics
+-- This script creates a smart ESP system with comprehensive error handling and self-repair
+
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local CoreGui = game:GetService("CoreGui")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local LocalPlayer = Players.LocalPlayer
+local Camera = workspace.CurrentCamera
+
+-- Configuration with default values
+local ESP = {
+    Enabled = true,
+    BoxColor = Color3.fromRGB(255, 0, 0),
+    BoxTransparency = 0.5,
+    BoxThickness = 2,
+    TeamCheck = false,
+    RenderDistance = 1000,
+    UpdateRate = 1/60,
+    ShowHealthBar = true,
+    ShowDistance = true,
+    RainbowMode = false,
+    ShowHeadDot = false,
+    ShowTracers = false,
+    ShowChams = false,
+    ChamsTransparency = 0.8,
+    ShowBoundingBox = true,
+    AutoFixEnabled = true,
+    OptimizationLevel = 2, -- 1 = Low, 2 = Medium, 3 = High
+    PerformanceMode = false,
+    RefreshRate = 0.1, -- 0.1 = 10Hz refresh rate for performance mode
+    TargetFPS = 60,
+    VisibilityCheck = false, -- Ray casting to check if player is visible
+    PredictMovement = false,
+    PredictionAmount = 0.5, -- 0.5 seconds into the future
+    UseTeamColors = false,
+    AlwaysOnTop = true,
+    BoxStyle = 1, -- 1 = Regular, 2 = 3D, 3 = Corner
+    CustomText = "",
+    ShowSkeleton = false,
+    HeadDotSize = 5,
+    TracerOrigin = 2, -- 1 = Top, 2 = Center, 3 = Bottom
+    HighlightTarget = false,
+    TargetColor = Color3.fromRGB(255, 255, 0),
+    ShowWeapon = false,
+    ShowPlayers = true,
+    ShowNPCs = false, -- For games that have NPCs
+    StatusChecks = true,
+    DebugMode = false
+}
+
+-- Diagnostic data for performance monitoring
+local Diagnostics = {
+    FrameUpdateTimes = {},
+    Errors = {},
+    LastFixAttempt = 0,
+    FixAttempts = 0,
+    MaxFixAttempts = 5,
+    LastErrorTime = 0,
+    ErrorCount = 0,
+    FPSHistory = {},
+    DrawCalls = 0,
+    ActiveESPObjects = 0,
+    MemoryUsage = 0,
+    FailedDraws = 0,
+    OverdrawnObjects = 0
+}
+
+-- GUI Objects
+local ScreenGui, SettingsGui
+local MainFrame, DiagnosticsPanel
+
+-- Storage for ESP objects
+local ESPObjects = {}
+local HighlightedObjects = {}
+local TracerObjects = {}
+local HeadDotObjects = {}
+local SkeletonObjects = {}
+local ChamsObjects = {}
+local TargetPlayer = nil
+
+-- Create Error Handling System
+local function logError(errorType, details, critical)
+    local timestamp = os.time()
+    table.insert(Diagnostics.Errors, {
+        Type = errorType,
+        Details = details,
+        Time = timestamp,
+        Critical = critical or false
+    })
+    
+    Diagnostics.LastErrorTime = timestamp
+    Diagnostics.ErrorCount = Diagnostics.ErrorCount + 1
+    
+    -- Only keep the last 50 errors
+    if #Diagnostics.Errors > 50 then
+        table.remove(Diagnostics.Errors, 1)
+    end
+    
+    if ESP.DebugMode then
+        print("[ESP ERROR] " .. errorType .. ": " .. details)
+    end
+    
+    -- Auto-fix attempt for critical errors
+    if critical and ESP.AutoFixEnabled and (timestamp - Diagnostics.LastFixAttempt > 10) then
+        attemptFixESP(errorType)
+    end
+end
+
+-- Performance monitoring
+local function recordFrameTime(frameTime)
+    table.insert(Diagnostics.FrameUpdateTimes, frameTime)
+    
+    -- Only keep the last 100 frame times
+    if #Diagnostics.FrameUpdateTimes > 100 then
+        table.remove(Diagnostics.FrameUpdateTimes, 1)
+    end
+    
+    -- Record FPS
+    local fps = 1 / frameTime
+    table.insert(Diagnostics.FPSHistory, fps)
+    
+    if #Diagnostics.FPSHistory > 100 then
+        table.remove(Diagnostics.FPSHistory, 1)
+    end
+end
+
+-- Calculate average FPS
+local function getAverageFPS()
+    if #Diagnostics.FPSHistory == 0 then
+        return 0
+    end
+    
+    local sum = 0
+    for _, fps in ipairs(Diagnostics.FPSHistory) do
+        sum = sum + fps
+    end
+    
+    return sum / #Diagnostics.FPSHistory
+end
+
+-- Auto-fixing system
+local function attemptFixESP(errorType)
+    Diagnostics.LastFixAttempt = os.time()
+    Diagnostics.FixAttempts = Diagnostics.FixAttempts + 1
+    
+    if ESP.DebugMode then
+        print("[ESP AUTO-FIX] Attempting to fix " .. errorType .. " (Attempt " .. Diagnostics.FixAttempts .. ")")
+    end
+    
+    -- If we've tried to fix too many times, reset everything
+    if Diagnostics.FixAttempts >= Diagnostics.MaxFixAttempts then
+        resetESP()
+        return
+    end
+    
+    -- Specific fixes for different error types
+    if errorType == "ConnectionError" then
+        -- Reconnect events
+        reconnectEvents()
+    elseif errorType == "RenderError" then
+        -- Clear and recreate all ESP objects
+        clearESPObjects()
+        rebuildESPObjects()
+    elseif errorType == "MemoryError" then
+        -- Clear unused objects and reduce drawing
+        clearESPObjects()
+        ESP.OptimizationLevel = ESP.OptimizationLevel + 1
+        if ESP.OptimizationLevel > 3 then
+            ESP.OptimizationLevel = 3
+        end
+        rebuildESPObjects()
+    elseif errorType == "PerformanceError" then
+        -- Reduce quality to improve performance
+        ESP.BoxStyle = 1
+        ESP.ShowChams = false
+        ESP.ShowSkeleton = false
+        ESP.ShowTracers = false
+        ESP.PerformanceMode = true
+        ESP.RefreshRate = 0.2
+    else
+        -- Generic fix - reconstruct the ESP
+        resetESP()
+    end
+end
+
+-- Complete ESP reset
+local function resetESP()
+    if ESP.DebugMode then
+        print("[ESP RESET] Performing complete ESP reset")
+    end
+    
+    -- Clear all objects
+    clearESPObjects()
+    
+    -- Recreate the GUI
+    if ScreenGui then
+        ScreenGui:Destroy()
+    end
+    
+    -- Recreate everything
+    createESPGui()
+    
+    -- Reset diagnostic data
+    Diagnostics.FixAttempts = 0
+    Diagnostics.LastFixAttempt = os.time()
+    Diagnostics.ErrorCount = 0
+    
+    -- Rebuild all ESP objects
+    rebuildESPObjects()
+    
+    -- Force update
+    updateESP()
+end
+
+-- Clear all ESP Objects
+local function clearESPObjects()
+    -- Clear all ESP objects
+    for player, box in pairs(ESPObjects) do
+        if box and box.Parent then
+            box:Destroy()
+        end
+    end
+    
+    for player, highlight in pairs(HighlightedObjects) do
+        if highlight and highlight.Parent then
+            highlight:Destroy()
+        end
+    end
+    
+    for player, tracer in pairs(TracerObjects) do
+        if tracer and tracer.Parent then
+            tracer:Destroy()
+        end
+    end
+    
+    for player, headDot in pairs(HeadDotObjects) do
+        if headDot and headDot.Parent then
+            headDot:Destroy()
+        end
+    end
+    
+    for player, skeleton in pairs(SkeletonObjects) do
+        if skeleton and skeleton.Parent then
+            skeleton:Destroy()
+        end
+    end
+    
+    for player, chams in pairs(ChamsObjects) do
+        if chams and chams.Parent then
+            chams:Destroy()
+        end
+    end
+    
+    -- Reset tables
+    ESPObjects = {}
+    HighlightedObjects = {}
+    TracerObjects = {}
+    HeadDotObjects = {}
+    SkeletonObjects = {}
+    ChamsObjects = {}
+}
+
+-- Rebuild all ESP objects
+local function rebuildESPObjects()
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            createESPBox(player)
+            
+            if ESP.ShowChams then
+                createChams(player)
+            end
+            
+            if ESP.ShowTracers then
+                createTracer(player)
+            end
+            
+            if ESP.ShowHeadDot then
+                createHeadDot(player)
+            end
+            
+            if ESP.ShowSkeleton then
+                createSkeleton(player)
+            end
+        end
+    end
+    
+    Diagnostics.ActiveESPObjects = #ESPObjects
+end
+
+-- Reconnect all events
+local function reconnectEvents()
+    -- Disconnect all events first
+    for _, connection in pairs(eventConnections) do
+        if connection then
+            connection:Disconnect()
+        end
+    end
+    
+    -- Reconnect events
+    connectEvents()
+end
+
+-- Create the main ESP Gui
+local function createESPGui()
+    -- Create ScreenGui for ESP
+    ScreenGui = Instance.new("ScreenGui")
+    ScreenGui.Name = "ESPOverlay"
+    ScreenGui.ResetOnSpawn = false
+    ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    
+    -- Use CoreGui if possible for persistence, otherwise use PlayerGui
+    local success, result = pcall(function()
+        if syn and syn.protect_gui then
+            syn.protect_gui(ScreenGui)
+            ScreenGui.Parent = CoreGui
+        else
+            ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+        end
+    end)
+    
+    if not success then
+        ScreenGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+        logError("GuiError", "Failed to use CoreGui, falling back to PlayerGui: " .. tostring(result), false)
+    end
+    
+    -- Create Settings GUI
+    SettingsGui = Instance.new("ScreenGui")
+    SettingsGui.Name = "AdvancedESPSettings"
+    SettingsGui.ResetOnSpawn = false
+    SettingsGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    
+    -- Use CoreGui if possible for persistence, otherwise use PlayerGui
+    local success, result = pcall(function()
+        if syn and syn.protect_gui then
+            syn.protect_gui(SettingsGui)
+            SettingsGui.Parent = CoreGui
+        else
+            SettingsGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+        end
+    end)
+    
+    if not success then
+        SettingsGui.Parent = LocalPlayer:WaitForChild("PlayerGui")
+        logError("GuiError", "Failed to use CoreGui for settings, falling back to PlayerGui: " .. tostring(result), false)
+    end
+    
+    createSettingsGui()
+    createDiagnosticsPanel()
+end
+
+-- Storage for event connections to track them
+local eventConnections = {}
+
+-- Connect all events
+local function connectEvents()
+    -- Clear existing connections
+    for _, connection in pairs(eventConnections) do
+        if connection then
+            connection:Disconnect()
+        end
+    end
+    
+    eventConnections = {}
+    
+    -- Player added
+    eventConnections.playerAdded = Players.PlayerAdded:Connect(function(player)
+        task.delay(1, function() -- Wait for character to load
+            if player ~= LocalPlayer then
+                createESPBox(player)
+                
+                if ESP.ShowChams then
+                    createChams(player)
+                end
+                
+                if ESP.ShowTracers then
+                    createTracer(player)
+                end
+                
+                if ESP.ShowHeadDot then
+                    createHeadDot(player)
+                end
+                
+                if ESP.ShowSkeleton then
+                    createSkeleton(player)
+                end
+            end
+        end)
+    end)
+    
+    -- Player removing
+    eventConnections.playerRemoving = Players.PlayerRemoving:Connect(function(player)
+        removePlayerESP(player)
+    end)
+    
+    -- Character added for each player
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            eventConnections["characterAdded_" .. player.UserId] = player.CharacterAdded:Connect(function(character)
+                -- Wait a moment for character to fully load
+                task.delay(0.5, function()
+                    refreshPlayerESP(player)
+                end)
+            end)
+        end
+    end
+    
+    -- Update connection
+    -- We'll establish this separately depending on performance mode
+    setupUpdateConnection()
+    
+    -- Input detection
+    eventConnections.inputBegan = UserInputService.InputBegan:Connect(function(input, gameProcessed)
+        if not gameProcessed then
+            -- Toggle settings GUI with RightControl
+            if input.KeyCode == Enum.KeyCode.RightControl then
+                SettingsGui.Enabled = not SettingsGui.Enabled
+            end
+            
+            -- Toggle ESP with F4
+            if input.KeyCode == Enum.KeyCode.F4 then
+                toggleESP()
+            end
+            
+            -- Toggle diagnostic panel with F5
+            if input.KeyCode == Enum.KeyCode.F5 then
+                toggleDiagnostics()
+            end
+            
+            -- Force ESP reset with F6
+            if input.KeyCode == Enum.KeyCode.F6 then
+                resetESP()
+            end
+        end
+    end)
+}
+
+-- Setup update connection based on performance mode
+local function setupUpdateConnection()
+    -- Clear existing update connection
+    if eventConnections.update then
+        eventConnections.update:Disconnect()
+        eventConnections.update = nil
+    end
+    
+    if ESP.PerformanceMode then
+        -- Use a less frequent update in performance mode
+        eventConnections.update = RunService.Heartbeat:Connect(function()
+            -- Only update at the specified refresh rate
+            if tick() % ESP.RefreshRate <= 0.01 then
+                local startTime = tick()
+                updateESP()
+                local frameTime = tick() - startTime
+                recordFrameTime(frameTime)
+                
+                -- Auto-detect performance issues
+                if frameTime > (1 / ESP.TargetFPS) * 2 then
+                    -- If frame time is more than twice the target, log a performance issue
+                    logError("PerformanceError", "ESP update taking too long: " .. tostring(frameTime * 1000) .. "ms", true)
+                end
+            end
+        end)
+    else
+        -- Use RenderStepped for standard mode (more responsive)
+        eventConnections.update = RunService:BindToRenderStep("ESPUpdate", Enum.RenderPriority.Camera.Value + 1, function()
+            local startTime = tick()
+            updateESP()
+            local frameTime = tick() - startTime
+            recordFrameTime(frameTime)
+            
+            -- Auto-detect performance issues
+            if frameTime > (1 / ESP.TargetFPS) * 2 then
+                -- If frame time is more than twice the target, log a performance issue
+                logError("PerformanceError", "ESP update taking too long: " .. tostring(frameTime * 1000) .. "ms", true)
+            end
+        end)
+    end
+end
+
+-- Remove all ESP for a player
+local function removePlayerESP(player)
+    -- Remove ESP box
+    if ESPObjects[player] then
+        ESPObjects[player]:Destroy()
+        ESPObjects[player] = nil
+    end
+    
+    -- Remove highlight
+    if HighlightedObjects[player] then
+        HighlightedObjects[player]:Destroy()
+        HighlightedObjects[player] = nil
+    end
+    
+    -- Remove tracer
+    if TracerObjects[player] then
+        TracerObjects[player]:Destroy()
+        TracerObjects[player] = nil
+    end
+    
+    -- Remove head dot
+    if HeadDotObjects[player] then
+        HeadDotObjects[player]:Destroy()
+        HeadDotObjects[player] = nil
+    end
+    
+    -- Remove skeleton
+    if SkeletonObjects[player] then
+        SkeletonObjects[player]:Destroy()
+        SkeletonObjects[player] = nil
+    end
+    
+    -- Remove chams
+    if ChamsObjects[player] then
+        ChamsObjects[player]:Destroy()
+        ChamsObjects[player] = nil
+    end
+    
+    -- Remove any custom connection
+    if eventConnections["characterAdded_" .. player.UserId] then
+        eventConnections["characterAdded_" .. player.UserId]:Disconnect()
+        eventConnections["characterAdded_" .. player.UserId] = nil
+    end
+    
+    Diagnostics.ActiveESPObjects = 0
+    for _ in pairs(ESPObjects) do
+        Diagnostics.ActiveESPObjects = Diagnostics.ActiveESPObjects + 1
+    end
+}
+
+-- Refresh ESP for a player
+local function refreshPlayerESP(player)
+    removePlayerESP(player)
+    
+    -- Wait a short moment then recreate
+    task.delay(0.1, function()
+        createESPBox(player)
+        
+        if ESP.ShowChams then
+            createChams(player)
+        end
+        
+        if ESP.ShowTracers then
+            createTracer(player)
+        end
+        
+        if ESP.ShowHeadDot then
+            createHeadDot(player)
+        end
+        
+        if ESP.ShowSkeleton then
+            createSkeleton(player)
+        end
+    end)
+}
+
+-- Create diagnostics panel
+local function createDiagnosticsPanel()
+    -- Main diagnostics panel
+    DiagnosticsPanel = Instance.new("Frame")
+    DiagnosticsPanel.Name = "DiagnosticsPanel"
+    DiagnosticsPanel.Size = UDim2.new(0, 250, 0, 300)
+    DiagnosticsPanel.Position = UDim2.new(0, 10, 0, 10)
+    DiagnosticsPanel.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+    DiagnosticsPanel.BackgroundTransparency = 0.2
+    DiagnosticsPanel.BorderSizePixel = 0
+    DiagnosticsPanel.Visible = false
+    DiagnosticsPanel.Parent = ScreenGui
+    
+    -- Add rounded corners
+    local UICorner = Instance.new("UICorner")
+    UICorner.CornerRadius = UDim.new(0, 8)
+    UICorner.Parent = DiagnosticsPanel
+    
+    -- Title bar
+    local TitleBar = Instance.new("Frame")
+    TitleBar.Name = "TitleBar"
+    TitleBar.Size = UDim2.new(1, 0, 0, 30)
+    TitleBar.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    TitleBar.BackgroundTransparency = 0.2
+    TitleBar.BorderSizePixel = 0
+    TitleBar.Parent = DiagnosticsPanel
+    
+    -- Title bar corners
+    local UICornerTitle = Instance.new("UICorner")
+    UICornerTitle.CornerRadius = UDim.new(0, 8)
+    UICornerTitle.Parent = TitleBar
+    
+    -- Title clip to bottom corners
+    local TitleBarClip = Instance.new("Frame")
+    TitleBarClip.Name = "TitleBarClip"
+    TitleBarClip.Size = UDim2.new(1, 0, 0, 10)
+    TitleBarClip.Position = UDim2.new(0, 0, 1, -10)
+    TitleBarClip.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    TitleBarClip.BackgroundTransparency = 0.2
+    TitleBarClip.BorderSizePixel = 0
+    TitleBarClip.Parent = TitleBar
+    
+    -- Title text
+    local TitleText = Instance.new("TextLabel")
+    TitleText.Name = "TitleText"
+    TitleText.Size = UDim2.new(1, -30, 1, 0)
+    TitleText.Position = UDim2.new(0, 10, 0, 0)
+    TitleText.BackgroundTransparency = 1
+    TitleText.Font = Enum.Font.GothamBold
+    TitleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TitleText.TextSize = 14
+    TitleText.TextXAlignment = Enum.TextXAlignment.Left
+    TitleText.Text = "ESP Diagnostics"
+    TitleText.Parent = TitleBar
+    
+    -- Close button
+    local CloseButton = Instance.new("TextButton")
+    CloseButton.Name = "CloseButton"
+    CloseButton.Size = UDim2.new(0, 20, 0, 20)
+    CloseButton.Position = UDim2.new(1, -25, 0, 5)
+    CloseButton.BackgroundColor3 = Color3.fromRGB(200, 60, 60)
+    CloseButton.BorderSizePixel = 0
+    CloseButton.Font = Enum.Font.GothamBold
+    CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    CloseButton.TextSize = 14
+    CloseButton.Text = "X"
+    CloseButton.Parent = TitleBar
+    
+    -- Close button corners
+    local CloseCorner = Instance.new("UICorner")
+    CloseCorner.CornerRadius = UDim.new(0, 4)
+    CloseCorner.Parent = CloseButton
+    
+    -- Close button action
+    CloseButton.MouseButton1Click:Connect(function()
+        DiagnosticsPanel.Visible = false
+    end)
+    
+    -- Content area
+    local Content = Instance.new("ScrollingFrame")
+    Content.Name = "Content"
+    Content.Size = UDim2.new(1, -20, 1, -40)
+    Content.Position = UDim2.new(0, 10, 0, 35)
+    Content.BackgroundTransparency = 1
+    Content.BorderSizePixel = 0
+    Content.ScrollBarThickness = 4
+    Content.CanvasSize = UDim2.new(0, 0, 0, 500)
+    Content.Parent = DiagnosticsPanel
+    
+    -- Stats container
+    local StatsContainer = Instance.new("Frame")
+    StatsContainer.Name = "StatsContainer"
+    StatsContainer.Size = UDim2.new(1, 0, 0, 500)
+    StatsContainer.BackgroundTransparency = 1
+    StatsContainer.Parent = Content
+    
+    -- Create stats labels
+    local labels = {
+        {name = "FPSLabel", text = "FPS: --"},
+        {name = "ObjectsLabel", text = "Active ESP Objects: --"},
+        {name = "UpdateTimeLabel", text = "Update Time: -- ms"},
+        {name = "ErrorsLabel", text = "Errors: --"},
+        {name = "FixAttemptsLabel", text = "Fix Attempts: --"},
+        {name = "MemoryLabel", text = "Memory Usage: -- KB"},
+        {name = "StatusLabel", text = "Status: Operational"},
+        {name = "OptimizationLabel", text = "Optimization Level: --"}
+    }
+    
+    for i, label in ipairs(labels) do
+        local statLabel = Instance.new("TextLabel")
+        statLabel.Name = label.name
+        statLabel.Size = UDim2.new(1, 0, 0, 25)
+        statLabel.Position = UDim2.new(0, 0, 0, (i - 1) * 30)
+        statLabel.BackgroundTransparency = 1
+        statLabel.Font = Enum.Font.Gotham
+        statLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+        statLabel.TextSize = 14
+        statLabel.TextXAlignment = Enum.TextXAlignment.Left
+        statLabel.Text = label.text
+        statLabel.Parent = StatsContainer
+    end
+    
+    -- Error log section
+    local ErrorLogTitle = Instance.new("TextLabel")
+    ErrorLogTitle.Name = "ErrorLogTitle"
+    ErrorLogTitle.Size = UDim2.new(1, 0, 0, 25)
+    ErrorLogTitle.Position = UDim2.new(0, 0, 0, 240)
+    ErrorLogTitle.BackgroundTransparency = 1
+    ErrorLogTitle.Font = Enum.Font.GothamBold
+    ErrorLogTitle.TextColor3 = Color3.fromRGB(255, 200, 200)
+    ErrorLogTitle.TextSize = 14
+    ErrorLogTitle.TextXAlignment = Enum.TextXAlignment.Left
+    ErrorLogTitle.Text = "Error Log:"
+    ErrorLogTitle.Parent = StatsContainer
+    
+    -- Create error log
+    local ErrorLog = Instance.new("TextLabel")
+    ErrorLog.Name = "ErrorLog"
+    ErrorLog.Size = UDim2.new(1, 0, 0, 200)
+    ErrorLog.Position = UDim2.new(0, 0, 0, 270)
+    ErrorLog.BackgroundTransparency = 1
+    ErrorLog.Font = Enum.Font.Code
+    ErrorLog.TextColor3 = Color3.fromRGB(255, 200, 200)
+    ErrorLog.TextSize = 12
+    ErrorLog.TextXAlignment = Enum.TextXAlignment.Left
+    ErrorLog.TextYAlignment = Enum.TextYAlignment.Top
+    ErrorLog.Text = "No errors recorded."
+    ErrorLog.TextWrapped = true
+    ErrorLog.Parent = StatsContainer
+    
+    -- Action buttons section
+    local ActionsTitle = Instance.new("TextLabel")
+    ActionsTitle.Name = "ActionsTitle"
+    ActionsTitle.Size = UDim2.new(1, 0, 0, 25)
+    ActionsTitle.Position = UDim2.new(0, 0, 0, 480)
+    ActionsTitle.BackgroundTransparency = 1
+    ActionsTitle.Font = Enum.Font.GothamBold
+    ActionsTitle.TextColor3 = Color3.fromRGB(200, 255, 200)
+    ActionsTitle.TextSize = 14
+    ActionsTitle.TextXAlignment = Enum.TextXAlignment.Left
+    ActionsTitle.Text = "Actions:"
+    ActionsTitle.Parent = StatsContainer
+    
+    -- Create action buttons
+    local actions = {
+        {name = "RepairButton", text = "Repair ESP System", action = resetESP},
+        {name = "ClearErrorsButton", text = "Clear Error Log", action = function() Diagnostics.Errors = {}; updateDiagnostics() end},
+        {name = "OptimizeButton", text = "Optimize Performance", action = optimizePerformance}
+    }
+    
+    for i, actionInfo in ipairs(actions) do
+        local actionButton = Instance.new("TextButton")
+        actionButton.Name = actionInfo.name
+        actionButton.Size = UDim2.new(1, 0, 0, 30)
+        actionButton.Position = UDim2.new(0, 0, 0, 510 + (i - 1) * 35)
+        actionButton.BackgroundColor3 = Color3.fromRGB(60, 60, 80)
+        actionButton.BorderSizePixel = 0
+        actionButton.Font = Enum.Font.Gotham
+        actionButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+        actionButton.TextSize = 14
+        actionButton.Text = actionInfo.text
+        actionButton.Parent = StatsContainer
+        
+        -- Button corners
+        local ButtonCorner = Instance.new("UICorner")
+        ButtonCorner.CornerRadius = UDim.new(0, 6)
+        ButtonCorner.Parent = actionButton
+        
+        -- Button click action
+        actionButton.MouseButton1Click:Connect(actionInfo.action)
+    end
+    
+    -- Update canvas size
+    Content.CanvasSize = UDim2.new(0, 0, 0, 650)
+    
+    -- Make the panel draggable
+    local dragging = false
+    local dragInput
+    local dragStart
+    local startPos
+    
+    TitleBar.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = DiagnosticsPanel.Position
+        end
+    end)
+    
+    TitleBar.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+        end
+    end)
+    
+    UserInputService.InputChanged:Connect(function(input)
+        if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+            local delta = input.Position - dragStart
+            DiagnosticsPanel.Position = UDim2.new(
+                startPos.X.Scale,
+                startPos.X.Offset + delta.X,
+                startPos.Y.Scale,
+                startPos.Y.Offset + delta.Y
+            )
+        end
+    end)
+    
+    -- Begin updating diagnostics
+    task.spawn(function()
+        while task.wait(0.5) do -- Update every half second
+            updateDiagnostics()
+        end
+    end)
+end
+
+-- Update diagnostics panel
+local function updateDiagnostics()
+    if not DiagnosticsPanel or not DiagnosticsPanel.Parent then return end
+    
+    local content = DiagnosticsPanel.Content
+    if not content then return end
+    
+    local stats = content.StatsContainer
+    if not stats then return end
+    
+    -- Update statistics
+    local avgFPS = getAverageFPS()
+    stats.FPSLabel.Text = "FPS: " .. string.format("%.1f", avgFPS)
+    
+    -- Color code FPS
+    if avgFPS > 45 then
+        stats.FPSLabel.TextColor3 = Color3.fromRGB(100, 255, 100) -- Green
+    elseif avgFPS > 30 then
+        stats.FPSLabel.TextColor3 = Color3.fromRGB(255, 255, 100) -- Yellow
+    else
+        stats.FPSLabel.TextColor3 = Color3.fromRGB(255, 100, 100) -- Red
+    end
+    
+    -- Count active objects
+    Diagnostics.ActiveESPObjects = 0
+    for _ in pairs(ESPObjects) do
+        Diagnostics.ActiveESPObjects = Diagnostics.ActiveESPObjects + 1
+    end
+    
+    stats.ObjectsLabel.Text = "Active ESP Objects: " .. Diagnostics.ActiveESPObjects
+    
+    -- Update times
+    local avgUpdateTime = 0
+    if #Diagnostics.FrameUpdateTimes > 0 then
+        local sum = 0
+        for _, time in ipairs(Diagnostics.FrameUpdateTimes) do
+            sum = sum + time
+        end
+        avgUpdateTime = sum / #Diagnostics.FrameUpdateTimes
+    end
+    
+    stats.UpdateTimeLabel.Text = "Update Time: " .. string.format("%.2f", avgUpdateTime * 1000) .. " ms"
+    
+    -- Color code update time
+    if avgUpdateTime < 0.01 then -- Less than 10ms
+        stats.UpdateTimeLabel.TextColor3 = Color3.fromRGB(100, 255, 100) -- Green
+    elseif avgUpdateTime < 0.016 then -- Less than 16ms (60 FPS)
+        stats.UpdateTimeLabel.TextColor3 = Color3.fromRGB(255, 255, 100) -- Yellow
+    else
+        stats.UpdateTimeLabel.TextColor3 = Color3.fromRGB(255, 100, 100) -- Red
+    end
+    
+    -- Error count
+    stats.ErrorsLabel.Text = "Errors: " .. Diagnostics.ErrorCount
+    
+    -- Fix attempts
+    stats.FixAttemptsLabel.Text = "Fix Attempts: " .. Diagnostics.FixAttempts
+    
+    -- Memory usage estimate (very rough)
+    local memUsage = Diagnostics.ActiveESPObjects * 10 -- 10 KB per ESP object (estimate)
+    stats.MemoryLabel.Text = "Memory Usage: ~" .. memUsage .. " KB"
+    
+    -- Status
+    local status = "Operational"
+    if Diagnostics.ErrorCount > 10 then
+        status = "Degraded"
+        stats.StatusLabel.TextColor3 = Color3.fromRGB(255, 200, 0) -- Yellow
+    elseif Diagnostics.ErrorCount > 20 then
+        status = "Critical"
+        stats.StatusLabel.TextColor3 = Color3.fromRGB(255, 100, 100) -- Red
+    else
+        stats.StatusLabel.TextColor3 = Color3.fromRGB(100, 255, 100) -- Green
+    end
+    
+    stats.StatusLabel.Text = "Status: " .. status
+    
+    -- Optimization level
+    local optLevels = {"Low", "Medium", "High"}
+    stats.OptimizationLabel.Text = "Optimization Level: " .. optLevels[ESP.OptimizationLevel]
+    
+    -- Update error log
+    local errorLog = ""
+    for i = #Diagnostics.Errors, 1, -1 do
+        local err = Diagnostics.Errors[i]
+        local timeStr = os.date("%H:%M:%S", err.Time)
+        local severity = err.Critical and "CRITICAL" or "WARNING"
+        errorLog = errorLog .. "[" .. timeStr .. "] " .. severity .. ": " .. err.Type .. " - " .. err.Details .. "\n"
+        
+        -- Only show the last 5 errors
+        if #Diagnostics.Errors - i >= 5 then
+            break
+        end
+    end
+    
+    if errorLog == "" then
+        errorLog = "No errors recorded."
+    end
+    
+    stats.ErrorLog.Text = errorLog
+end
+
+-- Toggle diagnostics panel visibility
+local function toggleDiagnostics()
+    if DiagnosticsPanel then
+        DiagnosticsPanel.Visible = not DiagnosticsPanel.Visible
+        
+        -- Update immediately if becoming visible
+        if DiagnosticsPanel.Visible then
+            updateDiagnostics()
+        end
+    end
+end
+
+-- Optimize performance based on current stats
+local function optimizePerformance()
+    local avgFPS = getAverageFPS()
+    local avgUpdateTime = 0
+    
+    if #Diagnostics.FrameUpdateTimes > 0 then
+        local sum = 0
+        for _, time in ipairs(Diagnostics.FrameUpdateTimes) do
+            sum = sum + time
+        end
+        avgUpdateTime = sum / #Diagnostics.FrameUpdateTimes
+    end
+    
+    -- If FPS is low or update time is high, optimize
+    if avgFPS < 30 or avgUpdateTime > 0.016 then
+        -- Disable features based on severity
+        if avgFPS < 15 or avgUpdateTime > 0.05 then
+            -- Severe performance issues - disable most features
+            ESP.ShowChams = false
+            ESP.ShowSkeleton = false
+            ESP.ShowTracers = false
+            ESP.BoxStyle = 1
+            ESP.ShowHeadDot = false
+            ESP.VisibilityCheck = false
+            ESP.PredictMovement = false
+            ESP.RainbowMode = false
+            ESP.PerformanceMode = true
+            ESP.RefreshRate = 0.2
+            ESP.OptimizationLevel = 3
+        elseif avgFPS < 25 or avgUpdateTime > 0.025 then
+            -- Moderate performance issues - disable some features
+            ESP.ShowChams = false
+            ESP.ShowSkeleton = false
+            ESP.BoxStyle = 1
+            ESP.VisibilityCheck = false
+            ESP.PredictMovement = false
+            ESP.RainbowMode = false
+            ESP.PerformanceMode = true
+            ESP.RefreshRate = 0.1
+            ESP.OptimizationLevel = 2
+        else
+            -- Minor performance issues - disable heavy features
+            ESP.ShowChams = false
+            ESP.ShowSkeleton = false
+            ESP.VisibilityCheck = false
+            ESP.PredictMovement = false
+            ESP.PerformanceMode = false
+            ESP.OptimizationLevel = 2
+        end
+        
+        -- Apply changes
+        clearESPObjects()
+        setupUpdateConnection()
+        rebuildESPObjects()
+        
+        -- Update UI to reflect changes
+        updateSettingsUI()
+        
+        if ESP.DebugMode then
+            print("[ESP OPTIMIZE] Performance optimized. New level: " .. ESP.OptimizationLevel)
+        end
+    else
+        -- Performance is good, no need to optimize
+        if ESP.DebugMode then
+            print("[ESP OPTIMIZE] Performance is already good. FPS: " .. string.format("%.1f", avgFPS))
+        end
+    end
+}
+
+-- Create settings GUI
+local function createSettingsGui()
+    -- Main frame for settings
+    MainFrame = Instance.new("Frame")
+    MainFrame.Name = "MainFrame"
+    MainFrame.Size = UDim2.new(0, 300, 0, 400)
+    MainFrame.Position = UDim2.new(0.85, -150, 0.5, -200)
+    MainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+    MainFrame.BackgroundTransparency = 0.1
+    MainFrame.BorderSizePixel = 0
+    MainFrame.Active = true
+    MainFrame.Draggable = true
+    MainFrame.Parent = SettingsGui
+    
+    -- Add rounded corners
+    local UICorner = Instance.new("UICorner")
+    UICorner.CornerRadius = UDim.new(0, 8)
+    UICorner.Parent = MainFrame
+    
+    -- Title bar
+    local TitleBar = Instance.new("Frame")
+    TitleBar.Name = "TitleBar"
+    TitleBar.Size = UDim2.new(1, 0, 0, 40)
+    TitleBar.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    TitleBar.BackgroundTransparency = 0.1
+    TitleBar.BorderSizePixel = 0
+    TitleBar.Parent = MainFrame
+    
+    -- Title bar rounded corners
+    local UICornerTitle = Instance.new("UICorner")
+    UICornerTitle.CornerRadius = UDim.new(0, 8)
+    UICornerTitle.Parent = TitleBar
+    
+    -- Title clip to bottom corners
+    local TitleBarClip = Instance.new("Frame")
+    TitleBarClip.Name = "TitleBarClip"
+    TitleBarClip.Size = UDim2.new(1, 0, 0, 10)
+    TitleBarClip.Position = UDim2.new(0, 0, 1, -10)
+    TitleBarClip.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    TitleBarClip.BackgroundTransparency = 0.1
+    TitleBarClip.BorderSizePixel = 0
+    TitleBarClip.Parent = TitleBar
+    
+    -- Title text
+    local TitleText = Instance.new("TextLabel")
+    TitleText.Name = "TitleText"
+    TitleText.Size = UDim2.new(1, -80, 1, 0)
+    TitleText.Position = UDim2.new(0, 10, 0, 0)
+    TitleText.BackgroundTransparency = 1
+    TitleText.Font = Enum.Font.GothamBold
+    TitleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+    TitleText.TextSize = 16
+    TitleText.TextXAlignment = Enum.TextXAlignment.Left
+    TitleText.Text = "Advanced ESP Settings"
+    TitleText.Parent = TitleBar
+    
+    -- Tabs for different settings
+    local TabButtons = Instance.new("Frame")
+    TabButtons.Name = "TabButtons"
+    TabButtons.Size = UDim2.new(1, 0, 0, 30)
+    TabButtons.Position = UDim2.new(0, 0, 0, 40)
+    TabButtons.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    TabButtons.BackgroundTransparency = 0.2
+    TabButtons.BorderSizePixel = 0
+    TabButtons.Parent = MainFrame
+    
+    -- Tab button creation function
+    local function createTabButton(name, position, active)
+        local button = Instance.new("TextButton")
+        button.Name = name .. "Button"
+        button.Size = UDim2.new(0.25, 0, 1, 0)
+        button.Position = UDim2.new(position, 0, 0, 0)
+        button.BackgroundTransparency = active and 0.5 or 0.9
+        button.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+        button.BorderSizePixel = 0
+        button.Font = Enum.Font.Gotham
+        button.TextColor3 = Color3.fromRGB(255, 255, 255)
+        button.TextSize = 14
+        button.Text = name
+        button.Parent = TabButtons
+        
+        return button
+    end
+    
+    -- Create tab buttons
+    local mainTab = createTabButton("Main", 0, true)
+    local visualTab = createTabButton("Visual", 0.25, false)
+    local advancedTab = createTabButton("Advanced", 0.5, false)
+    local systemTab = createTabButton("System", 0.75, false)
+    
+    -- Create tab panels
+    local function createTabPanel(name, visible)
+        local panel = Instance.new("ScrollingFrame")
+        panel.Name = name .. "Tab"
+        panel.Size = UDim2.new(1, -20, 1, -80)
+        panel.Position = UDim2.new(0, 10, 0, 75)
+        panel.BackgroundTransparency = 1
+        panel.BorderSizePixel = 0
+        panel.ScrollBarThickness = 6
+        panel.ScrollBarImageColor3 = Color3.fromRGB(100, 100, 100)
+        panel.CanvasSize = UDim2.new(0, 0, 2, 0) -- Will adjust based on content
+        panel.Visible = visible
+        panel.Parent = MainFrame
+        
+        return panel
+    end
+    
+    -- Create tab panels
+    local mainPanel = createTabPanel("Main", true)
+    local visualPanel = createTabPanel("Visual", false)
+    local advancedPanel = createTabPanel("Advanced", false)
+    local systemPanel = createTabPanel("System", false)
+    
+    -- Tab switching function
+    local function switchToTab(tabName)
+        -- Hide all panels
+        mainPanel.Visible = false
+        visualPanel.Visible = false
+        advancedPanel.Visible = false
+        systemPanel.Visible = false
+        
+        -- Reset all button transparency
+        mainTab.BackgroundTransparency = 0.9
+        visualTab.BackgroundTransparency = 0.9
+        advancedTab.BackgroundTransparency = 0.9
+        systemTab.BackgroundTransparency = 0.9
+        
+        -- Show selected panel and highlight button
+        if tabName == "Main" then
+            mainPanel.Visible = true
+            mainTab.BackgroundTransparency = 0.5
+        elseif tabName == "Visual" then
+            visualPanel.Visible = true
+            visualTab.BackgroundTransparency = 0.5
+        elseif tabName == "Advanced" then
+            advancedPanel.Visible = true
+            advancedTab.BackgroundTransparency = 0.5
+        elseif tabName == "System" then
+            systemPanel.Visible = true
+            systemTab.BackgroundTransparency = 0.5
+        end
+    end
+    
+    -- Connect tab buttons
+    mainTab.MouseButton1Click:Connect(function() switchToTab("Main") end)
+    visualTab.MouseButton1Click:Connect(function() switchToTab("Visual") end)
+    advancedTab.MouseButton1Click:Connect(function() switchToTab("Advanced") end)
+    systemTab.MouseButton1Click:Connect(function() switchToTab("System") end)
+    
+    -- Minimize button
+    local MinimizeButton = Instance.new("TextButton")
+    MinimizeButton.Name = "MinimizeButton"
+    MinimizeButton.Size = UDim2.new(0, 30, 0, 30)
+    MinimizeButton.Position = UDim2.new(1, -70, 0, 5)
+    MinimizeButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    MinimizeButton.BorderSizePixel = 0
+    MinimizeButton.Font = Enum.Font.GothamBold
+    MinimizeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    MinimizeButton.TextSize = 18
+    MinimizeButton.Text = "_"
+    MinimizeButton.Parent = TitleBar
+    
+    -- Minimize button rounded corners
+    local UICornerMin = Instance.new("UICorner")
+    UICornerMin.CornerRadius = UDim.new(0, 6)
+    UICornerMin.Parent = MinimizeButton
+    
+    -- Close button
+    local CloseButton = Instance.new("TextButton")
+    CloseButton.Name = "CloseButton"
+    CloseButton.Size = UDim2.new(0, 30, 0, 30)
+    CloseButton.Position = UDim2.new(1, -35, 0, 5)
+    CloseButton.BackgroundColor3 = Color3.fromRGB(200, 40, 40)
+    CloseButton.BorderSizePixel = 0
+    CloseButton.Font = Enum.Font.GothamBold
+    CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    CloseButton.TextSize = 18
+    CloseButton.Text = "X"
+    CloseButton.Parent = TitleBar
+    
+    -- Close button rounded corners
+    local UICornerClose = Instance.new("UICorner")
+    UICornerClose.CornerRadius = UDim.new(0, 6)
+    UICornerClose.Parent = CloseButton
+    
+    -- Create UI controls for each tab
+    createMainTabControls(mainPanel)
+    createVisualTabControls(visualPanel)
+    createAdvancedTabControls(advancedPanel)
+    createSystemTabControls(systemPanel)
+    
+    -- Toggle visibility of settings GUI
+    local minimized = false
+    MinimizeButton.MouseButton1Click:Connect(function()
+        minimized = not minimized
+        
+        if minimized then
+            local targetSize = UDim2.new(0, 300, 0, 40)
+            local tween = TweenService:Create(MainFrame, TweenInfo.new(0.3), {Size = targetSize})
+            tween:Play()
+            mainPanel.Visible = false
+            visualPanel.Visible = false
+            advancedPanel.Visible = false
+            systemPanel.Visible = false
+            TabButtons.Visible = false
+            MinimizeButton.Text = "+"
+        else
+            local targetSize = UDim2.new(0, 300, 0, 400)
+            local tween = TweenService:Create(MainFrame, TweenInfo.new(0.3), {Size = targetSize})
+            tween:Play()
+            TabButtons.Visible = true
+            switchToTab("Main")
+            MinimizeButton.Text = "_"
+        end
+    end)
+    
+    -- Close settings GUI
+    CloseButton.MouseButton1Click:Connect(function()
+        SettingsGui.Enabled = false
+    end)
+}
+
+-- Create Section in a tab
+local function createSection(title, parent, posY)
+    local section = Instance.new("Frame")
+    section.Name = title .. "Section"
+    section.Size = UDim2.new(1, 0, 0, 30)
+    section.Position = UDim2.new(0, 0, 0, posY)
+    section.BackgroundTransparency = 1
+    section.Parent = parent
+    
+    local sectionTitle = Instance.new("TextLabel")
+    sectionTitle.Name = "Title"
+    sectionTitle.Size = UDim2.new(1, 0, 0, 30)
+    sectionTitle.BackgroundTransparency = 1
+    sectionTitle.Font = Enum.Font.GothamSemibold
+    sectionTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+    sectionTitle.TextSize = 14
+    sectionTitle.TextXAlignment = Enum.TextXAlignment.Left
+    sectionTitle.Text = title
+    sectionTitle.Parent = section
+    
+    return section, posY + 35
+end
+
+-- Create toggle control
+local function createToggle(parent, posY, text, initialValue, callback)
+    local toggle = Instance.new("Frame")
+    toggle.Name = text .. "Toggle"
+    toggle.Size = UDim2.new(1, 0, 0, 30)
+    toggle.Position = UDim2.new(0, 0, 0, posY)
+    toggle.BackgroundTransparency = 1
+    toggle.Parent = parent
+    
+    local toggleText = Instance.new("TextLabel")
+    toggleText.Name = "Text"
+    toggleText.Size = UDim2.new(1, -60, 1, 0)
+    toggleText.BackgroundTransparency = 1
+    toggleText.Font = Enum.Font.Gotham
+    toggleText.TextColor3 = Color3.fromRGB(200, 200, 200)
+    toggleText.TextSize = 14
+    toggleText.TextXAlignment = Enum.TextXAlignment.Left
+    toggleText.Text = text
+    toggleText.Parent = toggle
+    
+    local toggleButton = Instance.new("Frame")
+    toggleButton.Name = "Button"
+    toggleButton.Size = UDim2.new(0, 44, 0, 22)
+    toggleButton.Position = UDim2.new(1, -50, 0, 4)
+    toggleButton.BackgroundColor3 = initialValue and Color3.fromRGB(0, 170, 255) or Color3.fromRGB(100, 100, 100)
+    toggleButton.BorderSizePixel = 0
+    toggleButton.Parent = toggle
+    
+    local toggleUICorner = Instance.new("UICorner")
+    toggleUICorner.CornerRadius = UDim.new(1, 0)
+    toggleUICorner.Parent = toggleButton
+    
+    local toggleCircle = Instance.new("Frame")
+    toggleCircle.Name = "Circle"
+    toggleCircle.Size = UDim2.new(0, 18, 0, 18)
+    toggleCircle.Position = UDim2.new(initialValue and 1 or 0, initialValue and -20 or 2, 0, 2)
+    toggleCircle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    toggleCircle.BorderSizePixel = 0
+    toggleCircle.Parent = toggleButton
+    
+    local circleUICorner = Instance.new("UICorner")
+    circleUICorner.CornerRadius = UDim.new(1, 0)
+    circleUICorner.Parent = toggleCircle
+    
+    local value = initialValue
+    
+    local function updateToggle()
+        value = not value
+        callback(value)
+        
+        local targetPos = value and UDim2.new(1, -20, 0, 2) or UDim2.new(0, 2, 0, 2)
+        local targetColor = value and Color3.fromRGB(0, 170, 255) or Color3.fromRGB(100, 100, 100)
+        
+        local posTween = TweenService:Create(toggleCircle, TweenInfo.new(0.2), {Position = targetPos})
+        local colorTween = TweenService:Create(toggleButton, TweenInfo.new(0.2), {BackgroundColor3 = targetColor})
+        
+        posTween:Play()
+        colorTween:Play()
+    end
+    
+    toggleButton.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            updateToggle()
+        end
+    end)
+    
+    return toggle, posY + 35, function() return value end, function(newValue)
+        if value ~= newValue then
+            updateToggle()
+        end
+    end
+end
+
+-- Create slider control
+local function createSlider(parent, posY, text, min, max, initialValue, callback)
+    local slider = Instance.new("Frame")
+    slider.Name = text .. "Slider"
+    slider.Size = UDim2.new(1, 0, 0, 50)
+    slider.Position = UDim2.new(0, 0, 0, posY)
+    slider.BackgroundTransparency = 1
+    slider.Parent = parent
+    
+    local sliderText = Instance.new("TextLabel")
+    sliderText.Name = "Text"
+    sliderText.Size = UDim2.new(1, -50, 0, 20)
+    sliderText.BackgroundTransparency = 1
+    sliderText.Font = Enum.Font.Gotham
+    sliderText.TextColor3 = Color3.fromRGB(200, 200, 200)
+    sliderText.TextSize = 14
+    sliderText.TextXAlignment = Enum.TextXAlignment.Left
+    sliderText.Text = text
+    sliderText.Parent = slider
+    
+    local valueText = Instance.new("TextLabel")
+    valueText.Name = "Value"
+    valueText.Size = UDim2.new(0, 45, 0, 20)
+    valueText.Position = UDim2.new(1, -45, 0, 0)
+    valueText.BackgroundTransparency = 1
+    valueText.Font = Enum.Font.Gotham
+    valueText.TextColor3 = Color3.fromRGB(200, 200, 200)
+    valueText.TextSize = 14
+    valueText.TextXAlignment = Enum.TextXAlignment.Right
+    valueText.Text = tostring(initialValue)
+    valueText.Parent = slider
+    
+    local sliderBG = Instance.new("Frame")
+    sliderBG.Name = "Background"
+    sliderBG.Size = UDim2.new(1, 0, 0, 10)
+    sliderBG.Position = UDim2.new(0, 0, 0, 30)
+    sliderBG.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    sliderBG.BorderSizePixel = 0
+    sliderBG.Parent = slider
+    
+    local sliderUICorner = Instance.new("UICorner")
+    sliderUICorner.CornerRadius = UDim.new(0, 5)
+    sliderUICorner.Parent = sliderBG
+    
+    local sliderFill = Instance.new("Frame")
+    sliderFill.Name = "Fill"
+    local fillPercent = (initialValue - min) / (max - min)
+    sliderFill.Size = UDim2.new(fillPercent, 0, 1, 0)
+    sliderFill.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
+    sliderFill.BorderSizePixel = 0
+    sliderFill.Parent = sliderBG
+    
+    local fillUICorner = Instance.new("UICorner")
+    fillUICorner.CornerRadius = UDim.new(0, 5)
+    fillUICorner.Parent = sliderFill
+    
+    local sliderKnob = Instance.new("Frame")
+    sliderKnob.Name = "Knob"
+    sliderKnob.Size = UDim2.new(0, 16, 0, 16)
+    sliderKnob.Position = UDim2.new(fillPercent, -8, 0.5, -8)
+    sliderKnob.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    sliderKnob.BorderSizePixel = 0
+    sliderKnob.Parent = sliderBG
+    
+    local knobUICorner = Instance.new("UICorner")
+    knobUICorner.CornerRadius = UDim.new(1, 0)
+    knobUICorner.Parent = sliderKnob
+    
+    local value = initialValue
+    
+    local function updateSlider(input)
+        local sliderPosition = math.clamp((input.Position.X - sliderBG.AbsolutePosition.X) / sliderBG.AbsoluteSize.X, 0, 1)
+        value = min + (sliderPosition * (max - min))
+        
+        if min == math.floor(min) and max == math.floor(max) then
+            value = math.floor(value + 0.5) -- Round to nearest integer
+        else
+            -- Round to 2 decimal places
+            value = math.floor(value * 100 + 0.5) / 100
+        end
+        
+        sliderFill.Size = UDim2.new(sliderPosition, 0, 1, 0)
+        sliderKnob.Position = UDim2.new(sliderPosition, -8, 0.5, -8)
+        valueText.Text = tostring(value)
+        
+        callback(value)
+    end
+    
+    local dragging = false
+    
+    sliderBG.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            updateSlider(input)
+        end
+    end)
+    
+    sliderBG.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+        end
+    end)
+    
+    UserInputService.InputChanged:Connect(function(input)
+        if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+            updateSlider(input)
+        end
+    end)
+    
+    return slider, posY + 55, function() return value end, function(newValue)
+        value = math.clamp(newValue, min, max)
+        local sliderPosition = (value - min) / (max - min)
+        
+        sliderFill.Size = UDim2.new(sliderPosition, 0, 1, 0)
+        sliderKnob.Position = UDim2.new(sliderPosition, -8, 0.5, -8)
+        valueText.Text = tostring(value)
+        
+        callback(value)
+    end
+end
+
+-- Create color picker control
+local function createColorPicker(parent, posY, text, initialColor, callback)
+    local colorPicker = Instance.new("Frame")
+    colorPicker.Name = text .. "ColorPicker"
+    colorPicker.Size = UDim2.new(1, 0, 0, 130)
+    colorPicker.Position = UDim2.new(0, 0, 0, posY)
+    colorPicker.BackgroundTransparency = 1
+    colorPicker.Parent = parent
+    
+    local colorText = Instance.new("TextLabel")
+    colorText.Name = "Text"
+    colorText.Size = UDim2.new(1, -60, 0, 20)
+    colorText.BackgroundTransparency = 1
+    colorText.Font = Enum.Font.Gotham
+    colorText.TextColor3 = Color3.fromRGB(200, 200, 200)
+    colorText.TextSize = 14
+    colorText.TextXAlignment = Enum.TextXAlignment.Left
+    colorText.Text = text
+    colorText.Parent = colorPicker
+    
+    local colorPreview = Instance.new("Frame")
+    colorPreview.Name = "Preview"
+    colorPreview.Size = UDim2.new(0, 50, 0, 20)
+    colorPreview.Position = UDim2.new(1, -55, 0, 0)
+    colorPreview.BackgroundColor3 = initialColor
+    colorPreview.BorderSizePixel = 0
+    colorPreview.Parent = colorPicker
+    
+    local previewUICorner = Instance.new("UICorner")
+    previewUICorner.CornerRadius = UDim.new(0, 4)
+    previewUICorner.Parent = colorPreview
+    
+    -- RGB Sliders
+    local rSlider, rPosY, getRed, setRed = createSlider(colorPicker, 25, "R", 0, 255, initialColor.R * 255, function(value)
+        local color = Color3.fromRGB(value, getGreen(), getBlue())
+        colorPreview.BackgroundColor3 = color
+        callback(color)
+    end)
+    
+    local gSlider, gPosY, getGreen, setGreen = createSlider(colorPicker, rPosY, "G", 0, 255, initialColor.G * 255, function(value)
+        local color = Color3.fromRGB(getRed(), value, getBlue())
+        colorPreview.BackgroundColor3 = color
+        callback(color)
+    end)
+    
+    local bSlider, bPosY, getBlue, setBlue = createSlider(colorPicker, gPosY, "B", 0, 255, initialColor.B * 255, function(value)
+        local color = Color3.fromRGB(getRed(), getGreen(), value)
+        colorPreview.BackgroundColor3 = color
+        callback(color)
+    end)
+    
+    colorPicker.Size = UDim2.new(1, 0, 0, bPosY)
+    
+    return colorPicker, bPosY, function() 
+        return Color3.fromRGB(getRed(), getGreen(), getBlue()) 
+    end, function(newColor)
+        setRed(newColor.R * 255)
+        setGreen(newColor.G * 255)
+        setBlue(newColor.B * 255)
+        colorPreview.BackgroundColor3 = newColor
+    end
+end
+
+-- Create dropdown control
+local function createDropdown(parent, posY, text, options, initialValue, callback)
+    local dropdown = Instance.new("Frame")
+    dropdown.Name = text .. "Dropdown"
+    dropdown.Size = UDim2.new(1, 0, 0, 55)
+    dropdown.Position = UDim2.new(0, 0, 0, posY)
+    dropdown.BackgroundTransparency = 1
+    dropdown.Parent = parent
+    
+    local dropdownText = Instance.new("TextLabel")
+    dropdownText.Name = "Text"
+    dropdownText.Size = UDim2.new(1, 0, 0, 20)
+    dropdownText.BackgroundTransparency = 1
+    dropdownText.Font = Enum.Font.Gotham
+    dropdownText.TextColor3 = Color3.fromRGB(200, 200, 200)
+    dropdownText.TextSize = 14
+    dropdownText.TextXAlignment = Enum.TextXAlignment.Left
+    dropdownText.Text = text
+    dropdownText.Parent = dropdown
+    
+    local selectedIndex = 1
+    for i, option in ipairs(options) do
+        if option == initialValue then
+            selectedIndex = i
+            break
+        end
+    end
+    
+    local dropdownButton = Instance.new("TextButton")
+    dropdownButton.Name = "Button"
+    dropdownButton.Size = UDim2.new(1, 0, 0, 30)
+    dropdownButton.Position = UDim2.new(0, 0, 0, 25)
+    dropdownButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    dropdownButton.BorderSizePixel = 0
+    dropdownButton.Font = Enum.Font.Gotham
+    dropdownButton.TextColor3 = Color3.fromRGB(200, 200, 200)
+    dropdownButton.TextSize = 14
+    dropdownButton.Text = options[selectedIndex]
+    dropdownButton.TextXAlignment = Enum.TextXAlignment.Left
+    dropdownButton.Parent = dropdown
+    
+    local paddingLeft = Instance.new("UIPadding")
+    paddingLeft.PaddingLeft = UDim.new(0, 10)
+    paddingLeft.Parent = dropdownButton
+    
+    local dropdownUICorner = Instance.new("UICorner")
+    dropdownUICorner.CornerRadius = UDim.new(0, 4)
+    dropdownUICorner.Parent = dropdownButton
+    
+    local arrowIcon = Instance.new("TextLabel")
+    arrowIcon.Name = "Arrow"
+    arrowIcon.Size = UDim2.new(0, 20, 0, 20)
+    arrowIcon.Position = UDim2.new(1, -25, 0, 5)
+    arrowIcon.BackgroundTransparency = 1
+    arrowIcon.Font = Enum.Font.GothamBold
+    arrowIcon.TextColor3 = Color3.fromRGB(200, 200, 200)
+    arrowIcon.TextSize = 14
+    arrowIcon.Text = "▼"
+    arrowIcon.Parent = dropdownButton
+    
+    local dropdownMenu = Instance.new("Frame")
+    dropdownMenu.Name = "Menu"
+    dropdownMenu.Size = UDim2.new(1, 0, 0, #options * 30)
+    dropdownMenu.Position = UDim2.new(0, 0, 1, 5)
+    dropdownMenu.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    dropdownMenu.BorderSizePixel = 0
+    dropdownMenu.Visible = false
+    dropdownMenu.ZIndex = 10
+    dropdownMenu.Parent = dropdown
+    
+    local menuUICorner = Instance.new("UICorner")
+    menuUICorner.CornerRadius = UDim.new(0, 4)
+    menuUICorner.Parent = dropdownMenu
+    
+    local optionButtons = {}
+    
+    for i, option in ipairs(options) do
+        local optionButton = Instance.new("TextButton")
+        optionButton.Name = "Option" .. i
+        optionButton.Size = UDim2.new(1, 0, 0, 30)
+        optionButton.Position = UDim2.new(0, 0, 0, (i - 1) * 30)
+        optionButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+        optionButton.BackgroundTransparency = 0.8
+        optionButton.BorderSizePixel = 0
+        optionButton.Font = Enum.Font.Gotham
+        optionButton.TextColor3 = Color3.fromRGB(200, 200, 200)
+        optionButton.TextSize = 14
+        optionButton.Text = option
+        optionButton.TextXAlignment = Enum.TextXAlignment.Left
+        optionButton.ZIndex = 11
+        optionButton.Parent = dropdownMenu
+        
+        local optionPadding = Instance.new("UIPadding")
+        optionPadding.PaddingLeft = UDim.new(0, 10)
+        optionPadding.Parent = optionButton
+        
+        optionButton.MouseButton1Click:Connect(function()
+            dropdownButton.Text = option
+            dropdownMenu.Visible = false
+            arrowIcon.Text = "▼"
+            selectedIndex = i
+            callback(option, i)
+        end)
+        
+        -- Add hover effect
+        optionButton.MouseEnter:Connect(function()
+            optionButton.BackgroundTransparency = 0.5
+        end)
+        
+        optionButton.MouseLeave:Connect(function()
+            optionButton.BackgroundTransparency = 0.8
+        end)
+        
+        table.insert(optionButtons, optionButton)
+    end
+    
+    dropdownButton.MouseButton1Click:Connect(function()
+        dropdownMenu.Visible = not dropdownMenu.Visible
+        arrowIcon.Text = dropdownMenu.Visible and "▲" or "▼"
+    end)
+    
+    return dropdown, posY + 60, function() return options[selectedIndex], selectedIndex end, function(newValue)
+        for i, option in ipairs(options) do
+            if option == newValue then
+                dropdownButton.Text = option
+                selectedIndex = i
+                callback(option, i)
+                break
+            end
+        end
+    end
+end
+
+-- Create text input
+local function createTextInput(parent, posY, text, initialValue, callback)
+    local textInput = Instance.new("Frame")
+    textInput.Name = text .. "TextInput"
+    textInput.Size = UDim2.new(1, 0, 0, 55)
+    textInput.Position = UDim2.new(0, 0, 0, posY)
+    textInput.BackgroundTransparency = 1
+    textInput.Parent = parent
+    
+    local inputText = Instance.new("TextLabel")
+    inputText.Name = "Text"
+    inputText.Size = UDim2.new(1, 0, 0, 20)
+    inputText.BackgroundTransparency = 1
+    inputText.Font = Enum.Font.Gotham
+    inputText.TextColor3 = Color3.fromRGB(200, 200, 200)
+    inputText.TextSize = 14
+    inputText.TextXAlignment = Enum.TextXAlignment.Left
+    inputText.Text = text
+    inputText.Parent = textInput
+    
+    local inputBox = Instance.new("TextBox")
+    inputBox.Name = "Input"
+    inputBox.Size = UDim2.new(1, 0, 0, 30)
+    inputBox.Position = UDim2.new(0, 0, 0, 25)
+    inputBox.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    inputBox.BorderSizePixel = 0
+    inputBox.Font = Enum.Font.Gotham
+    inputBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    inputBox.TextSize = 14
+    inputBox.Text = initialValue
+    inputBox.PlaceholderText = "Enter text..."
+    inputBox.ClearTextOnFocus = false
+    inputBox.Parent = textInput
+    
+    local inputPadding = Instance.new("UIPadding")
+    inputPadding.PaddingLeft = UDim.new(0, 10)
+    inputPadding.Parent = inputBox
+    
+    local inputUICorner = Instance.new("UICorner")
+    inputUICorner.CornerRadius = UDim.new(0, 4)
+    inputUICorner.Parent = inputBox
+    
+    inputBox.FocusLost:Connect(function(enterPressed)
+        callback(inputBox.Text)
+    end)
+    
+    return textInput, posY + 60, function() return inputBox.Text end, function(newValue)
+        inputBox.Text = newValue
+    end
+end
+
+-- Create button
+local function createButton(parent, posY, text, buttonColor, callback)
+    local button = Instance.new("TextButton")
+    button.Name = text .. "Button"
+    button.Size = UDim2.new(1, 0, 0, 40)
+    button.Position = UDim2.new(0, 0, 0, posY)
+    button.BackgroundColor3 = buttonColor or Color3.fromRGB(0, 120, 215)
+    button.BorderSizePixel = 0
+    button.Font = Enum.Font.GothamBold
+    button.TextColor3 = Color3.fromRGB(255, 255, 255)
+    button.TextSize = 16
+    button.Text = text
+    button.Parent = parent
+    
+    local buttonUICorner = Instance.new("UICorner")
+    buttonUICorner.CornerRadius = UDim.new(0, 4)
+    buttonUICorner.Parent = button
+    
+    button.MouseButton1Click:Connect(callback)
+    
+    -- Add hover effect
+    button.MouseEnter:Connect(function()
+        button.BackgroundColor3 = Color3.fromRGB(
+            math.min(buttonColor.R * 255 + 20, 255),
+            math.min(buttonColor.G * 255 + 20, 255),
+            math.min(buttonColor.B * 255 + 20, 255)
+        )
+    end)
+    
+    button.MouseLeave:Connect(function()
+        button.BackgroundColor3 = buttonColor
+    end)
+    
+    return button, posY + 50
+end
+
+-- Fill content for the Main tab
+local function createMainTabControls(parent)
+    local posY = 0
+    
+    -- General section
+    local generalSection, posY = createSection("General", parent, posY)
+    
+    -- ESP Enabled toggle
+    local enabledToggle, posY, getEnabled, setEnabled = createToggle(
+        parent, posY, "ESP Enabled", ESP.Enabled, 
+        function(value) 
+            ESP.Enabled = value
+            for _, box in pairs(ESPObjects) do
+                box.Visible = value
+            end
+        end
+    )
+    
+    -- Team Check toggle
+    local teamToggle, posY, getTeamCheck, setTeamCheck = createToggle(
+        parent, posY, "Team Check", ESP.TeamCheck,
+        function(value) ESP.TeamCheck = value end
+    )
+    
+    -- Use Team Colors toggle
+    local useTeamColors, posY, getUseTeamColors, setUseTeamColors = createToggle(
+        parent, posY, "Use Team Colors", ESP.UseTeamColors,
+        function(value) ESP.UseTeamColors = value end
+    )
+    
+    -- Elements section
+    local elementsSection, posY = createSection("Elements", parent, posY)
+    
+    -- Show Players toggle
+    local showPlayers, posY, getShowPlayers, setShowPlayers = createToggle(
+        parent, posY, "Show Players", ESP.ShowPlayers,
+        function(value) 
+            ESP.ShowPlayers = value
+            refreshAllESP()
+        end
+    )
+    
+    -- Show Health Bar toggle
+    local healthBarToggle, posY, getHealthBar, setHealthBar = createToggle(
+        parent, posY, "Show Health Bar", ESP.ShowHealthBar,
+        function(value) 
+            ESP.ShowHealthBar = value
+            refreshHealthBars()
+        end
+    )
+    
+    -- Show Distance toggle
+    local distanceToggle, posY, getDistance, setDistance = createToggle(
+        parent, posY, "Show Distance", ESP.ShowDistance,
+        function(value) 
+            ESP.ShowDistance = value
+            refreshLabels()
+        end
+    )
+    
+    -- Show Weapon toggle (if game has weapons)
+    local weaponToggle, posY, getWeapon, setWeapon = createToggle(
+        parent, posY, "Show Weapon (if available)", ESP.ShowWeapon,
+        function(value) 
+            ESP.ShowWeapon = value
+            refreshLabels()
+        end
+    )
+    
+    -- Show Head Dot toggle
+    local headDotToggle, posY, getHeadDot, setHeadDot = createToggle(
+        parent, posY, "Show Head Dot", ESP.ShowHeadDot,
+        function(value) 
+            ESP.ShowHeadDot = value
+            refreshHeadDots()
+        end
+    )
+    
+    -- Box Style dropdown
+    local boxStyle, posY, getBoxStyle, setBoxStyle = createDropdown(
+        parent, posY, "Box Style",
+        {"Regular", "3D", "Corner"},
+        ESP.BoxStyle == 1 and "Regular" or (ESP.BoxStyle == 2 and "3D" or "Corner"),
+        function(value, index) 
+            ESP.BoxStyle = index
+            refreshBoxStyles()
+        end
+    )
+    
+    -- ESP Color picker
+    local colorPicker, posY, getColor, setColor = createColorPicker(
+        parent, posY, "ESP Color", ESP.BoxColor,
+        function(color) 
+            ESP.BoxColor = color
+            updateESPColors(color)
+        end
+    )
+    
+    -- Rainbow Mode toggle
+    local rainbowToggle, posY, getRainbow, setRainbow = createToggle(
+        parent, posY, "Rainbow Mode", ESP.RainbowMode,
+        function(value) ESP.RainbowMode = value end
+    )
+    
+    -- Actions section
+    local actionsSection, posY = createSection("Actions", parent, posY)
+    
+    -- Reset button
+    local resetButton, posY = createButton(
+        parent, posY, "Reset ESP", Color3.fromRGB(200, 40, 40),
+        function() resetESP() end
+    )
+    
+    -- Update canvas size
+    parent.CanvasSize = UDim2.new(0, 0, 0, posY + 20)
+    
+    -- Store getters and setters
+    return {
+        getEnabled = getEnabled,
+        setEnabled = setEnabled,
+        getTeamCheck = getTeamCheck,
+        setTeamCheck = setTeamCheck,
+        getUseTeamColors = getUseTeamColors,
+        setUseTeamColors = setUseTeamColors,
+        getShowPlayers = getShowPlayers,
+        setShowPlayers = setShowPlayers,
+        getHealthBar = getHealthBar,
+        setHealthBar = setHealthBar,
+        getDistance = getDistance,
+        setDistance = setDistance,
+        getWeapon = getWeapon,
+        setWeapon = setWeapon,
+        getHeadDot = getHeadDot,
+        setHeadDot = setHeadDot,
+        getBoxStyle = getBoxStyle,
+        setBoxStyle = setBoxStyle,
+        getColor = getColor,
+        setColor = setColor,
+        getRainbow = getRainbow,
+        setRainbow = setRainbow
+    }
+end
+
+-- Fill content for the Visual tab
+local function createVisualTabControls(parent)
+    local posY = 0
+    
+    -- Visuals section
+    local visualsSection, posY = createSection("Visual Elements", parent, posY)
+    
+    -- Show Tracers toggle
+    local tracersToggle, posY, getTracers, setTracers = createToggle(
+        parent, posY, "Show Tracers", ESP.ShowTracers,
+        function(value) 
+            ESP.ShowTracers = value
+            refreshTracers()
+        end
+    )
+    
+    -- Tracer Origin dropdown
+    local tracerOrigin, posY, getTracerOrigin, setTracerOrigin = createDropdown(
+        parent, posY, "Tracer Origin",
+        {"Top", "Center", "Bottom"},
+        ESP.TracerOrigin == 1 and "Top" or (ESP.TracerOrigin == 2 and "Center" or "Bottom"),
+        function(value, index) 
+            ESP.TracerOrigin = index
+            refreshTracers()
+        end
+    )
+    
+    -- Show Skeleton toggle
+    local skeletonToggle, posY, getSkeleton, setSkeleton = createToggle(
+        parent, posY, "Show Skeleton", ESP.ShowSkeleton,
+        function(value) 
+            ESP.ShowSkeleton = value
+            refreshSkeleton()
+        end
+    )
+    
+    -- Show Chams toggle
+    local chamsToggle, posY, getChams, setChams = createToggle(
+        parent, posY, "Show Chams", ESP.ShowChams,
+        function(value) 
+            ESP.ShowChams = value
+            refreshChams()
+        end
+    )
+    
+    -- Chams Transparency slider
+    local chamsTransparency, posY, getChamsTransparency, setChamsTransparency = createSlider(
+        parent, posY, "Chams Transparency", 0, 1, ESP.ChamsTransparency,
+        function(value) 
+            ESP.ChamsTransparency = value
+            updateChamsTransparency(value)
+        end
+    )
+    
+    -- Head Dot Size slider
+    local headDotSize, posY, getHeadDotSize, setHeadDotSize = createSlider(
+        parent, posY, "Head Dot Size", 1, 10, ESP.HeadDotSize,
+        function(value) 
+            ESP.HeadDotSize = value
+            updateHeadDotSize(value)
+        end
+    )
+    
+    -- Appearance section
+    local appearanceSection, posY = createSection("Appearance", parent, posY)
+    
+    -- Box Thickness slider
+    local boxThickness, posY, getBoxThickness, setBoxThickness = createSlider(
+        parent, posY, "Box Thickness", 1, 5, ESP.BoxThickness,
+        function(value) 
+            ESP.BoxThickness = value
+            updateBoxThickness(value)
+        end
+    )
+    
+    -- Box Transparency slider
+    local boxTransparency, posY, getBoxTransparency, setBoxTransparency = createSlider(
+        parent, posY, "Box Transparency", 0, 1, ESP.BoxTransparency,
+        function(value) 
+            ESP.BoxTransparency = value
+            updateBoxTransparency(value)
+        end
+    )
+    
+    -- Custom text input
+    local customText, posY, getCustomText, setCustomText = createTextInput(
+        parent, posY, "Custom Text", ESP.CustomText,
+        function(value) 
+            ESP.CustomText = value
+            updateCustomText(value)
+        end
+    )
+    
+    -- Target Highlight section
+    local targetSection, posY = createSection("Target Highlighting", parent, posY)
+    
+    -- Highlight Target toggle
+    local highlightTarget, posY, getHighlightTarget, setHighlightTarget = createToggle(
+        parent, posY, "Highlight Target", ESP.HighlightTarget,
+        function(value) ESP.HighlightTarget = value end
+    )
+    
+    -- Target Color picker
+    local targetColor, posY, getTargetColor, setTargetColor = createColorPicker(
+        parent, posY, "Target Color", ESP.TargetColor,
+        function(color) ESP.TargetColor = color end
+    )
+    
+    -- Update canvas size
+    parent.CanvasSize = UDim2.new(0, 0, 0, posY + 20)
+    
+    -- Store getters and setters
+    return {
+        getTracers = getTracers,
+        setTracers = setTracers,
+        getTracerOrigin = getTracerOrigin,
+        setTracerOrigin = setTracerOrigin,
+        getSkeleton = getSkeleton,
+        setSkeleton = setSkeleton,
+        getChams = getChams,
+        setChams = setChams,
+        getChamsTransparency = getChamsTransparency,
+        setChamsTransparency = setChamsTransparency,
+        getHeadDotSize = getHeadDotSize,
+        setHeadDotSize = setHeadDotSize,
+        getBoxThickness = getBoxThickness,
+        setBoxThickness = setBoxThickness,
+        getBoxTransparency = getBoxTransparency,
+        setBoxTransparency = setBoxTransparency,
+        getCustomText = getCustomText,
+        setCustomText = setCustomText,
+        getHighlightTarget = getHighlightTarget,
+        setHighlightTarget = setHighlightTarget,
+        getTargetColor = getTargetColor,
+        setTargetColor = setTargetColor
+    }
+end
+
+-- Fill content for the Advanced tab
+local function createAdvancedTabControls(parent)
+    local posY = 0
+    
+    -- Advanced Features section
+    local advancedSection, posY = createSection("Advanced Features", parent, posY)
+    
+    -- Visibility Check toggle
+    local visibilityCheck, posY, getVisibilityCheck, setVisibilityCheck = createToggle(
+        parent, posY, "Visibility Check", ESP.VisibilityCheck,
+        function(value) ESP.VisibilityCheck = value end
+    )
+    
+    -- Predict Movement toggle
+    local predictMovement, posY, getPredictMovement, setPredictMovement = createToggle(
+        parent, posY, "Predict Movement", ESP.PredictMovement,
+        function(value) ESP.PredictMovement = value end
+    )
+    
+    -- Prediction Amount slider
+    local predictionAmount, posY, getPredictionAmount, setPredictionAmount = createSlider(
+        parent, posY, "Prediction Amount", 0.1, 2, ESP.PredictionAmount,
+        function(value) ESP.PredictionAmount = value end
+    )
+    
+    -- Always on Top toggle
+    local alwaysOnTop, posY, getAlwaysOnTop, setAlwaysOnTop = createToggle(
+        parent, posY, "Always on Top", ESP.AlwaysOnTop,
+        function(value) 
+            ESP.AlwaysOnTop = value
+            updateZIndex(value)
+        end
+    )
+    
+    -- Performance section
+    local performanceSection, posY = createSection("Performance", parent, posY)
+    
+    -- Optimization Level dropdown
+    local optimizationLevel, posY, getOptimizationLevel, setOptimizationLevel = createDropdown(
+        parent, posY, "Optimization Level",
+        {"Low", "Medium", "High"},
+        ESP.OptimizationLevel == 1 and "Low" or (ESP.OptimizationLevel == 2 and "Medium" or "High"),
+        function(value, index) 
+            ESP.OptimizationLevel = index
+            adjustOptimizationSettings()
+        end
+    )
+    
+    -- Performance Mode toggle
+    local performanceMode, posY, getPerformanceMode, setPerformanceMode = createToggle(
+        parent, posY, "Performance Mode", ESP.PerformanceMode,
+        function(value) 
+            ESP.PerformanceMode = value
+            setupUpdateConnection()
+        end
+    )
+    
+    -- Refresh Rate slider (only active in performance mode)
+    local refreshRate, posY, getRefreshRate, setRefreshRate = createSlider(
+        parent, posY, "Refresh Rate (seconds)", 0.05, 0.5, ESP.RefreshRate,
+        function(value) ESP.RefreshRate = value end
+    )
+    
+    -- Render Distance slider
+    local renderDistance, posY, getRenderDistance, setRenderDistance = createSlider(
+        parent, posY, "Render Distance", 100, 5000, ESP.RenderDistance,
+        function(value) ESP.RenderDistance = value end
+    )
+    
+    -- Target FPS slider
+    local targetFPS, posY, getTargetFPS, setTargetFPS = createSlider(
+        parent, posY, "Target FPS", 30, 240, ESP.TargetFPS,
+        function(value) ESP.TargetFPS = value end
+    )
+    
+    -- Auto Optimization button
+    local autoOptimizeButton, posY = createButton(
+        parent, posY, "Auto-Optimize Performance", Color3.fromRGB(0, 150, 0),
+        function() optimizePerformance() end
+    )
+    
+    -- Update canvas size
+    parent.CanvasSize = UDim2.new(0, 0, 0, posY + 20)
+    
+    -- Store getters and setters
+    return {
+        getVisibilityCheck = getVisibilityCheck,
+        setVisibilityCheck = setVisibilityCheck,
+        getPredictMovement = getPredictMovement,
+        setPredictMovement = setPredictMovement,
+        getPredictionAmount = getPredictionAmount,
+        setPredictionAmount = setPredictionAmount,
+        getAlwaysOnTop = getAlwaysOnTop,
+        setAlwaysOnTop = setAlwaysOnTop,
+        getOptimizationLevel = getOptimizationLevel,
+        setOptimizationLevel = setOptimizationLevel,
+        getPerformanceMode = getPerformanceMode,
+        setPerformanceMode = setPerformanceMode,
+        getRefreshRate = getRefreshRate,
+        setRefreshRate = setRefreshRate,
+        getRenderDistance = getRenderDistance,
+        setRenderDistance = setRenderDistance,
+        getTargetFPS = getTargetFPS,
+        setTargetFPS = setTargetFPS
+    }
+end
+
+-- Fill content for the System tab
+local function createSystemTabControls(parent)
+    local posY = 0
+    
+    -- System section
+    local systemSection, posY = createSection("System", parent, posY)
+    
+    -- Auto-Fix toggle
+    local autoFix, posY, getAutoFix, setAutoFix = createToggle(
+        parent, posY, "Auto-Fix Errors", ESP.AutoFixEnabled,
+        function(value) ESP.AutoFixEnabled = value end
+    )
+    
+    -- Status Checks toggle
+    local statusChecks, posY, getStatusChecks, setStatusChecks = createToggle(
+        parent, posY, "Status Checks", ESP.StatusChecks,
+        function(value) ESP.StatusChecks = value end
+    )
+    
+    -- Debug Mode toggle
+    local debugMode, posY, getDebugMode, setDebugMode = createToggle(
+        parent, posY, "Debug Mode", ESP.DebugMode,
+        function(value) ESP.DebugMode = value end
+    )
+    
+    -- Self-Test button
+    local selfTestButton, posY = createButton(
+        parent, posY, "Run Self-Test", Color3.fromRGB(60, 60, 180),
+        function() runSelfTest() end
+    )
+    
+    -- Reset ESP button
+    local resetButton, posY = createButton(
+        parent, posY, "Reset ESP System", Color3.fromRGB(200, 40, 40),
+        function() resetESP() end
+    )
+    
+    -- Show Diagnostics button
+    local diagnosticsButton, posY = createButton(
+        parent, posY, "Show Diagnostics", Color3.fromRGB(40, 120, 80),
+        function() toggleDiagnostics() end
+    )
+    
+    -- Information section
+    local infoSection, posY = createSection("Information", parent, posY)
+    
+    -- Version info
+    local versionInfo = Instance.new("TextLabel")
+    versionInfo.Name = "VersionInfo"
+    versionInfo.Size = UDim2.new(1, 0, 0, 60)
+    versionInfo.Position = UDim2.new(0, 0, 0, posY)
+    versionInfo.BackgroundTransparency = 1
+    versionInfo.Font = Enum.Font.Gotham
+    versionInfo.TextColor3 = Color3.fromRGB(180, 180, 180)
+    versionInfo.TextSize = 14
+    versionInfo.TextWrapped = true
+    versionInfo.Text = "Advanced ESP System v1.5\nPress F4 to toggle ESP\nPress F5 to show diagnostics\nPress F6 to reset ESP"
+    versionInfo.Parent = parent
+    
+    posY = posY + 70
+    
+    -- Update canvas size
+    parent.CanvasSize = UDim2.new(0, 0, 0, posY + 20)
+    
+    -- Store getters and setters
+    return {
+        getAutoFix = getAutoFix,
+        setAutoFix = setAutoFix,
+        getStatusChecks = getStatusChecks,
+        setStatusChecks = setStatusChecks,
+        getDebugMode = getDebugMode,
+        setDebugMode = setDebugMode
+    }
+end
+
+-- Update settings UI based on current ESP settings
+local function updateSettingsUI()
+    -- Will be implemented to reflect changes in settings
+    -- This function will be called when global settings change
+    if not MainFrame then return end
+    
+    -- Update UI controls here based on current ESP settings
+    -- This would involve accessing the controls and updating them
+end
+
+-- Run self-test to diagnose ESP system
+local function runSelfTest()
+    if ESP.DebugMode then
+        print("[ESP SELF-TEST] Starting ESP system self-test...")
+    end
+    
+    local issues = {}
+    
+    -- Test 1: Check if ScreenGui exists and is valid
+    if not ScreenGui or not ScreenGui.Parent then
+        table.insert(issues, "ScreenGui not found or not properly parented")
+    end
+    
+    -- Test 2: Check for ESP objects
+    local objectCount = 0
+    for _ in pairs(ESPObjects) do
+        objectCount = objectCount + 1
+    end
+    
+    if objectCount == 0 then
+        table.insert(issues, "No ESP objects found")
+    end
+    
+    -- Test 3: Check update connection
+    if not eventConnections.update then
+        table.insert(issues, "Update connection not established")
+    end
+    
+    -- Test 4: Check FPS performance
+    local avgFPS = getAverageFPS()
+    if avgFPS < 30 then
+        table.insert(issues, "Low FPS detected: " .. math.floor(avgFPS) .. " FPS")
+    end
+    
+    -- Test 5: Check for memory leaks - compare object count to player count
+    local playerCount = 0
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            playerCount = playerCount + 1
+        end
+    end
+    
+    if objectCount > playerCount * 2 then
+        table.insert(issues, "Potential memory leak: " .. objectCount .. " objects for " .. playerCount .. " players")
+    end
+    
+    -- Show results
+    if #issues > 0 then
+        if ESP.DebugMode then
+            print("[ESP SELF-TEST] Issues found:")
+            for i, issue in ipairs(issues) do
+                print("  " .. i .. ". " .. issue)
+            end
+        end
+        
+        -- Create a notification about issues
+        createNotification("Self-Test Results", #issues .. " issues found. Check diagnostics for details.", Color3.fromRGB(255, 100, 100))
+        
+        -- Log issues in diagnostics
+        for _, issue in ipairs(issues) do
+            logError("SelfTestIssue", issue, false)
+        end
+        
+        return false, issues
+    else
+        if ESP.DebugMode then
+            print("[ESP SELF-TEST] All tests passed. ESP system is functioning properly.")
+        end
+        
+        -- Create a notification about success
+        createNotification("Self-Test Results", "All tests passed!", Color3.fromRGB(100, 255, 100))
+        
+        return true, {}
+    end
+end
+
+-- Create a temporary notification
+local function createNotification(title, message, color)
+    local notification = Instance.new("Frame")
+    notification.Name = "Notification"
+    notification.Size = UDim2.new(0, 250, 0, 80)
+    notification.Position = UDim2.new(0.5, -125, 0, -100)
+    notification.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+    notification.BorderSizePixel = 0
+    notification.Parent = ScreenGui
+    
+    local UICorner = Instance.new("UICorner")
+    UICorner.CornerRadius = UDim.new(0, 6)
+    UICorner.Parent = notification
+    
+    local titleLabel = Instance.new("TextLabel")
+    titleLabel.Name = "Title"
+    titleLabel.Size = UDim2.new(1, 0, 0, 30)
+    titleLabel.BackgroundTransparency = 1
+    titleLabel.Font = Enum.Font.GothamBold
+    titleLabel.TextColor3 = color or Color3.fromRGB(255, 255, 255)
+    titleLabel.TextSize = 16
+    titleLabel.Text = title
+    titleLabel.Parent = notification
+    
+    local messageLabel = Instance.new("TextLabel")
+    messageLabel.Name = "Message"
+    messageLabel.Size = UDim2.new(1, -20, 0, 40)
+    messageLabel.Position = UDim2.new(0, 10, 0, 30)
+    messageLabel.BackgroundTransparency = 1
+    messageLabel.Font = Enum.Font.Gotham
+    messageLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+    messageLabel.TextSize = 14
+    messageLabel.TextWrapped = true
+    messageLabel.Text = message
+    messageLabel.Parent = notification
+    
+    -- Animate in
+    notification:TweenPosition(UDim2.new(0.5, -125, 0, 20), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, 0.5, true)
+    
+    -- Animate out after 3 seconds
+    task.delay(3, function()
+        notification:TweenPosition(UDim2.new(0.5, -125, 0, -100), Enum.EasingDirection.In, Enum.EasingStyle.Quart, 0.5, true, function()
+            notification:Destroy()
+        end)
+    end)
+end
+
+-- Adjust settings based on optimization level
+local function adjustOptimizationSettings()
+    if ESP.OptimizationLevel == 1 then
+        -- Low optimization (maximum features, may be slower)
+        ESP.PerformanceMode = false
+        ESP.ShowChams = true
+        ESP.ShowSkeleton = true
+        ESP.ShowTracers = true
+        ESP.VisibilityCheck = true
+        ESP.PredictMovement = true
+    elseif ESP.OptimizationLevel == 2 then
+        -- Medium optimization (balanced)
+        ESP.PerformanceMode = false
+        ESP.ShowChams = false
+        ESP.ShowSkeleton = true
+        ESP.ShowTracers = true
+        ESP.VisibilityCheck = false
+        ESP.PredictMovement = true
+    else
+        -- High optimization (minimal features, faster)
+        ESP.PerformanceMode = true
+        ESP.RefreshRate = 0.1
+        ESP.ShowChams = false
+        ESP.ShowSkeleton = false
+        ESP.ShowTracers = false
+        ESP.VisibilityCheck = false
+        ESP.PredictMovement = false
+    end
+    
+    -- Apply changes
+    setupUpdateConnection()
+    refreshAllESP()
+}
+
+-- Refresh all ESP elements
+local function refreshAllESP()
+    clearESPObjects()
+    rebuildESPObjects()
+}
+
+-- Update ESP colors
+local function updateESPColors(color)
+    for player, box in pairs(ESPObjects) do
+        if box then
+            for _, line in ipairs({box.TopLine, box.BottomLine, box.LeftLine, box.RightLine}) do
+                line.BackgroundColor3 = color
+            end
+            
+            if box:FindFirstChild("NameLabel") then
+                box.NameLabel.TextColor3 = color
+            end
+        end
+    end
+}
+
+-- Refresh health bars
+local function refreshHealthBars()
+    for player, box in pairs(ESPObjects) do
+        if box and box:FindFirstChild("HealthBarBG") then
+            box.HealthBarBG.Visible = ESP.ShowHealthBar
+        end
+    end
+}
+
+-- Refresh labels
+local function refreshLabels()
+    for player, box in pairs(ESPObjects) do
+        if box then
+            if box:FindFirstChild("DistanceLabel") then
+                box.DistanceLabel.Visible = ESP.ShowDistance
+            end
+            
+            if box:FindFirstChild("WeaponLabel") then
+                box.WeaponLabel.Visible = ESP.ShowWeapon
+            end
+        end
+    end
+}
+
+-- Update custom text
+local function updateCustomText(text)
+    for player, box in pairs(ESPObjects) do
+        if box and box:FindFirstChild("CustomLabel") then
+            box.CustomLabel.Text = text
+        end
+        
+        -- If custom text didn't exist, create it
+        if box and not box:FindFirstChild("CustomLabel") and text ~= "" then
+            local customLabel = Instance.new("TextLabel")
+            customLabel.Name = "CustomLabel"
+            customLabel.BackgroundTransparency = 1
+            customLabel.Size = UDim2.new(1, 0, 0, 20)
+            customLabel.Position = UDim2.new(0, 0, 1, 25)
+            customLabel.Font = Enum.Font.SourceSans
+            customLabel.TextColor3 = ESP.BoxColor
+            customLabel.TextSize = 14
+            customLabel.TextStrokeTransparency = 0.7
+            customLabel.TextStrokeColor3 = Color3.new(0, 0, 0)
+            customLabel.Text = text
+            customLabel.Parent = box
+        end
+    end
+}
+
+-- Refresh head dots
+local function refreshHeadDots()
+    -- Remove all head dots
+    for player, dot in pairs(HeadDotObjects) do
+        if dot and dot.Parent then
+            dot:Destroy()
+        end
+    end
+    
+    HeadDotObjects = {}
+    
+    -- Create new head dots if enabled
+    if ESP.ShowHeadDot then
+        for _, player in pairs(Players:GetPlayers()) do
+            if player ~= LocalPlayer then
+                createHeadDot(player)
+            end
+        end
+    end
+}
+
+-- Update head dot size
+local function updateHeadDotSize(size)
+    for player, dot in pairs(HeadDotObjects) do
+        if dot then
+            dot.Size = UDim2.new(0, size, 0, size)
+        end
+    end
+}
+
+-- Refresh box styles
+local function refreshBoxStyles()
+    -- This is a more complex operation that would require re-creating all ESP boxes
+    refreshAllESP()
+}
+
+-- Refresh tracers
+local function refreshTracers()
+    -- Remove all tracers
+    for player, tracer in pairs(TracerObjects) do
+        if tracer and tracer.Parent then
+            tracer:Destroy()
+        end
+    end
+    
+    TracerObjects = {}
+    
+    -- Create new tracers if enabled
+    if ESP.ShowTracers then
+        for _, player in pairs(Players:GetPlayers()) do
+            if player ~= LocalPlayer then
+                createTracer(player)
+            end
+        end
+    end
+}
+
+-- Refresh skeletons
+local function refreshSkeleton()
+    -- Remove all skeletons
+    for player, skeleton in pairs(SkeletonObjects) do
+        if skeleton and skeleton.Parent then
+            skeleton:Destroy()
+        end
+    end
+    
+    SkeletonObjects = {}
+    
+    -- Create new skeletons if enabled
+    if ESP.ShowSkeleton then
+        for _, player in pairs(Players:GetPlayers()) do
+            if player ~= LocalPlayer then
+                createSkeleton(player)
+            end
+        end
+    end
+}
+
+-- Refresh chams
+local function refreshChams()
+    -- Remove all chams
+    for player, cham in pairs(ChamsObjects) do
+        if cham and cham.Parent then
+            cham:Destroy()
+        end
+    end
+    
+    ChamsObjects = {}
+    
+    -- Create new chams if enabled
+    if ESP.ShowChams then
+        for _, player in pairs(Players:GetPlayers()) do
+            if player ~= LocalPlayer then
+                createChams(player)
+            end
+        end
+    end
+}
+
+-- Update chams transparency
+local function updateChamsTransparency(transparency)
+    for player, cham in pairs(ChamsObjects) do
+        if cham then
+            cham.FillTransparency = transparency
+        end
+    end
+}
+
+-- Update box thickness
+local function updateBoxThickness(thickness)
+    for player, box in pairs(ESPObjects) do
+        if box then
+            box.TopLine.Size = UDim2.new(1, 0, 0, thickness)
+            box.BottomLine.Size = UDim2.new(1, 0, 0, thickness)
+            box.BottomLine.Position = UDim2.new(0, 0, 1, -thickness)
+            box.LeftLine.Size = UDim2.new(0, thickness, 1, 0)
+            box.RightLine.Size = UDim2.new(0, thickness, 1, 0)
+            box.RightLine.Position = UDim2.new(1, -thickness, 0, 0)
+        end
+    end
+}
+
+-- Update box transparency
+local function updateBoxTransparency(transparency)
+    for player, box in pairs(ESPObjects) do
+        if box then
+            for _, line in ipairs({box.TopLine, box.BottomLine, box.LeftLine, box.RightLine}) do
+                line.BackgroundTransparency = transparency
+            end
+        end
+    end
+}
+
+-- Update Z-index for always on top
+local function updateZIndex(alwaysOnTop)
+    local zIndex = alwaysOnTop and 10 or 1
+    
+    for player, box in pairs(ESPObjects) do
+        if box then
+            box.ZIndex = zIndex
+            
+            for _, child in ipairs(box:GetChildren()) do
+                child.ZIndex = zIndex
+            end
+        end
+    end
+    
+    for player, tracer in pairs(TracerObjects) do
+        if tracer then
+            tracer.ZIndex = zIndex
+        end
+    end
+    
+    for player, headDot in pairs(HeadDotObjects) do
+        if headDot then
+            headDot.ZIndex = zIndex
+        end
+    end
+    
+    for player, skeleton in pairs(SkeletonObjects) do
+        if skeleton then
+            skeleton.ZIndex = zIndex
+            
+            for _, line in ipairs(skeleton:GetChildren()) do
+                line.ZIndex = zIndex
+            end
+        end
+    end
+}
+
+-- Create ESP box for a player
+local function createESPBox(player)
+    if player == LocalPlayer then return end
+    
+    -- Skip if box already exists
+    if ESPObjects[player] then
+        return ESPObjects[player]
+    end
+    
+    -- Create the box outline based on style
+    local Box = Instance.new("Frame")
+    Box.Name = player.Name .. "Box"
+    Box.BackgroundTransparency = 1
+    Box.BorderSizePixel = 0
+    Box.Size = UDim2.new(0, 0, 0, 0)
+    Box.ZIndex = ESP.AlwaysOnTop and 10 or 1
+    Box.Parent = ScreenGui
+    
+    if ESP.BoxStyle == 1 then
+        -- Regular box style (four lines)
+        
+        -- Top line
+        local TopLine = Instance.new("Frame")
+        TopLine.Name = "TopLine"
+        TopLine.BorderSizePixel = 0
+        TopLine.BackgroundColor3 = ESP.BoxColor
+        TopLine.BackgroundTransparency = ESP.BoxTransparency
+        TopLine.Size = UDim2.new(1, 0, 0, ESP.BoxThickness)
+        TopLine.Position = UDim2.new(0, 0, 0, 0)
+        TopLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        TopLine.Parent = Box
+        
+        -- Bottom line
+        local BottomLine = Instance.new("Frame")
+        BottomLine.Name = "BottomLine"
+        BottomLine.BorderSizePixel = 0
+        BottomLine.BackgroundColor3 = ESP.BoxColor
+        BottomLine.BackgroundTransparency = ESP.BoxTransparency
+        BottomLine.Size = UDim2.new(1, 0, 0, ESP.BoxThickness)
+        BottomLine.Position = UDim2.new(0, 0, 1, -ESP.BoxThickness)
+        BottomLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        BottomLine.Parent = Box
+        
+        -- Left line
+        local LeftLine = Instance.new("Frame")
+        LeftLine.Name = "LeftLine"
+        LeftLine.BorderSizePixel = 0
+        LeftLine.BackgroundColor3 = ESP.BoxColor
+        LeftLine.BackgroundTransparency = ESP.BoxTransparency
+        LeftLine.Size = UDim2.new(0, ESP.BoxThickness, 1, 0)
+        LeftLine.Position = UDim2.new(0, 0, 0, 0)
+        LeftLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        LeftLine.Parent = Box
+        
+        -- Right line
+        local RightLine = Instance.new("Frame")
+        RightLine.Name = "RightLine"
+        RightLine.BorderSizePixel = 0
+        RightLine.BackgroundColor3 = ESP.BoxColor
+        RightLine.BackgroundTransparency = ESP.BoxTransparency
+        RightLine.Size = UDim2.new(0, ESP.BoxThickness, 1, 0)
+        RightLine.Position = UDim2.new(1, -ESP.BoxThickness, 0, 0)
+        RightLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        RightLine.Parent = Box
+    elseif ESP.BoxStyle == 3 then
+        -- Corner style (eight lines for corners)
+        local cornerSize = 8 -- Corner size in pixels
+        
+        -- Top left corner - Horizontal
+        local TLH = Instance.new("Frame")
+        TLH.Name = "TopLeftH"
+        TLH.BorderSizePixel = 0
+        TLH.BackgroundColor3 = ESP.BoxColor
+        TLH.BackgroundTransparency = ESP.BoxTransparency
+        TLH.Size = UDim2.new(0, cornerSize, 0, ESP.BoxThickness)
+        TLH.Position = UDim2.new(0, 0, 0, 0)
+        TLH.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        TLH.Parent = Box
+        
+        -- Top left corner - Vertical
+        local TLV = Instance.new("Frame")
+        TLV.Name = "TopLeftV"
+        TLV.BorderSizePixel = 0
+        TLV.BackgroundColor3 = ESP.BoxColor
+        TLV.BackgroundTransparency = ESP.BoxTransparency
+        TLV.Size = UDim2.new(0, ESP.BoxThickness, 0, cornerSize)
+        TLV.Position = UDim2.new(0, 0, 0, 0)
+        TLV.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        TLV.Parent = Box
+        
+        -- Top right corner - Horizontal
+        local TRH = Instance.new("Frame")
+        TRH.Name = "TopRightH"
+        TRH.BorderSizePixel = 0
+        TRH.BackgroundColor3 = ESP.BoxColor
+        TRH.BackgroundTransparency = ESP.BoxTransparency
+        TRH.Size = UDim2.new(0, cornerSize, 0, ESP.BoxThickness)
+        TRH.Position = UDim2.new(1, -cornerSize, 0, 0)
+        TRH.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        TRH.Parent = Box
+        
+        -- Top right corner - Vertical
+        local TRV = Instance.new("Frame")
+        TRV.Name = "TopRightV"
+        TRV.BorderSizePixel = 0
+        TRV.BackgroundColor3 = ESP.BoxColor
+        TRV.BackgroundTransparency = ESP.BoxTransparency
+        TRV.Size = UDim2.new(0, ESP.BoxThickness, 0, cornerSize)
+        TRV.Position = UDim2.new(1, -ESP.BoxThickness, 0, 0)
+        TRV.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        TRV.Parent = Box
+        
+        -- Bottom left corner - Horizontal
+        local BLH = Instance.new("Frame")
+        BLH.Name = "BottomLeftH"
+        BLH.BorderSizePixel = 0
+        BLH.BackgroundColor3 = ESP.BoxColor
+        BLH.BackgroundTransparency = ESP.BoxTransparency
+        BLH.Size = UDim2.new(0, cornerSize, 0, ESP.BoxThickness)
+        BLH.Position = UDim2.new(0, 0, 1, -ESP.BoxThickness)
+        BLH.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        BLH.Parent = Box
+        
+        -- Bottom left corner - Vertical
+        local BLV = Instance.new("Frame")
+        BLV.Name = "BottomLeftV"
+        BLV.BorderSizePixel = 0
+        BLV.BackgroundColor3 = ESP.BoxColor
+        BLV.BackgroundTransparency = ESP.BoxTransparency
+        BLV.Size = UDim2.new(0, ESP.BoxThickness, 0, cornerSize)
+        BLV.Position = UDim2.new(0, 0, 1, -cornerSize)
+        BLV.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        BLV.Parent = Box
+        
+        -- Bottom right corner - Horizontal
+        local BRH = Instance.new("Frame")
+        BRH.Name = "BottomRightH"
+        BRH.BorderSizePixel = 0
+        BRH.BackgroundColor3 = ESP.BoxColor
+        BRH.BackgroundTransparency = ESP.BoxTransparency
+        BRH.Size = UDim2.new(0, cornerSize, 0, ESP.BoxThickness)
+        BRH.Position = UDim2.new(1, -cornerSize, 1, -ESP.BoxThickness)
+        BRH.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        BRH.Parent = Box
+        
+        -- Bottom right corner - Vertical
+        local BRV = Instance.new("Frame")
+        BRV.Name = "BottomRightV"
+        BRV.BorderSizePixel = 0
+        BRV.BackgroundColor3 = ESP.BoxColor
+        BRV.BackgroundTransparency = ESP.BoxTransparency
+        BRV.Size = UDim2.new(0, ESP.BoxThickness, 0, cornerSize)
+        BRV.Position = UDim2.new(1, -ESP.BoxThickness, 1, -cornerSize)
+        BRV.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        BRV.Parent = Box
+    else
+        -- 3D box style would be more complex and not implemented here
+        -- Fallback to regular style
+        
+        -- Top line
+        local TopLine = Instance.new("Frame")
+        TopLine.Name = "TopLine"
+        TopLine.BorderSizePixel = 0
+        TopLine.BackgroundColor3 = ESP.BoxColor
+        TopLine.BackgroundTransparency = ESP.BoxTransparency
+        TopLine.Size = UDim2.new(1, 0, 0, ESP.BoxThickness)
+        TopLine.Position = UDim2.new(0, 0, 0, 0)
+        TopLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        TopLine.Parent = Box
+        
+        -- Bottom line
+        local BottomLine = Instance.new("Frame")
+        BottomLine.Name = "BottomLine"
+        BottomLine.BorderSizePixel = 0
+        BottomLine.BackgroundColor3 = ESP.BoxColor
+        BottomLine.BackgroundTransparency = ESP.BoxTransparency
+        BottomLine.Size = UDim2.new(1, 0, 0, ESP.BoxThickness)
+        BottomLine.Position = UDim2.new(0, 0, 1, -ESP.BoxThickness)
+        BottomLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        BottomLine.Parent = Box
+        
+        -- Left line
+        local LeftLine = Instance.new("Frame")
+        LeftLine.Name = "LeftLine"
+        LeftLine.BorderSizePixel = 0
+        LeftLine.BackgroundColor3 = ESP.BoxColor
+        LeftLine.BackgroundTransparency = ESP.BoxTransparency
+        LeftLine.Size = UDim2.new(0, ESP.BoxThickness, 1, 0)
+        LeftLine.Position = UDim2.new(0, 0, 0, 0)
+        LeftLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        LeftLine.Parent = Box
+        
+        -- Right line
+        local RightLine = Instance.new("Frame")
+        RightLine.Name = "RightLine"
+        RightLine.BorderSizePixel = 0
+        RightLine.BackgroundColor3 = ESP.BoxColor
+        RightLine.BackgroundTransparency = ESP.BoxTransparency
+        RightLine.Size = UDim2.new(0, ESP.BoxThickness, 1, 0)
+        RightLine.Position = UDim2.new(1, -ESP.BoxThickness, 0, 0)
+        RightLine.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        RightLine.Parent = Box
+    end
+    
+    -- Player name label
+    local NameLabel = Instance.new("TextLabel")
+    NameLabel.Name = "NameLabel"
+    NameLabel.BackgroundTransparency = 1
+    NameLabel.Size = UDim2.new(1, 0, 0, 20)
+    NameLabel.Position = UDim2.new(0, 0, 0, -20)
+    NameLabel.Font = Enum.Font.SourceSansBold
+    NameLabel.TextColor3 = ESP.BoxColor
+    NameLabel.TextSize = 14
+    NameLabel.Text = player.Name
+    NameLabel.TextStrokeTransparency = 0.7
+    NameLabel.TextStrokeColor3 = Color3.new(0, 0, 0)
+    NameLabel.ZIndex = ESP.AlwaysOnTop and 10 or 1
+    NameLabel.Parent = Box
+    
+    -- Health bar background
+    local HealthBarBG = Instance.new("Frame")
+    HealthBarBG.Name = "HealthBarBG"
+    HealthBarBG.BorderSizePixel = 0
+    HealthBarBG.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    HealthBarBG.Size = UDim2.new(0, 5, 1, 0)
+    HealthBarBG.Position = UDim2.new(1, 5, 0, 0)
+    HealthBarBG.Visible = ESP.ShowHealthBar
+    HealthBarBG.ZIndex = ESP.AlwaysOnTop and 10 or 1
+    HealthBarBG.Parent = Box
+    
+    -- Health bar fill
+    local HealthBar = Instance.new("Frame")
+    HealthBar.Name = "HealthBar"
+    HealthBar.BorderSizePixel = 0
+    HealthBar.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+    HealthBar.Size = UDim2.new(1, 0, 1, 0)
+    HealthBar.Position = UDim2.new(0, 0, 0, 0)
+    HealthBar.AnchorPoint = Vector2.new(0, 1)
+    HealthBar.ZIndex = ESP.AlwaysOnTop and 10 or 1
+    HealthBar.Parent = HealthBarBG
+    
+    -- Distance label
+    local DistanceLabel = Instance.new("TextLabel")
+    DistanceLabel.Name = "DistanceLabel"
+    DistanceLabel.BackgroundTransparency = 1
+    DistanceLabel.Size = UDim2.new(1, 0, 0, 20)
+    DistanceLabel.Position = UDim2.new(0, 0, 1, 5)
+    DistanceLabel.Font = Enum.Font.SourceSans
+    DistanceLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+    DistanceLabel.TextSize = 12
+    DistanceLabel.TextStrokeTransparency = 0.7
+    DistanceLabel.TextStrokeColor3 = Color3.new(0, 0, 0)
+    DistanceLabel.Visible = ESP.ShowDistance
+    DistanceLabel.ZIndex = ESP.AlwaysOnTop and 10 or 1
+    DistanceLabel.Parent = Box
+    
+    -- If custom text is enabled
+    if ESP.CustomText ~= "" then
+        local CustomLabel = Instance.new("TextLabel")
+        CustomLabel.Name = "CustomLabel"
+        CustomLabel.BackgroundTransparency = 1
+        CustomLabel.Size = UDim2.new(1, 0, 0, 20)
+        CustomLabel.Position = UDim2.new(0, 0, 1, 25)
+        CustomLabel.Font = Enum.Font.SourceSans
+        CustomLabel.TextColor3 = ESP.BoxColor
+        CustomLabel.TextSize = 14
+        CustomLabel.TextStrokeTransparency = 0.7
+        CustomLabel.TextStrokeColor3 = Color3.new(0, 0, 0)
+        CustomLabel.Text = ESP.CustomText
+        CustomLabel.ZIndex = ESP.AlwaysOnTop and 10 or 1
+        CustomLabel.Parent = Box
+    end
+    
+    ESPObjects[player] = Box
+    Diagnostics.ActiveESPObjects = Diagnostics.ActiveESPObjects + 1
+    
+    return Box
+end
+
+-- Create a tracer line for a player
+local function createTracer(player)
+    if player == LocalPlayer then return end
+    
+    -- Skip if tracer already exists
+    if TracerObjects[player] then
+        return TracerObjects[player]
+    end
+    
+    -- Create tracer line
+    local Tracer = Instance.new("Frame")
+    Tracer.Name = player.Name .. "Tracer"
+    Tracer.BorderSizePixel = 0
+    Tracer.BackgroundColor3 = ESP.BoxColor
+    Tracer.BackgroundTransparency = ESP.BoxTransparency
+    Tracer.Size = UDim2.new(0, ESP.BoxThickness, 0, 0) -- Height will be set dynamically
+    Tracer.AnchorPoint = Vector2.new(0.5, 0)
+    Tracer.ZIndex = ESP.AlwaysOnTop and 10 or 1
+    Tracer.Parent = ScreenGui
+    
+    TracerObjects[player] = Tracer
+    return Tracer
+end
+
+-- Create a head dot for a player
+local function createHeadDot(player)
+    if player == LocalPlayer then return end
+    
+    -- Skip if head dot already exists
+    if HeadDotObjects[player] then
+        return HeadDotObjects[player]
+    end
+    
+    -- Create head dot
+    local HeadDot = Instance.new("Frame")
+    HeadDot.Name = player.Name .. "HeadDot"
+    HeadDot.BorderSizePixel = 0
+    HeadDot.BackgroundColor3 = ESP.BoxColor
+    HeadDot.BackgroundTransparency = ESP.BoxTransparency
+    HeadDot.Size = UDim2.new(0, ESP.HeadDotSize, 0, ESP.HeadDotSize)
+    HeadDot.AnchorPoint = Vector2.new(0.5, 0.5)
+    HeadDot.ZIndex = ESP.AlwaysOnTop and 10 or 1
+    HeadDot.Parent = ScreenGui
+    
+    -- Make it round
+    local UICorner = Instance.new("UICorner")
+    UICorner.CornerRadius = UDim.new(1, 0)
+    UICorner.Parent = HeadDot
+    
+    HeadDotObjects[player] = HeadDot
+    return HeadDot
+end
+
+-- Create a skeleton for a player
+local function createSkeleton(player)
+    if player == LocalPlayer then return end
+    
+    -- Skip if skeleton already exists
+    if SkeletonObjects[player] then
+        return SkeletonObjects[player]
+    end
+    
+    -- Create skeleton container
+    local Skeleton = Instance.new("Folder")
+    Skeleton.Name = player.Name .. "Skeleton"
+    Skeleton.Parent = ScreenGui
+    
+    -- We'll create the actual lines dynamically when updating
+    SkeletonObjects[player] = Skeleton
+    return Skeleton
+end
+
+-- Create chams for a player
+local function createChams(player)
+    if player == LocalPlayer then return end
+    
+    -- Skip if chams already exists
+    if ChamsObjects[player] then
+        return ChamsObjects[player]
+    end
+    
+    local character = player.Character
+    if not character then return end
+    
+    -- Use Highlight object if available (newer Roblox versions)
+    local success, highlight = pcall(function()
+        local highlightObj = Instance.new("Highlight")
+        highlightObj.Name = player.Name .. "Chams"
+        highlightObj.FillColor = ESP.BoxColor
+        highlightObj.OutlineColor = ESP.BoxColor
+        highlightObj.FillTransparency = ESP.ChamsTransparency
+        highlightObj.OutlineTransparency = 0.5
+        highlightObj.Adornee = character
+        highlightObj.Parent = ScreenGui
+        return highlightObj
+    end)
+    
+    if success and highlight then
+        ChamsObjects[player] = highlight
+        return highlight
+    else
+        -- Fallback for older Roblox versions - create manual chams
+        logError("ChamsError", "Highlight object not available, falling back to manual chams.", false)
+        
+        -- Create a folder to store chams parts
+        local chamsFolder = Instance.new("Folder")
+        chamsFolder.Name = player.Name .. "Chams"
+        chamsFolder.Parent = ScreenGui
+        
+        -- Create box highlights for each body part
+        local bodyParts = {"Head", "Torso", "Left Arm", "Right Arm", "Left Leg", "Right Leg", "HumanoidRootPart"}
+        
+        for _, partName in ipairs(bodyParts) do
+            local part = character:FindFirstChild(partName)
+            if part and part:IsA("BasePart") then
+                local boxHandleAdornment = Instance.new("BoxHandleAdornment")
+                boxHandleAdornment.Name = partName .. "Cham"
+                boxHandleAdornment.Adornee = part
+                boxHandleAdornment.AlwaysOnTop = true
+                boxHandleAdornment.ZIndex = 10
+                boxHandleAdornment.Size = part.Size + Vector3.new(0.1, 0.1, 0.1)
+                boxHandleAdornment.Transparency = ESP.ChamsTransparency
+                boxHandleAdornment.Color3 = ESP.BoxColor
+                boxHandleAdornment.Parent = chamsFolder
+            end
+        end
+        
+        ChamsObjects[player] = chamsFolder
+        return chamsFolder
+    end
+end
+
+-- Update ESP box position and appearance
+local function updateESPBox(player, box)
+    local character = player.Character
+    if not character then return false end
+    
+    local humanoid = character:FindFirstChild("Humanoid")
+    if not humanoid or humanoid.Health <= 0 then return false end
+    
+    -- Team check
+    if ESP.TeamCheck and player.Team == LocalPlayer.Team then
+        box.Visible = false
+        return false
+    end
+    
+    -- Distance check
+    local hrp = character:FindFirstChild("HumanoidRootPart")
+    if not hrp then return false end
+    
+    -- Check if within render distance
+    local distance = (hrp.Position - Camera.CFrame.Position).Magnitude
+    if distance > ESP.RenderDistance then
+        box.Visible = false
+        return false
+    end
+    
+    -- Update distance label
+    local distanceLabel = box:FindFirstChild("DistanceLabel")
+    if distanceLabel then
+        distanceLabel.Text = math.floor(distance) .. " studs"
+    end
+    
+    -- Update health bar
+    local healthBar = box:FindFirstChild("HealthBarBG")
+    if healthBar and healthBar:FindFirstChild("HealthBar") and humanoid then
+        local healthPercent = humanoid.Health / humanoid.MaxHealth
+        healthBar.HealthBar.Size = UDim2.new(1, 0, healthPercent, 0)
+        
+        -- Health color gradient from green to red
+        local healthColor = Color3.fromRGB(
+            255 * (1 - healthPercent),
+            255 * healthPercent,
+            0
+        )
+        healthBar.HealthBar.BackgroundColor3 = healthColor
+    end
+    
+    -- Visibility check
+    if ESP.VisibilityCheck then
+        local visible = isVisible(character, Camera.CFrame.Position)
+        
+        -- Make ESP more transparent if not visible
+        for _, line in ipairs({box.TopLine, box.BottomLine, box.LeftLine, box.RightLine}) do
+            line.BackgroundTransparency = visible and ESP.BoxTransparency or ESP.BoxTransparency + 0.4
+        end
+    end
+    
+    -- Get corners
+    local corners = getBoundingBox(character, ESP.PredictMovement, ESP.PredictionAmount)
+    if not corners then return false end
+    
+    -- Convert 3D corners to 2D screen points
+    local screenPoints = {}
+    for _, corner in ipairs(corners) do
+        local screenPoint = Camera:WorldToScreenPoint(corner)
+        if screenPoint.Z < 0 then
+            box.Visible = false
+            return false
+        end
+        table.insert(screenPoints, Vector2.new(screenPoint.X, screenPoint.Y))
+    end
+    
+    -- Find min and max points to create box dimensions
+    local minX, minY = math.huge, math.huge
+    local maxX, maxY = -math.huge, -math.huge
+    
+    for _, point in ipairs(screenPoints) do
+        minX = math.min(minX, point.X)
+        minY = math.min(minY, point.Y)
+        maxX = math.max(maxX, point.X)
+        maxY = math.max(maxY, point.Y)
+    end
+    
+    -- Apply box position and size with a small buffer for smoothing
+    box.Position = UDim2.new(0, minX, 0, minY)
+    box.Size = UDim2.new(0, maxX - minX, 0, maxY - minY)
+    box.Visible = ESP.Enabled
+    
+    -- Apply rainbow mode if enabled
+    if ESP.RainbowMode then
+        local hue = tick() % 10 / 10
+        local rainbowColor = Color3.fromHSV(hue, 1, 1)
+        
+        for _, line in ipairs({box.TopLine, box.BottomLine, box.LeftLine, box.RightLine}) do
+            line.BackgroundColor3 = rainbowColor
+        end
+        box.NameLabel.TextColor3 = rainbowColor
+    elseif ESP.UseTeamColors and player.Team then
+        -- Use team color if team colors are enabled
+        local teamColor = player.TeamColor.Color
+        
+        for _, line in ipairs({box.TopLine, box.BottomLine, box.LeftLine, box.RightLine}) do
+            line.BackgroundColor3 = teamColor
+        end
+        box.NameLabel.TextColor3 = teamColor
+    elseif ESP.HighlightTarget and player == TargetPlayer then
+        -- Highlight the targeted player
+        for _, line in ipairs({box.TopLine, box.BottomLine, box.LeftLine, box.RightLine}) do
+            line.BackgroundColor3 = ESP.TargetColor
+        end
+        box.NameLabel.TextColor3 = ESP.TargetColor
+    end
+    
+    return true
+end
+
+-- Update tracer
+local function updateTracer(player, tracer)
+    if not ESP.ShowTracers then
+        tracer.Visible = false
+        return
+    end
+    
+    local character = player.Character
+    if not character then
+        tracer.Visible = false
+        return
+    end
+    
+    local humanoid = character:FindFirstChild("Humanoid")
+    if not humanoid or humanoid.Health <= 0 then
+        tracer.Visible = false
+        return
+    end
+    
+    local hrp = character:FindFirstChild("HumanoidRootPart")
+    if not hrp then
+        tracer.Visible = false
+        return
+    end
+    
+    -- Get character position
+    local position = hrp.Position
+    
+    -- Convert to screen position
+    local screenPosition = Camera:WorldToScreenPoint(position)
+    
+    -- Check if behind camera
+    if screenPosition.Z < 0 then
+        tracer.Visible = false
+        return
+    end
+    
+    -- Get screen dimensions
+    local screenSize = Camera.ViewportSize
+    
+    -- Set tracer origin based on setting
+    local originY
+    if ESP.TracerOrigin == 1 then
+        -- Top
+        originY = 0
+    elseif ESP.TracerOrigin == 2 then
+        -- Center
+        originY = screenSize.Y / 2
+    else
+        -- Bottom
+        originY = screenSize.Y
+    end
+    
+    -- Calculate angle and length
+    local dx = screenPosition.X - screenSize.X / 2
+    local dy = screenPosition.Y - originY
+    local angle = math.atan2(dy, dx) - math.rad(90)
+    local length = math.sqrt(dx * dx + dy * dy)
+    
+    -- Update tracer properties
+    tracer.Position = UDim2.new(0, screenSize.X / 2, 0, originY)
+    tracer.Size = UDim2.new(0, ESP.BoxThickness, 0, length)
+    tracer.Rotation = math.deg(angle)
+    
+    -- Apply colors
+    if ESP.RainbowMode then
+        local hue = tick() % 10 / 10
+        tracer.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+    elseif ESP.UseTeamColors and player.Team then
+        tracer.BackgroundColor3 = player.TeamColor.Color
+    elseif ESP.HighlightTarget and player == TargetPlayer then
+        tracer.BackgroundColor3 = ESP.TargetColor
+    else
+        tracer.BackgroundColor3 = ESP.BoxColor
+    end
+    
+    tracer.Visible = true
+end
+
+-- Update head dot
+local function updateHeadDot(player, headDot)
+    if not ESP.ShowHeadDot then
+        headDot.Visible = false
+        return
+    end
+    
+    local character = player.Character
+    if not character then
+        headDot.Visible = false
+        return
+    end
+    
+    local humanoid = character:FindFirstChild("Humanoid")
+    if not humanoid or humanoid.Health <= 0 then
+        headDot.Visible = false
+        return
+    end
+    
+    local head = character:FindFirstChild("Head")
+    if not head then
+        headDot.Visible = false
+        return
+    end
+    
+    -- Get head position
+    local position = head.Position
+    
+    -- Convert to screen position
+    local screenPosition = Camera:WorldToScreenPoint(position)
+    
+    -- Check if behind camera
+    if screenPosition.Z < 0 then
+        headDot.Visible = false
+        return
+    end
+    
+    -- Update head dot position
+    headDot.Position = UDim2.new(0, screenPosition.X, 0, screenPosition.Y)
+    
+    -- Apply colors
+    if ESP.RainbowMode then
+        local hue = tick() % 10 / 10
+        headDot.BackgroundColor3 = Color3.fromHSV(hue, 1, 1)
+    elseif ESP.UseTeamColors and player.Team then
+        headDot.BackgroundColor3 = player.TeamColor.Color
+    elseif ESP.HighlightTarget and player == TargetPlayer then
+        headDot.BackgroundColor3 = ESP.TargetColor
+    else
+        headDot.BackgroundColor3 = ESP.BoxColor
+    end
+    
+    headDot.Visible = true
+end
+
+-- Update skeleton
+local function updateSkeleton(player, skeleton)
+    if not ESP.ShowSkeleton then
+        skeleton.Visible = false
+        return
+    end
+    
+    -- Clear existing lines
+    for _, child in ipairs(skeleton:GetChildren()) do
+        child:Destroy()
+    end
+    
+    local character = player.Character
+    if not character then return end
+    
+    local humanoid = character:FindFirstChild("Humanoid")
+    if not humanoid or humanoid.Health <= 0 then return end
+    
+    -- Bone connections to draw
+    local bones = {
+        -- Head to Torso
+        {part1 = "Head", part2 = "Torso"},
+        
+        -- Torso to Arms
+        {part1 = "Torso", part2 = "Left Arm"},
+        {part1 = "Torso", part2 = "Right Arm"},
+        
+        -- Torso to Legs
+        {part1 = "Torso", part2 = "Left Leg"},
+        {part1 = "Torso", part2 = "Right Leg"}
+    }
+    
+    -- Try to use R15 rig if possible
+    local r15Bones = {
+        -- Head to UpperTorso
+        {part1 = "Head", part2 = "UpperTorso"},
+        
+        -- UpperTorso to LowerTorso
+        {part1 = "UpperTorso", part2 = "LowerTorso"},
+        
+        -- UpperTorso to Arms
+        {part1 = "UpperTorso", part2 = "LeftUpperArm"},
+        {part1 = "LeftUpperArm", part2 = "LeftLowerArm"},
+        {part1 = "LeftLowerArm", part2 = "LeftHand"},
+        
+        {part1 = "UpperTorso", part2 = "RightUpperArm"},
+        {part1 = "RightUpperArm", part2 = "RightLowerArm"},
+        {part1 = "RightLowerArm", part2 = "RightHand"},
+        
+        -- LowerTorso to Legs
+        {part1 = "LowerTorso", part2 = "LeftUpperLeg"},
+        {part1 = "LeftUpperLeg", part2 = "LeftLowerLeg"},
+        {part1 = "LeftLowerLeg", part2 = "LeftFoot"},
+        
+        {part1 = "LowerTorso", part2 = "RightUpperLeg"},
+        {part1 = "RightUpperLeg", part2 = "RightLowerLeg"},
+        {part1 = "RightLowerLeg", part2 = "RightFoot"}
+    }
+    
+    -- Determine if character is R15 or R6
+    local isR15 = character:FindFirstChild("UpperTorso") ~= nil
+    local connections = isR15 and r15Bones or bones
+    
+    -- Create lines for each bone connection
+    for _, bone in ipairs(connections) do
+        local part1 = character:FindFirstChild(bone.part1)
+        local part2 = character:FindFirstChild(bone.part2)
+        
+        if part1 and part2 then
+            -- Convert positions to screen space
+            local pos1 = Camera:WorldToScreenPoint(part1.Position)
+            local pos2 = Camera:WorldToScreenPoint(part2.Position)
+            
+            -- Skip if behind camera
+            if pos1.Z < 0 or pos2.Z < 0 then
+                continue
+            end
+            
+            -- Calculate line properties
+            local dx = pos2.X - pos1.X
+            local dy = pos2.Y - pos1.Y
+            local angle = math.atan2(dy, dx)
+            local length = math.sqrt(dx * dx + dy * dy)
+            
+            -- Create line
+            local line = Instance.new("Frame")
+            line.Name = bone.part1 .. "_" .. bone.part2
+            line.BorderSizePixel = 0
+            line.BackgroundColor3 = ESP.RainbowMode and Color3.fromHSV(tick() % 10 / 10, 1, 1) or ESP.BoxColor
+            line.BackgroundTransparency = ESP.BoxTransparency
+            line.Size = UDim2.new(0, length, 0, ESP.BoxThickness)
+            line.Position = UDim2.new(0, pos1.X, 0, pos1.Y)
+            line.Rotation = math.deg(angle)
+            line.AnchorPoint = Vector2.new(0, 0.5)
+            line.ZIndex = ESP.AlwaysOnTop and 10 or 1
+            line.Parent = skeleton
+        end
+    end
+}
+
+-- Get bounding box for a character
+local function getBoundingBox(character, predict, predictionAmount)
+    if not character then return nil end
+    
+    local hrp = character:FindFirstChild("HumanoidRootPart")
+    if not hrp then return nil end
+    
+    -- Get character position
+    local position = hrp.Position
+    
+    -- Apply prediction if enabled
+    if predict and predictionAmount then
+        local velocity = hrp.Velocity
+        position = position + (velocity * predictionAmount)
+    end
+    
+    -- Get character size
+    local size
+    local humanoid = character:FindFirstChild("Humanoid")
+    if humanoid then
+        -- Try to get accurate size based on character type
+        if character:FindFirstChild("UpperTorso") then
+            -- R15 character
+            size = Vector3.new(2, 5, 1)
+        else
+            -- R6 character
+            size = Vector3.new(4, 5, 1)
+        end
+    else
+        -- Fallback size
+        size = Vector3.new(4, 5, 1)
+    end
+    
+    local cf = CFrame.new(position)
+    
+    -- Calculate corners
+    local corners = {
+        cf * CFrame.new(size.X/2, size.Y/2, 0).Position,
+        cf * CFrame.new(-size.X/2, size.Y/2, 0).Position,
+        cf * CFrame.new(-size.X/2, -size.Y/2, 0).Position,
+        cf * CFrame.new(size.X/2, -size.Y/2, 0).Position
+    }
+    
+    return corners
+end
+
+-- Check if a player is visible from a given position
+local function isVisible(character, fromPosition)
+    if not character then return false end
+    
+    local head = character:FindFirstChild("Head")
+    if not head then return false end
+    
+    -- Cast ray from camera to head
+    local direction = (head.Position - fromPosition).Unit
+    local raycastParams = RaycastParams.new()
+    raycastParams.FilterType = Enum.RaycastFilterType.Blacklist
+    raycastParams.FilterDescendantsInstances = {character, Camera}
+    
+    local raycastResult = workspace:Raycast(fromPosition, direction * 1000, raycastParams)
+    
+    -- If nothing hit, or hit part is part of character, then visible
+    return raycastResult == nil or (raycastResult.Instance:IsDescendantOf(character))
+end
+
+-- Main ESP update function
+local function updateESP()
+    if not ESP.Enabled then
+        -- Skip all processing if ESP is disabled
+        return
+    end
+    
+    Diagnostics.DrawCalls = 0
+    
+    -- Update ESP elements for each player
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer and ESP.ShowPlayers then
+            -- Update ESP box
+            local box = ESPObjects[player]
+            if box then
+                local success = updateESPBox(player, box)
+                Diagnostics.DrawCalls = Diagnostics.DrawCalls + 1
+                
+                if success then
+                    -- Only update other elements if ESP box update was successful
+                    
+                    -- Update tracer
+                    local tracer = TracerObjects[player]
+                    if tracer then
+                        updateTracer(player, tracer)
+                        Diagnostics.DrawCalls = Diagnostics.DrawCalls + 1
+                    end
+                    
+                    -- Update head dot
+                    local headDot = HeadDotObjects[player]
+                    if headDot then
+                        updateHeadDot(player, headDot)
+                        Diagnostics.DrawCalls = Diagnostics.DrawCalls + 1
+                    end
+                    
+                    -- Update skeleton
+                    local skeleton = SkeletonObjects[player]
+                    if skeleton then
+                        updateSkeleton(player, skeleton)
+                        Diagnostics.DrawCalls = Diagnostics.DrawCalls + 1
+                    end
+                    
+                    -- Update chams - this is handled automatically by the Highlight object
+                end
+            else
+                -- Create box if missing
+                createESPBox(player)
+                
+                if ESP.ShowTracers and not TracerObjects[player] then
+                    createTracer(player)
+                end
+                
+                if ESP.ShowHeadDot and not HeadDotObjects[player] then
+                    createHeadDot(player)
+                end
+                
+                if ESP.ShowSkeleton and not SkeletonObjects[player] then
+                    createSkeleton(player)
+                end
+                
+                if ESP.ShowChams and not ChamsObjects[player] then
+                    createChams(player)
+                end
+            end
+        end
+    end
+    
+    -- Status checks if enabled
+    if ESP.StatusChecks then
+        -- Check if too many objects
+        if Diagnostics.DrawCalls > 200 then
+            logError("PerformanceWarning", "High number of draw calls: " .. Diagnostics.DrawCalls, false)
+        end
+        
+        -- Check if FPS is too low
+        local currentFPS = getAverageFPS()
+        if currentFPS < 30 and currentFPS > 0 then
+            logError("PerformanceError", "Low FPS: " .. currentFPS, true)
+        end
+    end
+end
+
+-- Toggle ESP on/off
+local function toggleESP()
+    ESP.Enabled = not ESP.Enabled
+    
+    -- Update visibility of all ESP objects
+    for _, box in pairs(ESPObjects) do
+        box.Visible = ESP.Enabled
+    end
+    
+    for _, tracer in pairs(TracerObjects) do
+        tracer.Visible = ESP.Enabled and ESP.ShowTracers
+    end
+    
+    for _, headDot in pairs(HeadDotObjects) do
+        headDot.Visible = ESP.Enabled and ESP.ShowHeadDot
+    end
+    
+    for _, skeleton in pairs(SkeletonObjects) do
+        skeleton.Visible = ESP.Enabled and ESP.ShowSkeleton
+    end
+    
+    for _, chams in pairs(ChamsObjects) do
+        if typeof(chams) == "Instance" then
+            if chams:IsA("Highlight") then
+                chams.Enabled = ESP.Enabled and ESP.ShowChams
+            else
+                chams.Visible = ESP.Enabled and ESP.ShowChams
+            end
+        end
+    end
+    
+    -- Create notification
+    createNotification("ESP " .. (ESP.Enabled and "Enabled" or "Disabled"), 
+        ESP.Enabled and "ESP is now active" or "ESP has been turned off",
+        ESP.Enabled and Color3.fromRGB(100, 255, 100) or Color3.fromRGB(255, 100, 100))
+}
+
+-- Initialize the ESP system
+local function init()
+    createESPGui()
+    connectEvents()
+    
+    -- Create ESP objects for existing players
+    for _, player in pairs(Players:GetPlayers()) do
+        if player ~= LocalPlayer then
+            task.delay(0.1 * math.random(), function() -- Stagger creation to avoid lag spike
+                createESPBox(player)
+                
+                if ESP.ShowChams then
+                    createChams(player)
+                end
+                
+                if ESP.ShowTracers then
+                    createTracer(player)
+                end
+                
+                if ESP.ShowHeadDot then
+                    createHeadDot(player)
+                end
+                
+                if ESP.ShowSkeleton then
+                    createSkeleton(player)
+                end
+            end)
+        end
+    end
+    
+    -- Create notification
+    task.delay(1, function()
+        createNotification("ESP System Loaded", 
+            "Press F4 to toggle ESP\nPress F5 for diagnostics", 
+            Color3.fromRGB(100, 200, 255))
+    end)
+}
+
+-- Initialize
+init()
+
+-- Return API
+return {
+    ToggleESP = toggleESP,
+    ResetESP = resetESP,
+    ToggleDiagnostics = toggleDiagnostics,
+    RunSelfTest = runSelfTest,
+    GetSettings = function() return ESP end,
+    SetSettings = function(settings)
+        for key, value in pairs(settings) do
+            ESP[key] = value
+        end
+        updateSettingsUI()
+    end,
+    OptimizePerformance = optimizePerformance,
+    SetTarget = function(player) 
+        TargetPlayer = player
+    end,
+    RefreshESP = refreshAllESP
+}
